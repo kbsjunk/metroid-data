@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+  <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+  <meta osm_base="2013-07-28T05__27__02Z"/>
+
+  <node id="27607031" lat="41.8674039" lon="-87.6265840">
+    <name>Roosevelt</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="27607230" lat="41.8042948" lon="-87.7043619">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="27607237" lat="41.7998339" lon="-87.7244782">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="27607246" lat="41.7867097" lon="-87.7379093">
+    <name>Midway</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="27607248" lat="41.8046228" lon="-87.6843783">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="34877681" lat="41.9613943" lon="-87.7435801">
+    <name>Montrose</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="34877711" lat="41.9159812" lon="-87.6870645">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="111045292" lat="41.9835097" lon="-87.8594025">
+    <name>Rosemont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="249656713" lat="42.0642009" lon="-87.6858278">
+    <name>Central</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="249656719" lat="42.0583133" lon="-87.6834228">
+    <name>Noyes</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="249656722" lat="42.0540702" lon="-87.6836259">
+    <name>Foster</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="249656728" lat="42.0478722" lon="-87.6836732">
+    <name>Davis</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="249656734" lat="42.0416441" lon="-87.6817101">
+    <name>Dempster</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="249656743" lat="42.0275315" lon="-87.6784058">
+    <name>South Boulevard</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="252163044" lat="42.0332833" lon="-87.6796413">
+    <name>Main</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="252643581" lat="42.0080864" lon="-87.6659686">
+    <addr__housenumber>1358</addr__housenumber>
+    <addr__street>West Morse Avenue</addr__street>
+    <addr__street__name>Morse</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <name>Morse</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="252643632" lat="41.9538873" lon="-87.6549280">
+    <addr__housenumber>3940</addr__housenumber>
+    <addr__street>North Sheridan Road</addr__street>
+    <addr__street__name>Sheridan</addr__street__name>
+    <addr__street__prefix>North</addr__street__prefix>
+    <addr__street__type>Road</addr__street__type>
+    <chicago__building_id>843356</chicago__building_id>
+    <name>Sheridan</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="252683058" lat="41.9475198" lon="-87.6536271">
+    <addr__housenumber>940</addr__housenumber>
+    <addr__street>West Addison Street</addr__street>
+    <chicago__building_id>174133</chicago__building_id>
+    <name>Addison</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="252683107" lat="41.9438051" lon="-87.6635877">
+    <name>Southport</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="252683109" lat="41.9436888" lon="-87.6708187">
+    <name>Paulina</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="252683118" lat="41.9470516" lon="-87.6747689">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="252683125" lat="41.9543527" lon="-87.6749697">
+    <name>Irving Park</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="252683129" lat="41.9616741" lon="-87.6751532">
+    <name>Montrose</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="252683138" lat="41.9663859" lon="-87.6788409">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="252683142" lat="41.9662349" lon="-87.6884482">
+    <name>Western</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="252683157" lat="41.9681050" lon="-87.7131917">
+    <name>Kimball</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="256475054" lat="41.7807828" lon="-87.6309446">
+    <name>63rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="256475078" lat="41.7683513" lon="-87.6257568">
+    <name>69th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="256475095" lat="41.7223792" lon="-87.6243302">
+    <name>95th/Dan Ryan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258026018" lat="41.8708556" lon="-87.7767972">
+    <name>Austin</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258026027" lat="41.8735067" lon="-87.8068733">
+    <name>Harlem</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258026049" lat="41.8754740" lon="-87.6496755">
+    <name>UIC-Halsted</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258026055" lat="41.8758843" lon="-87.6593253">
+    <addr__housenumber>430</addr__housenumber>
+    <addr__street>South Racine Avenue</addr__street>
+    <addr__street__name>Racine</addr__street__name>
+    <addr__street__prefix>South</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>363198</chicago__building_id>
+    <name>Racine</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="258026066" lat="41.8755572" lon="-87.6882477">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258026083" lat="41.8739055" lon="-87.7277464">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258278032" lat="41.8756545" lon="-87.6731273">
+    <name>Illinois Medical District</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258281897" lat="41.8755403" lon="-87.6410331">
+    <name>Clinton</name>
+    <note>location is a guess</note>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>1</platforms>
+    <railway>station</railway>
+  </node>
+  <node id="258281908" lat="41.8911909" lon="-87.6476212">
+    <name>Grand</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="258284110" lat="41.9392784" lon="-87.7124921">
+    <name>Belmont</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="258284111" lat="41.9294116" lon="-87.7079610">
+    <name>Logan Square</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258294724" lat="41.8745392" lon="-87.6275988">
+    <name>Harrison</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="258296349" lat="41.8857506" lon="-87.6278662">
+    <name>State/Lake</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="258296350" lat="41.8916848" lon="-87.6280655">
+    <alt_name>Grand/State</alt_name>
+    <name>Grand</name>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>2</platforms>
+    <railway>station</railway>
+  </node>
+  <node id="258296742" lat="41.8782140" lon="-87.6276900">
+    <name>Jackson</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258296743" lat="41.8807490" lon="-87.6277467">
+    <name>Monroe</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="258940066" lat="41.8857413" lon="-87.6310331">
+    <name>Clark/Lake</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+  </node>
+  <node id="258942193" lat="41.8857166" lon="-87.6419195">
+    <name>Clinton</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258942196" lat="41.8853293" lon="-87.6669895">
+    <name>Ashland</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="258944238" lat="41.8519551" lon="-87.7456115">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944287" lat="41.8713894" lon="-87.6696006">
+    <name>Polk</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <train>no</train>
+  </node>
+  <node id="258944288" lat="41.8579583" lon="-87.6692149">
+    <name>18th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944298" lat="41.8545357" lon="-87.6768018">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944299" lat="41.8544243" lon="-87.6849056">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944300" lat="41.8543425" lon="-87.6947311">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944303" lat="41.8541965" lon="-87.7057414">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944305" lat="41.8540500" lon="-87.7151395">
+    <name>Central Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258944306" lat="41.8539231" lon="-87.7241161">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945067" lat="41.8873895" lon="-87.7655366">
+    <name>Central</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945068" lat="41.8872742" lon="-87.7743361">
+    <name>Austin</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945069" lat="41.8871561" lon="-87.7837052">
+    <name>Ridgeland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945070" lat="41.8869987" lon="-87.7937877">
+    <name>Oak Park</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945073" lat="41.8868333" lon="-87.8040141">
+    <name>Harlem/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945081" lat="41.8842160" lon="-87.6966769">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945084" lat="41.8843305" lon="-87.7062417">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945087" lat="41.8854662" lon="-87.7264647">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258945097" lat="41.8871327" lon="-87.7548856">
+    <name>Laramie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258963130" lat="41.8091361" lon="-87.6188816">
+    <name>47th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="258963136" lat="41.8024076" lon="-87.6185614">
+    <name>51st</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="259749423" lat="41.8312899" lon="-87.6258603">
+    <name>35th-Bronzeville-IIT</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="263826095" lat="41.9842655" lon="-87.8378568">
+    <name>Cumberland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="266656859" lat="41.9706132" lon="-87.7609173">
+    <name>Jefferson Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="266803588" lat="41.9822924" lon="-87.8088690">
+    <name>Harlem</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="289820702" lat="41.8832106" lon="-87.6294066">
+    <name>Washington</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="289821002" lat="41.8807263" lon="-87.6293798">
+    <name>Monroe</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="289821023" lat="41.8781741" lon="-87.6292886">
+    <name>Jackson</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="306084356" lat="41.9533183" lon="-87.7299141">
+    <name>Irving Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="386342904" lat="41.9836120" lon="-87.8594040">
+    <name>Rosemont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="387573439" lat="41.7501051" lon="-87.6251232">
+    <name>79th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="389153234" lat="41.9733904" lon="-87.6586083">
+    <name>Argyle</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="389153439" lat="41.9780136" lon="-87.6587355">
+    <name>Berwyn</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="389154822" lat="42.0190790" lon="-87.6729453">
+    <addr__housenumber>1649</addr__housenumber>
+    <addr__street>West Howard Street</addr__street>
+    <addr__street__name>Howard</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <building>yes</building>
+    <chicago__building_id>843365</chicago__building_id>
+    <name>Howard</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>4</platforms>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="446246054" lat="41.9253176" lon="-87.6528133">
+    <highway>bus_stop</highway>
+    <name>Fullerton CTA Station</name>
+  </node>
+  <node id="497436468" lat="41.8865118" lon="-87.7445596">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="497437065" lat="41.8849249" lon="-87.7165844">
+    <name>Conservatory-Central Park Drive</name>
+    <public_transport>stop_position</public_transport>
+    <short_name>Conservatory</short_name>
+    <subway>yes</subway>
+  </node>
+  <node id="705736885" lat="41.8293770" lon="-87.6807161">
+    <name>35th/Archer</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="706929554" lat="41.7790375" lon="-87.6445259">
+    <addr__city>Chicago</addr__city>
+    <addr__housenumber>6321</addr__housenumber>
+    <addr__postcode>60621</addr__postcode>
+    <addr__street>South Halsted Street</addr__street>
+    <name>Halsted</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <website>http__//www.transitchicago.com/travel_information/station.aspx?StopId=65</website>
+    <wheelchair>yes</wheelchair>
+    <wikipedia>en__Halsted %28CTA Green Line station%29</wikipedia>
+  </node>
+  <node id="706931172" lat="41.7802301" lon="-87.6155718">
+    <addr__city>Chicago</addr__city>
+    <addr__housenumber>400</addr__housenumber>
+    <addr__postcode>60621</addr__postcode>
+    <addr__street>East 63rd Street</addr__street>
+    <name>King Drive</name>
+    <old_name>South Park Avenue</old_name>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>2</platforms>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706931173" lat="41.7804181" lon="-87.6059212">
+    <addr__city>Chicago</addr__city>
+    <addr__housenumber>800</addr__housenumber>
+    <addr__postcode>60637</addr__postcode>
+    <addr__street>East 63rd Street</addr__street>
+    <addr__street__name>63rd</addr__street__name>
+    <addr__street__prefix>East</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>528529</chicago__building_id>
+    <name>Cottage Grove</name>
+    <old_name>Cottage Grove-East 63rd</old_name>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>2</platforms>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706934716" lat="41.8019477" lon="-87.6185270">
+    <name>51st</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706934717" lat="41.8094711" lon="-87.6188637">
+    <name>47th</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706934718" lat="41.8167170" lon="-87.6190647">
+    <name>43rd</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706934719" lat="41.8217995" lon="-87.6215478">
+    <name>Indiana</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="706934720" lat="41.7949200" lon="-87.6183394">
+    <name>Garfield</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="734512775" lat="41.9689268" lon="-87.6584393">
+    <addr__housenumber>1117</addr__housenumber>
+    <addr__street>West Lawrence Avenue</addr__street>
+    <name>Lawrence</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="734513338" lat="41.9654449" lon="-87.6580352">
+    <name>Wilson</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="734563511" lat="41.9475141" lon="-87.6535768">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="734565285" lat="41.9475096" lon="-87.6536759">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="734816046" lat="42.0269955" lon="-87.7476043">
+    <name>Oakton-Skokie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="734816084" lat="42.0270193" lon="-87.7474692">
+    <name>Oakton-Skokie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="734816101" lat="42.0390612" lon="-87.7520319">
+    <name>Dempster-Skokie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736014788" lat="41.8759187" lon="-87.6593980">
+    <name>Racine</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736014811" lat="41.8756161" lon="-87.6731030">
+    <name>Illinois Medical District</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736017165" lat="41.8755027" lon="-87.6496406">
+    <name>UIC-Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736035818" lat="41.8962088" lon="-87.6553089">
+    <name>Chicago</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="736035820" lat="41.9035623" lon="-87.6671796">
+    <name>Division</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736035840" lat="41.9098778" lon="-87.6776609">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736638456" lat="41.8855781" lon="-87.6516968">
+    <name>Morgan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736638542" lat="41.8856995" lon="-87.6418207">
+    <name>Clinton</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736639177" lat="41.8856156" lon="-87.6516963">
+    <name>Morgan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736639292" lat="41.8853559" lon="-87.6664823">
+    <name>Ashland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736686420" lat="41.8768434" lon="-87.6313616">
+    <name>La Salle/Van Buren</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736686433" lat="41.8768738" lon="-87.6288643">
+    <name>Harold Washington Library-State/Van Buren</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736686706" lat="41.8769082" lon="-87.6288739">
+    <name>Harold Washington Library-State/Van Buren</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="736686728" lat="41.8768793" lon="-87.6313624">
+    <name>La Salle/Van Buren</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="737746092" lat="41.8715950" lon="-87.7471626">
+    <name>Cicero</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="737746111" lat="41.8720933" lon="-87.7915719">
+    <name>Oak Park</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="737746125" lat="41.8735373" lon="-87.8068739">
+    <name>Harlem</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="737746140" lat="41.8742578" lon="-87.8165656">
+    <name>Forest Park</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="737746214" lat="41.8708860" lon="-87.7767916">
+    <name>Austin</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="738165289" lat="41.8469432" lon="-87.6481637">
+    <name>Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="738165401" lat="41.8394284" lon="-87.6652673">
+    <name>Ashland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="738195900" lat="42.0729272" lon="-87.6905471">
+    <name>Linden</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="738195922" lat="42.0640851" lon="-87.6857199">
+    <name>Central</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="739322024" lat="41.9179663" lon="-87.6525612">
+    <name>Armitage</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="739322025" lat="41.9179625" lon="-87.6526772">
+    <name>Armitage</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="739322281" lat="41.9364047" lon="-87.6533176">
+    <name>Wellington</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="739322583" lat="41.9364079" lon="-87.6532011">
+    <name>Wellington</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="822488827" lat="42.0013525" lon="-87.6613062">
+    <addr__housenumber>1200</addr__housenumber>
+    <addr__street>West Loyola Avenue</addr__street>
+    <addr__street__name>Loyola</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>19044</chicago__building_id>
+    <name>Loyola</name>
+    <old_name>Hayes Avenue</old_name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="853530314" lat="41.8756111" lon="-87.6316462">
+    <name>LaSalle</name>
+    <note>location is a guess</note>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="924678447" lat="41.8959778" lon="-87.6356699">
+    <name>Chicago</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1130096180" lat="41.9221873" lon="-87.6971950">
+    <name>California</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="1210043924" lat="41.7867084" lon="-87.7380395">
+    <name>Midway</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280853416" lat="41.8754899" lon="-87.6882465">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280853459" lat="41.8741208" lon="-87.7083099">
+    <name>Kedzie-Homan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280923905" lat="41.8540914" lon="-87.7057384">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280939559" lat="41.8044027" lon="-87.7043672">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280939573" lat="41.7999163" lon="-87.7245602">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1280962822" lat="41.9681057" lon="-87.7131269">
+    <name>Kimball</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1282296206" lat="41.9533578" lon="-87.7298271">
+    <name>Irving Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1282296292" lat="41.9221445" lon="-87.6970834">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1282296301" lat="41.9614388" lon="-87.7435194">
+    <name>Montrose</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1282296369" lat="41.9220155" lon="-87.6969301">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1283483516" lat="41.8091370" lon="-87.6188377">
+    <name>47th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1283483584" lat="41.8024089" lon="-87.6185167">
+    <name>51st</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1283483703" lat="41.8324973" lon="-87.6258428">
+    <name>35th-Bronzeville-IIT</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1291113573" lat="41.9616755" lon="-87.6751167">
+    <name>Montrose</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1291113642" lat="41.9543516" lon="-87.6749332">
+    <name>Irving Park</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1291113644" lat="41.9438338" lon="-87.6635890">
+    <name>Southport</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1291153198" lat="41.7803778" lon="-87.6059718">
+    <name>Cottage Grove</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1291153392" lat="41.7790576" lon="-87.6437762">
+    <name>Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1387760742" lat="41.9662982" lon="-87.6885178">
+    <name>Western</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1407580199" lat="41.8786831" lon="-87.6294377">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="1407580202" lat="41.8786877" lon="-87.6291797">
+    <railway>subway_entrance</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1432726747" lat="41.9661285" lon="-87.7095589">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1432726753" lat="41.9660603" lon="-87.7095588">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1432732157" lat="41.9661187" lon="-87.7022132">
+    <name>Francisco</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1432732160" lat="41.9661881" lon="-87.7022105">
+    <name>Francisco</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1432737872" lat="41.9661798" lon="-87.6948948">
+    <name>Rockwell</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1432737882" lat="41.9662459" lon="-87.6948948">
+    <name>Rockwell</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1434382175" lat="41.8965914" lon="-87.6278197">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="1434382176" lat="41.8967669" lon="-87.6278894">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="1435427479" lat="41.9470501" lon="-87.6747262">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1435427483" lat="41.9664153" lon="-87.6788433">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1435427486" lat="41.9437163" lon="-87.6708193">
+    <name>Paulina</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1699464673" lat="41.9035649" lon="-87.6672973">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="1711801524" lat="41.9652351" lon="-87.6790753">
+    <bus>yes</bus>
+    <name>Wilson</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1711801525" lat="41.9613081" lon="-87.6788392">
+    <bench>yes</bench>
+    <bus>yes</bus>
+    <highway>bus_stop</highway>
+    <name>Montrose</name>
+    <public_transport>platform</public_transport>
+  </node>
+  <node id="1711801527" lat="41.9615913" lon="-87.6789475">
+    <bus>yes</bus>
+    <name>Montrose</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1711801528" lat="41.9615804" lon="-87.6790941">
+    <bench>yes</bench>
+    <bus>yes</bus>
+    <highway>bus_stop</highway>
+    <name>Montrose</name>
+    <public_transport>platform</public_transport>
+    <shelter>yes</shelter>
+  </node>
+  <node id="1711801529" lat="41.9652340" lon="-87.6791839">
+    <highway>bus_stop</highway>
+    <name>Wilson</name>
+    <public_transport>platform</public_transport>
+  </node>
+  <node id="1711801531" lat="41.9613061" lon="-87.6789397">
+    <bus>yes</bus>
+    <name>Montrose</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1711801532" lat="41.9649409" lon="-87.6789412">
+    <bench>yes</bench>
+    <highway>bus_stop</highway>
+    <name>Wilson</name>
+    <public_transport>platform</public_transport>
+    <shelter>yes</shelter>
+  </node>
+  <node id="1711801533" lat="41.9649379" lon="-87.6790655">
+    <bus>yes</bus>
+    <name>Wilson</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1719756450" lat="41.9613780" lon="-87.6791461">
+    <bench>yes</bench>
+    <bus>yes</bus>
+    <highway>bus_stop</highway>
+    <name>Damen</name>
+    <public_transport>platform</public_transport>
+  </node>
+  <node id="1719756454" lat="41.9615495" lon="-87.6787652">
+    <bench>yes</bench>
+    <bus>yes</bus>
+    <highway>bus_stop</highway>
+    <name>Damen</name>
+    <public_transport>platform</public_transport>
+  </node>
+  <node id="1722519075" lat="41.8673677" lon="-87.6274024">
+    <name>Roosevelt</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1756701028" lat="41.9614589" lon="-87.6791536">
+    <bus>yes</bus>
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1756701031" lat="41.9614631" lon="-87.6787525">
+    <bus>yes</bus>
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+  </node>
+  <node id="1762400891" lat="41.8855919" lon="-87.6519276">
+    <addr__country>US</addr__country>
+    <addr__postcode>60612</addr__postcode>
+    <addr__state>IL</addr__state>
+    <addr__street>West Lake Street</addr__street>
+    <description>Morgan green line L Stop</description>
+    <name>Morgan</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="1894018275" lat="41.8853759" lon="-87.6278244">
+    <alt_name>Lake/Randolph</alt_name>
+    <name>Lake</name>
+    <old_name>Lake/Washington</old_name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <source>Chicago Transit Authority</source>
+  </node>
+  <node id="1894033187" lat="41.8966529" lon="-87.6281533">
+    <alt_name>Chicago/State</alt_name>
+    <name>Chicago</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+  </node>
+  <node id="1894033196" lat="41.9039183" lon="-87.6314538">
+    <name>Clark/Division</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="1925444958" lat="41.8873412" lon="-87.7743418">
+    <name>Austin</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1925444961" lat="41.8842746" lon="-87.6966847">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1925444985" lat="41.8849809" lon="-87.7165786">
+    <name>Conservatory-Central Park Drive</name>
+    <public_transport>stop_position</public_transport>
+    <short_name>Conservatory</short_name>
+    <subway>yes</subway>
+  </node>
+  <node id="1925445017" lat="41.8855228" lon="-87.7264585">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1925445038" lat="41.8872150" lon="-87.7837120">
+    <name>Ridgeland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="1925445043" lat="41.8870795" lon="-87.7938062">
+    <name>Oak Park</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2004713101" lat="41.9325654" lon="-87.6530619">
+    <name>Diversey</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2004713106" lat="41.9325653" lon="-87.6531787">
+    <name>Diversey</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2012549082" lat="41.9251544" lon="-87.6529499">
+    <name>Fullerton</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2012549083" lat="41.9251623" lon="-87.6526770">
+    <name>Fullerton</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2012780408" lat="41.9104137" lon="-87.6388572">
+    <name>Sedgwick</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2012780433" lat="41.9103861" lon="-87.6388509">
+    <name>Sedgwick</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2012967763" lat="41.8959762" lon="-87.6357061">
+    <name>Chicago</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2012979483" lat="41.8888791" lon="-87.6340254">
+    <name>Merchandise Mart</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2012979495" lat="41.8888778" lon="-87.6339720">
+    <name>Merchandise Mart</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2013902273" lat="41.8826041" lon="-87.6338197">
+    <name>Washington/Wells</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2013902280" lat="41.8826041" lon="-87.6338675">
+    <name>Washington/Wells</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014092150" lat="41.8787679" lon="-87.6337641">
+    <name>Quincy</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014092173" lat="41.8787698" lon="-87.6337233">
+    <name>Quincy</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014100269" lat="41.9398463" lon="-87.6534720">
+    <name>Belmont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014100270" lat="41.9398482" lon="-87.6531811">
+    <name>Belmont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014360932" lat="41.8796810" lon="-87.6260932">
+    <name>Adams/Wabash</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2014360953" lat="41.8795483" lon="-87.6261373">
+    <name>Adams/Wabash</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015319455" lat="41.8821547" lon="-87.6261580">
+    <name>Madison/Wabash</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015319463" lat="41.8821547" lon="-87.6262064">
+    <name>Madison/Wabash</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015331915" lat="41.8845200" lon="-87.6262224">
+    <name>Randolph/Wabash</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015331925" lat="41.8845181" lon="-87.6262686">
+    <name>Randolph/Wabash</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015341021" lat="41.8857699" lon="-87.6279578">
+    <name>State/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015341023" lat="41.8857386" lon="-87.6279607">
+    <name>State/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015352819" lat="41.8857225" lon="-87.6313602">
+    <name>Clark/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2015352823" lat="41.8857555" lon="-87.6313575">
+    <name>Clark/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2016950589" lat="41.8047247" lon="-87.6843671">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2016969839" lat="41.8294464" lon="-87.6807841">
+    <name>35th/Archer</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2016975924" lat="41.8393416" lon="-87.6651967">
+    <name>Ashland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2016981818" lat="41.8468682" lon="-87.6480889">
+    <name>Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2017008343" lat="41.8674004" lon="-87.6267070">
+    <name>Roosevelt</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2017008349" lat="41.8674066" lon="-87.6266435">
+    <addr__housenumber>22</addr__housenumber>
+    <addr__street>East Roosevelt Road</addr__street>
+    <addr__street__name>Roosevelt</addr__street__name>
+    <addr__street__prefix>East</addr__street__prefix>
+    <addr__street__type>Road</addr__street__type>
+    <chicago__building_id>843349</chicago__building_id>
+    <name>Roosevelt</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2022110661" lat="41.9538759" lon="-87.6552415">
+    <name>Sheridan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022110663" lat="41.9539066" lon="-87.6552428">
+    <name>Sheridan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022128333" lat="41.9654616" lon="-87.6579274">
+    <name>Wilson</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022136110" lat="41.9691162" lon="-87.6584883">
+    <name>Lawrence</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022136112" lat="41.9691172" lon="-87.6584115">
+    <name>Lawrence</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022160071" lat="41.9902270" lon="-87.6590938">
+    <name>Thorndale</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022160077" lat="42.0016185" lon="-87.6617860">
+    <name>Loyola</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022160093" lat="41.9937492" lon="-87.6592053">
+    <name>Granville</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022160099" lat="41.9780154" lon="-87.6586384">
+    <name>Berwyn</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2022160105" lat="41.9836945" lon="-87.6588010">
+    <name>Bryn Mawr</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023151049" lat="42.0191030" lon="-87.6729990">
+    <name>Howard</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023151055" lat="42.0190549" lon="-87.6730718">
+    <name>Howard</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023151056" lat="42.0191608" lon="-87.6728925">
+    <name>Howard</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023151067" lat="42.0191204" lon="-87.6729677">
+    <name>Howard</name>
+    <network>CTA</network>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023164151" lat="42.0158617" lon="-87.6691625">
+    <name>Jarvis</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023164153" lat="42.0159029" lon="-87.6690991">
+    <name>Jarvis</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023169768" lat="42.0082471" lon="-87.6660151">
+    <name>Morse</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023169775" lat="42.0082491" lon="-87.6659210">
+    <name>Morse</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023183660" lat="42.0006623" lon="-87.6604882">
+    <name>Loyola</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023183680" lat="41.9943851" lon="-87.6591827">
+    <addr__housenumber>1119</addr__housenumber>
+    <addr__street>West Granville Avenue</addr__street>
+    <addr__street__name>Granville</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>32237</chicago__building_id>
+    <name>Granville</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2023183682" lat="41.9937522" lon="-87.6591173">
+    <name>Granville</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023196493" lat="41.9902277" lon="-87.6590107">
+    <name>Thorndale</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023196501" lat="41.9901837" lon="-87.6590539">
+    <addr__housenumber>1118</addr__housenumber>
+    <addr__street>West Thorndale Avenue</addr__street>
+    <addr__street__name>Thorndale</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>41755</chicago__building_id>
+    <name>Thorndale</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023202874" lat="41.9836947" lon="-87.6588934">
+    <name>Bryn Mawr</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023202877" lat="41.9835208" lon="-87.6588407">
+    <addr__housenumber>1119</addr__housenumber>
+    <addr__street>West Bryn Mawr Avenue</addr__street>
+    <addr__street__name>Bryn Mawr</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>56313</chicago__building_id>
+    <name>Bryn Mawr</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023206637" lat="41.9780446" lon="-87.6586918">
+    <addr__housenumber>1121</addr__housenumber>
+    <addr__street>West Berwyn Avenue</addr__street>
+    <addr__street__name>Berwyn</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <chicago__building_id>69439</chicago__building_id>
+    <name>Berwyn</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023209946" lat="41.9733939" lon="-87.6585129">
+    <name>Argyle</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023209951" lat="41.9734115" lon="-87.6585658">
+    <addr__housenumber>1118</addr__housenumber>
+    <addr__street>West Argyle Street</addr__street>
+    <addr__street__name>Argyle</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>83315</chicago__building_id>
+    <name>Argyle</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023849144" lat="41.7506879" lon="-87.6251831">
+    <addr__housenumber>15</addr__housenumber>
+    <addr__street>West 79th Street</addr__street>
+    <addr__street__name>79th</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>614674</chicago__building_id>
+    <name>79th</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2023849151" lat="41.7354903" lon="-87.6248050">
+    <name>87th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023849157" lat="41.7501060" lon="-87.6252092">
+    <name>79th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023849163" lat="41.7354882" lon="-87.6247100">
+    <name>87th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023849165" lat="41.7223720" lon="-87.6244513">
+    <name>95th/Dan Ryan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023849177" lat="41.7360865" lon="-87.6247727">
+    <addr__housenumber>15</addr__housenumber>
+    <addr__street>West 87th Street</addr__street>
+    <addr__street__name>87th</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>667893</chicago__building_id>
+    <name>87th</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023880687" lat="41.7801129" lon="-87.6310004">
+    <addr__housenumber>220</addr__housenumber>
+    <addr__street>West 63rd Street</addr__street>
+    <addr__street__name>63rd</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <building__levels>2</building__levels>
+    <chicago__building_id>525764</chicago__building_id>
+    <name>63rd</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2023880724" lat="41.7807811" lon="-87.6310824">
+    <name>63rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023880729" lat="41.7683531" lon="-87.6258464">
+    <name>69th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023880736" lat="41.7689390" lon="-87.6258240">
+    <addr__housenumber>15</addr__housenumber>
+    <addr__street>West 69th Street</addr__street>
+    <addr__street__name>69th</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>566923</chicago__building_id>
+    <name>69th</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2023901720" lat="41.7954942" lon="-87.6311455">
+    <name>Garfield</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023901722" lat="41.7954895" lon="-87.6312583">
+    <name>Garfield</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023910816" lat="41.9398550" lon="-87.6533523">
+    <name>Belmont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023910817" lat="41.9398531" lon="-87.6533076">
+    <name>Belmont</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2023910818" lat="41.9251630" lon="-87.6528297">
+    <name>Fullerton</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2023910819" lat="41.9251629" lon="-87.6527880">
+    <name>Fullerton</name>
+    <network>CTA</network>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2025031200" lat="41.8102763" lon="-87.6311447">
+    <name>47th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025031213" lat="41.8102513" lon="-87.6310367">
+    <name>47th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025042652" lat="41.8321174" lon="-87.6306242">
+    <name>Sox-35th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025042654" lat="41.8321155" lon="-87.6307375">
+    <name>Sox-35th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025084473" lat="41.8530966" lon="-87.6309684">
+    <addr__housenumber>138</addr__housenumber>
+    <addr__street>West Cermak Road</addr__street>
+    <addr__street__name>Cermak</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Road</addr__street__type>
+    <chicago__building_id>382797</chicago__building_id>
+    <name>Cermak-Chinatown</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2025084475" lat="41.8536047" lon="-87.6311665">
+    <name>Cermak-Chinatown</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025084479" lat="41.8536255" lon="-87.6310540">
+    <name>Cermak-Chinatown</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2025105432" lat="41.8677831" lon="-87.6275569">
+    <name>Roosevelt</name>
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025105434" lat="41.8679831" lon="-87.6272590">
+    <entrance>yes</entrance>
+    <name>Roosevelt</name>
+    <railway>subway_entrance</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2025289437" lat="41.8799503" lon="-87.6292439">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289438" lat="41.8799532" lon="-87.6294218">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289439" lat="41.8826642" lon="-87.6293003">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289440" lat="41.8812144" lon="-87.6295149">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289441" lat="41.8801939" lon="-87.6294532">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289443" lat="41.8824567" lon="-87.6292982">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289444" lat="41.8812174" lon="-87.6292816">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289446" lat="41.8814541" lon="-87.6292869">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289448" lat="41.8824566" lon="-87.6295202">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289452" lat="41.8826622" lon="-87.6295202">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2025289453" lat="41.8801939" lon="-87.6292493">
+    <railway>subway_entrance</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2039052243" lat="41.9037463" lon="-87.6315529">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2039052248" lat="41.9037562" lon="-87.6313571">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2039052252" lat="41.9040737" lon="-87.6313571">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2039052256" lat="41.9040556" lon="-87.6315609">
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2039094535" lat="41.9108055" lon="-87.6493876">
+    <name>North/Clybourn</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2039152472" lat="41.7804357" lon="-87.6059729">
+    <name>Cottage Grove</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040075040" lat="41.7802058" lon="-87.6156434">
+    <name>King Drive</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040075099" lat="41.7802635" lon="-87.6156502">
+    <name>King Drive</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040102793" lat="41.7790258" lon="-87.6437839">
+    <name>Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040146203" lat="41.7789008" lon="-87.6641741">
+    <name>Ashland/63rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040146213" lat="41.7789959" lon="-87.6641820">
+    <name>Ashland/63rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040180352" lat="41.7953240" lon="-87.6183761">
+    <name>Garfield</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040180359" lat="41.7953240" lon="-87.6183326">
+    <name>Garfield</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040259424" lat="41.8163931" lon="-87.6190724">
+    <name>43rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040259452" lat="41.8163951" lon="-87.6190409">
+    <name>43rd</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040290139" lat="41.8218126" lon="-87.6218182">
+    <name>Indiana</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040290163" lat="41.8217811" lon="-87.6218155">
+    <name>Indiana</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2040304136" lat="41.8324931" lon="-87.6259365">
+    <name>35th-Bronzeville-IIT</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2042025605" lat="41.8857335" lon="-87.6418236">
+    <name>Clinton</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2042074138" lat="41.8853204" lon="-87.6664905">
+    <name>Ashland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2042183467" lat="41.8841659" lon="-87.6963553">
+    <name>California</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2042812605" lat="41.8842876" lon="-87.7062325">
+    <addr__housenumber>3200</addr__housenumber>
+    <addr__street>West Lake Street</addr__street>
+    <addr__street__name>Lake</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <name>Kedzie</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2042812612" lat="41.8843780" lon="-87.7062342">
+    <name>Kedzie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2042959694" lat="41.8849718" lon="-87.7168289">
+    <name>Conservatory-Central Park Drive</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <short_name>Conservatory</short_name>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2042977745" lat="41.8854867" lon="-87.7260970">
+    <chicago__building_id>353810</chicago__building_id>
+    <name>Pulaski</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+  <node id="2043012974" lat="41.8865739" lon="-87.7445565">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2043012982" lat="41.8865719" lon="-87.7451325">
+    <name>Cicero</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2043044673" lat="41.8871989" lon="-87.7548860">
+    <name>Laramie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2043044695" lat="41.8871960" lon="-87.7553223">
+    <addr__housenumber>5148</addr__housenumber>
+    <addr__street>West Lake Street</addr__street>
+    <addr__street__name>Lake</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Street</addr__street__type>
+    <chicago__building_id>352564</chicago__building_id>
+    <name>Laramie</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2043060916" lat="41.8874606" lon="-87.7655372">
+    <name>Central</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2044344262" lat="41.8869003" lon="-87.8040136">
+    <name>Harlem/Lake</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2051982638" lat="41.8756913" lon="-87.6731032">
+    <name>Illinois Medical District</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2052014671" lat="41.8720573" lon="-87.7915796">
+    <name>Oak Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2052014698" lat="41.8721184" lon="-87.7915710">
+    <name>Oak Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2052014720" lat="41.8735644" lon="-87.8068676">
+    <name>Harlem</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2052014846" lat="41.8709210" lon="-87.7767920">
+    <name>Austin</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2052893600" lat="42.0390506" lon="-87.7520818">
+    <name>Dempster-Skokie</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074783182" lat="41.8743159" lon="-87.8167424">
+    <name>Forest Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074783191" lat="41.8742227" lon="-87.8167546">
+    <name>Forest Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074824268" lat="41.8715606" lon="-87.7471622">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074824281" lat="41.8716215" lon="-87.7471674">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074842572" lat="41.8738548" lon="-87.7277387">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2074858671" lat="41.8741899" lon="-87.7082799">
+    <name>Kedzie-Homan</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123157" lat="41.8542461" lon="-87.6947251">
+    <name>California</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123162" lat="41.8539567" lon="-87.7151348">
+    <name>Central Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123166" lat="41.8518659" lon="-87.7456185">
+    <name>Cicero</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123172" lat="41.8519087" lon="-87.7455976">
+    <name>Cicero</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2080123175" lat="41.8544556" lon="-87.6767973">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123179" lat="41.8537101" lon="-87.7332011">
+    <name>Kostner</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123183" lat="41.8537861" lon="-87.7332035">
+    <name>Kostner</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123186" lat="41.8538164" lon="-87.7241117">
+    <name>Pulaski</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123190" lat="41.8543275" lon="-87.6848997">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123194" lat="41.8517700" lon="-87.7565827">
+    <name>54th/Cermak</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2080123199" lat="41.8518064" lon="-87.7578206">
+    <name>54th/Cermak</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080123201" lat="41.8518362" lon="-87.7553235">
+    <name>54th/Cermak</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080150458" lat="41.8713880" lon="-87.6695524">
+    <name>Polk</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+    <train>no</train>
+  </node>
+  <node id="2080150468" lat="41.8758553" lon="-87.6593974">
+    <name>Racine</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080150478" lat="41.8754375" lon="-87.6496389">
+    <name>UIC-Halsted</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2080150506" lat="41.8578877" lon="-87.6691951">
+    <name>18th</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2080150517" lat="41.8579569" lon="-87.6691763">
+    <name>18th</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088568846" lat="41.9781576" lon="-87.9026878">
+    <name>O'Hare</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2088568848" lat="41.9782578" lon="-87.9025453">
+    <name>O'Hare</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088568850" lat="41.9782867" lon="-87.9025919">
+    <name>O'Hare</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088605514" lat="41.9835628" lon="-87.8594097">
+    <name>Rosemont</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2088620947" lat="41.9842402" lon="-87.8390529">
+    <name>Cumberland</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2088620951" lat="41.9843437" lon="-87.8378638">
+    <name>Cumberland</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088630556" lat="41.9823272" lon="-87.8075041">
+    <name>Harlem</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2088630564" lat="41.9823731" lon="-87.8088664">
+    <name>Harlem</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088638856" lat="41.9706941" lon="-87.7608584">
+    <name>Jefferson Park</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088638857" lat="41.9707812" lon="-87.7612038">
+    <name>Jefferson Park</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2088645408" lat="41.9609517" lon="-87.7429977">
+    <name>Montrose</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2088653982" lat="41.9533451" lon="-87.7298824">
+    <name>Irving Park</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2088669205" lat="41.9471654" lon="-87.7189477">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2088669209" lat="41.9472035" lon="-87.7188686">
+    <name>Addison</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2090176565" lat="41.9098732" lon="-87.6776202">
+    <addr__housenumber>1588</addr__housenumber>
+    <addr__street>North Damen Avenue</addr__street>
+    <addr__street__name>Damen</addr__street__name>
+    <addr__street__prefix>North</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <building>yes</building>
+    <chicago__building_id>843432</chicago__building_id>
+    <name>Damen</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2090176575" lat="41.9098989" lon="-87.6776338">
+    <name>Damen</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2090182927" lat="41.9160063" lon="-87.6870338">
+    <name>Western</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2090182932" lat="41.9160135" lon="-87.6870816">
+    <name>Western</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2090194444" lat="41.8741481" lon="-87.7082811">
+    <name>Kedzie-Homan</name>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2090194452" lat="41.8738734" lon="-87.7277515">
+    <name>Pulaski</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2091737706" lat="42.0640589" lon="-87.6858136">
+    <name>Central</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2091743473" lat="42.0728968" lon="-87.6906557">
+    <name>Linden</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2091745257" lat="42.0584699" lon="-87.6834646">
+    <name>Noyes</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2091745258" lat="42.0583127" lon="-87.6835159">
+    <name>Noyes</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2091746898" lat="42.0539133" lon="-87.6836764">
+    <name>Foster</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2091746899" lat="42.0540697" lon="-87.6837135">
+    <name>Foster</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2092506200" lat="42.0478577" lon="-87.6835967">
+    <name>Davis</name>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>2</platforms>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>yes</wheelchair>
+  </node>
+  <node id="2092506201" lat="42.0478745" lon="-87.6837289">
+    <name>Davis</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2092510482" lat="42.0416373" lon="-87.6817569">
+    <name>Dempster</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2092514442" lat="42.0332776" lon="-87.6796906">
+    <name>Main</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2092525316" lat="42.0273939" lon="-87.6784193">
+    <name>South Boulevard</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2092525324" lat="42.0275279" lon="-87.6784836">
+    <name>South Boulevard</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2166578061" lat="42.0416559" lon="-87.6815713">
+    <name>Dempster</name>
+    <operator>Chicago Transit Authority</operator>
+    <platforms>2</platforms>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2166678698" lat="42.0160012" lon="-87.6692680">
+    <addr__housenumber>1523</addr__housenumber>
+    <addr__street>West Jarvis Avenue</addr__street>
+    <addr__street__name>Jarvis</addr__street__name>
+    <addr__street__prefix>West</addr__street__prefix>
+    <addr__street__type>Avenue</addr__street__type>
+    <name>Jarvis</name>
+    <operator>Chicago Transit Authority</operator>
+    <public_transport>station</public_transport>
+    <railway>station</railway>
+    <wheelchair>no</wheelchair>
+  </node>
+  <node id="2355593970" lat="41.8676054" lon="-87.6265307">
+    <entrance>main</entrance>
+    <name>Roosevelt</name>
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2368680623" lat="41.8673670" lon="-87.6274492">
+    <name>Roosevelt</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2370205786" lat="41.8672579" lon="-87.6266461">
+    <entrance>main</entrance>
+    <name>Roosevelt</name>
+    <railway>subway_entrance</railway>
+  </node>
+  <node id="2389087653" lat="41.9035190" lon="-87.6672111">
+    <name>Division</name>
+    <public_transport>stop_position</public_transport>
+    <subway>yes</subway>
+  </node>
+  <node id="2389096816" lat="41.9035505" lon="-87.6672159">
+    <name>Division</name>
+    <operator>Chicago Transit Authority</operator>
+    <railway>station</railway>
+  </node>
+
+</osm>

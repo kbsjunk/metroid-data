@@ -1,0 +1,19 @@
+SELECT x, y  FROM `metroid_stops` AS stops
+INNER JOIN metroid_coordinates as coords ON
+(stops.id = coords.stop_id)
+WHERE
+`name` in (
+'roosevelt',
+'cermak-chinatown',
+'sox-35th',
+'63rd',
+'69th',
+'79th',
+'87th',
+'95th/Dan Ryan'
+)
+or stops.`id` in (
+421,
+422
+)
+ORDER BY y DESC

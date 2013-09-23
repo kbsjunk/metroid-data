@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<Document>
+		<name>Chicago Metra Lines</name>
+		<description>Chicago Metra Lines</description>
+	<Style id="cc236214">
+		<LineStyle>
+			<color>cc146223</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFF8828">
+		<LineStyle>
+			<color>cc2888FF</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc835BB3">
+		<LineStyle>
+			<color>ccB35B83</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFAE322">
+		<LineStyle>
+			<color>cc22E3FA</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFFA628">
+		<LineStyle>
+			<color>cc28A6FF</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFEB8FA">
+		<LineStyle>
+			<color>ccFAB8FE</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc77B337">
+		<LineStyle>
+			<color>cc37B377</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccEE4848">
+		<LineStyle>
+			<color>cc4848EE</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc117BAC">
+		<LineStyle>
+			<color>ccAC7B11</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccA81818">
+		<LineStyle>
+			<color>cc1818A8</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccF67B7B">
+		<LineStyle>
+			<color>cc7B7BF6</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<description><![CDATA[<dl><dt><img src="/apps/metra/docroot/images/content/lines/up-n_standalone.png" /> <span><a target='_self' href='/content/metra/en/home/maps_schedules/metra_system_map/up-n/map.html'>Union Pacific / North Line</a></span></dt></dl>]]></description>
+		<styleUrl>#cc236214</styleUrl>
+		<LineString>
+			<altitudeMode>absolute</altitudeMode>
+			<coordinates>
+				-87.82602172,42.58583397
+				-87.82593212,42.57738827
+				-87.82036678,42.54659038
+				-87.81660084,42.49140628
+				-87.81767014,42.45459848
+				-87.8225036,42.39433464
+				-87.82658129,42.36994995
+				-87.82806832,42.3607843
+				-87.82888406,42.35339124
+				-87.83000904,42.34262563
+				-87.83043229,42.34086296
+				-87.83430109,42.33376295
+				-87.83493696,42.33261211
+				-87.83594532,42.33090282
+				-87.83963673,42.32438794
+				-87.84123044,42.32144826
+				-87.84278851,42.3186935
+				-87.84406534,42.31648022
+				-87.84549604,42.31383793
+				-87.84617345,42.3119199
+				-87.84656754,42.30955469
+				-87.84669032,42.29946225
+				-87.84676734,42.28860371
+				-87.84678992,42.28084281
+				-87.8467886,42.27861459
+				-87.84677741,42.27643847
+				-87.84667864,42.27558944
+				-87.84616139,42.27373149
+				-87.84545838,42.2713178
+				-87.84445687,42.26812762
+				-87.8437389,42.26566515
+				-87.84284185,42.26266201
+				-87.84186239,42.25931206
+				-87.84081258,42.25585598
+				-87.83981296,42.25253798
+				-87.83830001,42.24750786
+				-87.83295113,42.23327876
+				-87.80936914,42.20155558
+				-87.79789863,42.18372296
+				-87.77909692,42.16047705
+				-87.75804234,42.13535127
+				-87.74953383,42.12535621
+				-87.74190474,42.11628512
+				-87.72992173,42.10205578
+				-87.71693015,42.08636835
+				-87.70868745,42.07654295
+				-87.69909538,42.06511548
+				-87.6927154,42.05747304
+				-87.68890021,42.05300136
+				-87.68460567,42.04767829
+				-87.68240338,42.04348536
+				-87.68099637,42.037259
+				-87.67902951,42.02868567
+				-87.67636549,42.01731557
+				-87.67543456,42.00512555
+				-87.67481904,41.98512752
+				-87.67435918,41.96646833
+				-87.67384939,41.94706078
+				-87.6733821,41.93101857
+				-87.67158201,41.92495951
+				-87.66816217,41.91736141
+				-87.66538148,41.91269332
+				-87.66334474,41.90964595
+				-87.66142095,41.907602
+				-87.6604001,41.90546577
+				-87.66014805,41.90249019
+				-87.6588038,41.90047239
+				-87.65617878,41.89891901
+				-87.65374243,41.89829357
+				-87.65193782,41.89751194
+				-87.64963094,41.8953563
+				-87.64470042,41.89058132
+				-87.64220748,41.8897922
+				-87.64088195,41.88837563
+				-87.64081004,41.8871051
+			</coordinates>
+		</LineString>
+	</Placemark>
+	</Document>
+</kml>

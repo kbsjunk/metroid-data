@@ -1,0 +1,10 @@
+<union>
+<query type="relation">
+  <has-kv k="network" v="CTA"/>
+  <has-kv k="operator" v="Chicago Transit Authority"/>
+</query>
+  <recurse type="relation-node" into="nodes"/>
+  <recurse type="relation-way"/>
+  <recurse type="way-node"/>
+</union>
+<print/>

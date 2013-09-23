@@ -1,0 +1,294 @@
+Union Pacific North (UP-N)
+
+Kenosha *
+Winthrop Harbor  *
+Zion  *
+Waukegan 
+North Chicago *
+Great Lakes *
+Lake Bluff  
+Lake Forest 
+Fort Sheridan *
+Highwood *
+Highland Park  
+Ravinia *
+Ravinia Park *
+Braeside *
+Glencoe 
+Hubbard Woods 
+Winnetka 
+Indian Hill  *
+Kenilworth 
+Wilmette 
+Evanston Central Street 
+Evanston Davis Street  
+Evanston Main Street *
+Rogers Park *
+Ravenswood *
+Clybourn *
+Ogilvie Transportation Center 
+--
+
+Milwaukee District North (MD-N)
+
+Fox Lake 
+Ingleside *
+Long Lake *
+Round Lake 
+Grayslake 
+Prairie Crossing/Libertyville *
+Libertyville 
+Lake Forest *
+Deerfield 
+Lake Cook Road 
+Northbrook 
+Glen of North Glenview *
+Glenview 
+Golf *
+Morton Grove 
+Edgebrook *
+Forest Glen *
+Mayfair *
+Grayland *
+Healy *
+Western Avenue *
+Union Station 
+--
+
+North Central Service (NCS)
+Antioch *
+Lake Villa  *
+Round Lake Beach *
+Washington St. / Grayslake *
+Prairie Crossing / Libertyville *
+Mundelein *
+Vernon Hills  *
+Prairie View *
+Buffalo Grove *
+Wheeling *
+Prospect Heights *
+O'Hare Transfer *
+Rosemont *
+Schiller Park *
+Belmont Ave / Franklin Park 
+River Grove *
+Western Avenue *
+Union Station 
+--
+
+Union Pacific Northwest (UP-NW)
+
+Harvard  
+McHenry  *
+Woodstock  *
+Crystal Lake 
+Pingree Road *
+Cary  
+Fox River Grove  *
+Barrington 
+Palatine 
+Arlington Park (Race Track) 
+Arlington Heights 
+Mount Prospect 
+Cumberland  *
+Des Plaines 
+Dee Road *
+Park Ridge 
+Edison Park *
+Norwood Park *
+Gladstone Park *
+Jefferson Park *
+Irving Park *
+Clybourn *
+Ogilvie Transportation Center 
+--
+
+
+Milwaukee District West (MD-W)
+Big Timber Road *
+Elgin 
+National Street *
+Bartlett 
+Hanover Park  
+Schaumburg 
+Roselle 
+Medinah  *
+Itasca 
+Wood Dale  *
+Bensenville 
+Mannheim *
+Franklin Park 
+River Grove *
+Elmwood Park *
+Mont Clare *
+Mars  *
+Galewood  *
+Hanson Park *
+Grand / Cicero *
+Western Avenue *
+Union Station 
+
+--
+
+
+Union Pacific West (UP-W)
+
+Elburn *
+La Fox *
+Geneva 
+West Chicago *
+Winfield *
+Wheaton 
+College Avenue 
+Glen Ellyn 
+Lombard 
+Villa Park 
+Elmhurst 
+Berkeley  *
+Bellwood  *
+Melrose Park *
+Maywood *
+River Forest *
+Oak Park  
+Kedzie  *
+Ogilvie Transportation Center 
+
+--
+
+
+BNSF Railway (BNSF)
+
+Aurora 
+Route 59 
+Naperville 
+Lisle  
+Belmont 
+Downers Grove Main Street 
+Fairview Avenue *
+Westmont 
+Clarendon Hills 
+West Hinsdale  *
+Hinsdale 
+Highlands  *
+Western Springs 
+LaGrange Stone Avenue 
+LaGrange Road 
+Congress Park  *
+Brookfield 
+Hollywood *
+Riverside 
+Harlem Ave. *
+Berwyn  
+LaVergne *
+Cicero *
+Western Avenue *
+Halsted  *
+Union Station 
+
+--
+Heritage Corridor (HC)
+Joliet 
+Lockport *
+Lemont *
+Willow Springs *
+Summit *
+Union Station 
+
+--
+SouthWest Service (SWS)
+Manhattan  *
+New Lenox Laraway Road *
+Orland Park 179th Street *
+Orland Park 153rd Street 
+Orland Park 143rd Street *
+Palos Park  *
+Palos Heights *
+Worth *
+Chicago Ridge *
+Oak Lawn *
+Ashburn  *
+Wrightwood  *
+Union Station 
+
+--
+Rock Island District (RI)
+
+Joliet 
+New Lenox  
+Mokena 
+Hickory Creek *
+Tinley Park - 80th Ave. 
+Tinley Park 
+Oak Forest 
+Midlothian  
+Robbins *
+Blue Island - Vermont St. 
+Prairie St. *
+123rd St. *
+119th Street *
+Morgan Park - 115th Street *
+Morgan Park - 111th Street 
+Beverly Hills - 107th Street *
+Beverly Hills - 103rd Street 
+Beverly Hills - 99th Street 
+Beverly Hills - 95th Street 
+Beverly Hills - 91st Street  *
+Brainerd  *
+103rd St., Washington Hts  *
+95th St. - Longwood *
+Gresham  *
+35th Street / 'Lou' Jones / Bronzeville *
+LaSalle Street Station 
+
+--
+Metra Electric District (ME)
+
+Blue Island *
+Burr Oak *
+Ashland *
+Racine *
+West Pullman  *
+Stewart Ridge  *
+State Street *
+93rd St. (South Chicago) 
+87th St. (South Chicago) *
+83rd St. (South Chicago) *
+79th Street (Cheltenham) *
+Windsor Park  *
+South Shore *
+Bryn Mawr  *
+Stony Island  *
+University Park 
+Richton Park  
+Matteson 
+211th Street (Lincoln Highway) 
+Olympia Fields *
+Flossmoor 
+Homewood 
+Calumet 
+Hazel Crest 
+Harvey 
+147th Street (Sibley Boulevard) 
+Ivanhoe  
+Riverdale 
+Kensington / 115th Street 
+111th Street (Pullman) *
+107th Street *
+103rd Street (Rosemoor) *
+95th St., Chicago State Univ. *
+91st Street (Chesterfield) *
+87th Street (Woodruff) *
+83rd Street (Avalon Park) *
+79th St., Chatham 
+75th Street (Grand Crossing) *
+63rd Street *
+59th St., Univ. of Chicago 
+55th - 56th - 57th Street 
+51st / 53rd Street (Hyde Park) 
+47th Street (Kenwood)  
+27th Street 
+McCormick Place *
+18th Street *
+Museum Campus / 11th Street *
+Van Buren Street 
+Millennium Station 

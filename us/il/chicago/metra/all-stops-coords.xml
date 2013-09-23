@@ -1,0 +1,4367 @@
+<?xml version="1.0"?>
+<stops>
+	<stop>
+		<lat>41.7266667</lat>
+		<lng>-87.5477778</lng>
+		<stopName>93rd St. (South Chicago) Station</stopName>
+		<stopAddr>93rd St. near Baltimore St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>93rd St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7266667</lat>
+		<lng>-87.5477778</lng>
+		<stopName>93rd St. (South Chicago) Station</stopName>
+		<stopAddr>93rd St. near Baltimore St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>93rd St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7055556</lat>
+		<lng>-87.6558333</lng>
+		<stopName>103rd St., Washington Hts Station</stopName>
+		<stopAddr>10335 S. Vincennes Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>103rd St., Washington Hts Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7055556</lat>
+		<lng>-87.6558333</lng>
+		<stopName>103rd St., Washington Hts Station</stopName>
+		<stopAddr>10335 S. Vincennes Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>103rd St., Washington Hts Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7069444</lat>
+		<lng>-87.6072222</lng>
+		<stopName>103rd Street (Rosemoor) Station</stopName>
+		<stopAddr>103th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>103rd Street (Rosemoor) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7069444</lat>
+		<lng>-87.6072222</lng>
+		<stopName>103rd Street (Rosemoor) Station</stopName>
+		<stopAddr>103th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>103rd Street (Rosemoor) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6997222</lat>
+		<lng>-87.6088889</lng>
+		<stopName>107th Street Station</stopName>
+		<stopAddr>107th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>107th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6997222</lat>
+		<lng>-87.6088889</lng>
+		<stopName>107th Street Station</stopName>
+		<stopAddr>107th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>107th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6927778</lat>
+		<lng>-87.6105556</lng>
+		<stopName>111th Street (Pullman) Station</stopName>
+		<stopAddr>111th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>111th Street (Pullman) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6927778</lat>
+		<lng>-87.6105556</lng>
+		<stopName>111th Street (Pullman) Station</stopName>
+		<stopAddr>111th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>111th Street (Pullman) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6763889</lat>
+		<lng>-87.6725</lng>
+		<stopName>119th Street Station</stopName>
+		<stopAddr>2040 W. 119th St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>119th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6763889</lat>
+		<lng>-87.6725</lng>
+		<stopName>119th Street Station</stopName>
+		<stopAddr>2040 W. 119th St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>119th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.67</lat>
+		<lng>-87.6736111</lng>
+		<stopName>123rd St. Station</stopName>
+		<stopAddr>2120 W. 123rd St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>123rd St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.67</lat>
+		<lng>-87.6736111</lng>
+		<stopName>123rd St. Station</stopName>
+		<stopAddr>2120 W. 123rd St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>123rd St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6227778</lat>
+		<lng>-87.6361111</lng>
+		<stopName>147th Street (Sibley Boulevard) Station</stopName>
+		<stopAddr>147th St. &amp; Clinton St.</stopAddr>
+		<stopCity>Harvey,IL</stopCity>
+		<stopTitle>147th Street (Sibley Boulevard) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6227778</lat>
+		<lng>-87.6361111</lng>
+		<stopName>147th Street (Sibley Boulevard) Station</stopName>
+		<stopAddr>147th St. &amp; Clinton St.</stopAddr>
+		<stopCity>Harvey,IL</stopCity>
+		<stopTitle>147th Street (Sibley Boulevard) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8583333</lat>
+		<lng>-87.6180556</lng>
+		<stopName>18th Street Station</stopName>
+		<stopAddr>18th St., near Calumet Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>18th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8583333</lat>
+		<lng>-87.6180556</lng>
+		<stopName>18th Street Station</stopName>
+		<stopAddr>18th St., near Calumet Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>18th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5061111</lat>
+		<lng>-87.6983333</lng>
+		<stopName>211th Street (Lincoln Highway) Station</stopName>
+		<stopAddr>3200 W. 211th St.</stopAddr>
+		<stopCity>Olympia Fields,IL</stopCity>
+		<stopTitle>211th Street (Lincoln Highway) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5061111</lat>
+		<lng>-87.6983333</lng>
+		<stopName>211th Street (Lincoln Highway) Station</stopName>
+		<stopAddr>3200 W. 211th St.</stopAddr>
+		<stopCity>Olympia Fields,IL</stopCity>
+		<stopTitle>211th Street (Lincoln Highway) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8441667</lat>
+		<lng>-87.6133333</lng>
+		<stopName>27th Street Station</stopName>
+		<stopAddr>27th St., East of Ellis Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>27th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8441667</lat>
+		<lng>-87.6133333</lng>
+		<stopName>27th Street Station</stopName>
+		<stopAddr>27th St., East of Ellis Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>27th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8314451</lat>
+		<lng>-87.6294042</lng>
+		<stopName>35th Street / 'Lou' Jones / Bronzeville Station</stopName>
+		<stopAddr>106 West 35th Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>35th Street / 'Lou' Jones / Bronzeville Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8314451</lat>
+		<lng>-87.6294042</lng>
+		<stopName>35th Street / 'Lou' Jones / Bronzeville Station</stopName>
+		<stopAddr>106 West 35th Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>35th Street / 'Lou' Jones / Bronzeville Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8097222</lat>
+		<lng>-87.5913889</lng>
+		<stopName>47th Street (Kenwood) Station</stopName>
+		<stopAddr>47th St. near Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>47th Street (Kenwood) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8097222</lat>
+		<lng>-87.5913889</lng>
+		<stopName>47th Street (Kenwood) Station</stopName>
+		<stopAddr>47th St. near Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>47th Street (Kenwood) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8</lat>
+		<lng>-87.5869444</lng>
+		<stopName>51st / 53rd Street (Hyde Park) Station</stopName>
+		<stopAddr>51st to 53rd St. at Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>51st / 53rd Street (Hyde Park) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8</lat>
+		<lng>-87.5869444</lng>
+		<stopName>51st / 53rd Street (Hyde Park) Station</stopName>
+		<stopAddr>51st to 53rd St. at Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>51st / 53rd Street (Hyde Park) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7933333</lat>
+		<lng>-87.5875</lng>
+		<stopName>55th - 56th - 57th Street Station</stopName>
+		<stopAddr>55th to 57th St., at Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>55th - 56th - 57th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7933333</lat>
+		<lng>-87.5875</lng>
+		<stopName>55th - 56th - 57th Street Station</stopName>
+		<stopAddr>55th to 57th St., at Lake Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>55th - 56th - 57th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7880556</lat>
+		<lng>-87.5886111</lng>
+		<stopName>59th St., Univ. of Chicago Station</stopName>
+		<stopAddr>59th St. &amp; Harper Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>59th St., Univ. of Chicago Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7880556</lat>
+		<lng>-87.5886111</lng>
+		<stopName>59th St., Univ. of Chicago Station</stopName>
+		<stopAddr>59th St. &amp; Harper Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>59th St., Univ. of Chicago Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7802778</lat>
+		<lng>-87.5905556</lng>
+		<stopName>63rd Street Station</stopName>
+		<stopAddr>63rd St. &amp; Dorchester Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>63rd Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7802778</lat>
+		<lng>-87.5905556</lng>
+		<stopName>63rd Street Station</stopName>
+		<stopAddr>63rd St. &amp; Dorchester Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>63rd Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7686111</lat>
+		<lng>-87.5941667</lng>
+		<stopName>67th St (by) Station</stopName>
+		<stopTitle>67th St (by) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7686111</lat>
+		<lng>-87.5941667</lng>
+		<stopName>67th St (by) Station</stopName>
+		<stopTitle>67th St (by) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7588889</lat>
+		<lng>-87.5952778</lng>
+		<stopName>75th Street (Grand Crossing) Station</stopName>
+		<stopAddr>75th St. &amp; South Chicago Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>75th Street (Grand Crossing) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7588889</lat>
+		<lng>-87.5952778</lng>
+		<stopName>75th Street (Grand Crossing) Station</stopName>
+		<stopAddr>75th St. &amp; South Chicago Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>75th Street (Grand Crossing) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7508333</lat>
+		<lng>-87.5972222</lng>
+		<stopName>79th St., Chatham Station</stopName>
+		<stopAddr>79th St. near Greenwood St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>79th St., Chatham Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7508333</lat>
+		<lng>-87.5972222</lng>
+		<stopName>79th St., Chatham Station</stopName>
+		<stopAddr>79th St. near Greenwood St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>79th St., Chatham Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7522222</lat>
+		<lng>-87.5525</lng>
+		<stopName>79th Street (Cheltenham) Station</stopName>
+		<stopAddr>79th St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>79th Street (Cheltenham) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7522222</lat>
+		<lng>-87.5525</lng>
+		<stopName>79th Street (Cheltenham) Station</stopName>
+		<stopAddr>79th St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>79th Street (Cheltenham) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.745</lat>
+		<lng>-87.5516667</lng>
+		<stopName>83rd St. (South Chicago) Station</stopName>
+		<stopAddr>83rd St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>83rd St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.745</lat>
+		<lng>-87.5516667</lng>
+		<stopName>83rd St. (South Chicago) Station</stopName>
+		<stopAddr>83rd St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>83rd St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7441667</lat>
+		<lng>-87.5986111</lng>
+		<stopName>83rd Street (Avalon Park) Station</stopName>
+		<stopAddr>83rd St. near Ellis St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>83rd Street (Avalon Park) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7441667</lat>
+		<lng>-87.5986111</lng>
+		<stopName>83rd Street (Avalon Park) Station</stopName>
+		<stopAddr>83rd St. near Ellis St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>83rd Street (Avalon Park) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7377778</lat>
+		<lng>-87.5483333</lng>
+		<stopName>87th St. (South Chicago) Station</stopName>
+		<stopAddr>87th St., 1 block East of Commercial Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>87th St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7377778</lat>
+		<lng>-87.5483333</lng>
+		<stopName>87th St. (South Chicago) Station</stopName>
+		<stopAddr>87th St., 1 block East of Commercial Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>87th St. (South Chicago) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7369444</lat>
+		<lng>-87.6002778</lng>
+		<stopName>87th Street (Woodruff) Station</stopName>
+		<stopAddr>87th St. &amp; Dauphin Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>87th Street (Woodruff) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7369444</lat>
+		<lng>-87.6002778</lng>
+		<stopName>87th Street (Woodruff) Station</stopName>
+		<stopAddr>87th St. &amp; Dauphin Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>87th Street (Woodruff) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7294444</lat>
+		<lng>-87.6019444</lng>
+		<stopName>91st Street (Chesterfield) Station</stopName>
+		<stopAddr>91st St. &amp; Dauphin Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>91st Street (Chesterfield) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7294444</lat>
+		<lng>-87.6019444</lng>
+		<stopName>91st Street (Chesterfield) Station</stopName>
+		<stopAddr>91st St. &amp; Dauphin Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>91st Street (Chesterfield) Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7211111</lat>
+		<lng>-87.6502778</lng>
+		<stopName>95th St. - Longwood Station</stopName>
+		<stopAddr>9501 S. Vincennes Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>95th St. - Longwood Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7211111</lat>
+		<lng>-87.6502778</lng>
+		<stopName>95th St. - Longwood Station</stopName>
+		<stopAddr>9501 S. Vincennes Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>95th St. - Longwood Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7219444</lat>
+		<lng>-87.6038889</lng>
+		<stopName>95th St., Chicago State Univ. Station</stopName>
+		<stopAddr>95th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>95th St., Chicago State Univ. Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7219444</lat>
+		<lng>-87.6038889</lng>
+		<stopName>95th St., Chicago State Univ. Station</stopName>
+		<stopAddr>95th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>95th St., Chicago State Univ. Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4811111</lat>
+		<lng>-88.0925</lng>
+		<stopName>Antioch Station</stopName>
+		<stopAddr>305 Depot Street</stopAddr>
+		<stopCity>Antioch,IL</stopCity>
+		<stopTitle>Antioch Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4811111</lat>
+		<lng>-88.0925</lng>
+		<stopName>Antioch Station</stopName>
+		<stopAddr>305 Depot Street</stopAddr>
+		<stopCity>Antioch,IL</stopCity>
+		<stopTitle>Antioch Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0841667</lat>
+		<lng>-87.9836111</lng>
+		<stopName>Arlington Heights Station</stopName>
+		<stopAddr>45 W. Northwest Highway</stopAddr>
+		<stopCity>Arlington Heights,IL</stopCity>
+		<stopTitle>Arlington Heights Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0841667</lat>
+		<lng>-87.9836111</lng>
+		<stopName>Arlington Heights Station</stopName>
+		<stopAddr>45 W. Northwest Highway</stopAddr>
+		<stopCity>Arlington Heights,IL</stopCity>
+		<stopTitle>Arlington Heights Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0952778</lat>
+		<lng>-88.0091667</lng>
+		<stopName>Arlington Park (Race Track) Station</stopName>
+		<stopAddr>2121 W. Northwest Highway</stopAddr>
+		<stopCity>Arlington Heights,IL</stopCity>
+		<stopTitle>Arlington Park (Race Track) Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0952778</lat>
+		<lng>-88.0091667</lng>
+		<stopName>Arlington Park (Race Track) Station</stopName>
+		<stopAddr>2121 W. Northwest Highway</stopAddr>
+		<stopCity>Arlington Heights,IL</stopCity>
+		<stopTitle>Arlington Park (Race Track) Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7416667</lat>
+		<lng>-87.7125</lng>
+		<stopName>Ashburn Station</stopName>
+		<stopAddr>83rd St. &amp; Central Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Ashburn Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7416667</lat>
+		<lng>-87.7125</lng>
+		<stopName>Ashburn Station</stopName>
+		<stopAddr>83rd St. &amp; Central Park Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Ashburn Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6694444</lat>
+		<lng>-87.6605556</lng>
+		<stopName>Ashland Station</stopName>
+		<stopAddr>Ashland Ave. near 124th St.</stopAddr>
+		<stopCity>Calumet Park,IL</stopCity>
+		<stopTitle>Ashland Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6694444</lat>
+		<lng>-87.6605556</lng>
+		<stopName>Ashland Station</stopName>
+		<stopAddr>Ashland Ave. near 124th St.</stopAddr>
+		<stopCity>Calumet Park,IL</stopCity>
+		<stopTitle>Ashland Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7608333</lat>
+		<lng>-88.3083333</lng>
+		<stopName>Aurora Station</stopName>
+		<stopAddr>233 N. Broadway</stopAddr>
+		<stopCity>Aurora,IL</stopCity>
+		<stopTitle>Aurora Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7608333</lat>
+		<lng>-88.3083333</lng>
+		<stopName>Aurora Station</stopName>
+		<stopAddr>233 N. Broadway</stopAddr>
+		<stopCity>Aurora,IL</stopCity>
+		<stopTitle>Aurora Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1527778</lat>
+		<lng>-88.1319444</lng>
+		<stopName>Barrington Station</stopName>
+		<stopAddr>201 S. Spring Street</stopAddr>
+		<stopCity>Barrington,IL</stopCity>
+		<stopTitle>Barrington Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1527778</lat>
+		<lng>-88.1319444</lng>
+		<stopName>Barrington Station</stopName>
+		<stopAddr>201 S. Spring Street</stopAddr>
+		<stopCity>Barrington,IL</stopCity>
+		<stopTitle>Barrington Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9922222</lat>
+		<lng>-88.1838889</lng>
+		<stopName>Bartlett Station</stopName>
+		<stopAddr>120 E. Railroad Avenue</stopAddr>
+		<stopCity>Bartlett,IL</stopCity>
+		<stopTitle>Bartlett Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9922222</lat>
+		<lng>-88.1838889</lng>
+		<stopName>Bartlett Station</stopName>
+		<stopAddr>120 E. Railroad Avenue</stopAddr>
+		<stopCity>Bartlett,IL</stopCity>
+		<stopTitle>Bartlett Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8913889</lat>
+		<lng>-87.8825</lng>
+		<stopName>Bellwood Station</stopName>
+		<stopAddr>105 Frederick Ave.</stopAddr>
+		<stopCity>Bellwood,Illinois</stopCity>
+		<stopTitle>Bellwood Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8913889</lat>
+		<lng>-87.8825</lng>
+		<stopName>Bellwood Station</stopName>
+		<stopAddr>105 Frederick Ave.</stopAddr>
+		<stopCity>Bellwood,Illinois</stopCity>
+		<stopTitle>Bellwood Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-88.0380556</lng>
+		<stopName>Belmont Station</stopName>
+		<stopAddr>5000 Belmont Road</stopAddr>
+		<stopCity>Downers Grove,IL</stopCity>
+		<stopTitle>Belmont Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-88.0380556</lng>
+		<stopName>Belmont Station</stopName>
+		<stopAddr>5000 Belmont Road</stopAddr>
+		<stopCity>Downers Grove,IL</stopCity>
+		<stopTitle>Belmont Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9377778</lat>
+		<lng>-87.86</lng>
+		<stopName>Belmont Ave / Franklin Park Station</stopName>
+		<stopAddr>9280 Belmont Avenue</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Belmont Ave / Franklin Park Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9377778</lat>
+		<lng>-87.86</lng>
+		<stopName>Belmont Ave / Franklin Park Station</stopName>
+		<stopAddr>9280 Belmont Avenue</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Belmont Ave / Franklin Park Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9569444</lat>
+		<lng>-87.9419444</lng>
+		<stopName>Bensenville Station</stopName>
+		<stopAddr>110 W. Main St.</stopAddr>
+		<stopCity>Bensenville,IL</stopCity>
+		<stopTitle>Bensenville Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9569444</lat>
+		<lng>-87.9419444</lng>
+		<stopName>Bensenville Station</stopName>
+		<stopAddr>110 W. Main St.</stopAddr>
+		<stopCity>Bensenville,IL</stopCity>
+		<stopTitle>Bensenville Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8961111</lat>
+		<lng>-87.9152778</lng>
+		<stopName>Berkeley Station</stopName>
+		<stopAddr>5900 W. Park Avenue</stopAddr>
+		<stopCity>Berkeley,IL</stopCity>
+		<stopTitle>Berkeley Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8961111</lat>
+		<lng>-87.9152778</lng>
+		<stopName>Berkeley Station</stopName>
+		<stopAddr>5900 W. Park Avenue</stopAddr>
+		<stopCity>Berkeley,IL</stopCity>
+		<stopTitle>Berkeley Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8330556</lat>
+		<lng>-87.7936111</lng>
+		<stopName>Berwyn Station</stopName>
+		<stopAddr>6801 Windsor Ave.</stopAddr>
+		<stopCity>Berwyn,IL</stopCity>
+		<stopTitle>Berwyn Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8330556</lat>
+		<lng>-87.7936111</lng>
+		<stopName>Berwyn Station</stopName>
+		<stopAddr>6801 Windsor Ave.</stopAddr>
+		<stopCity>Berwyn,IL</stopCity>
+		<stopTitle>Berwyn Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7061111</lat>
+		<lng>-87.6688889</lng>
+		<stopName>Beverly Hills - 103rd Street Station</stopName>
+		<stopAddr>10301 S. Walden Pkwy.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 103rd Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7061111</lat>
+		<lng>-87.6688889</lng>
+		<stopName>Beverly Hills - 103rd Street Station</stopName>
+		<stopAddr>10301 S. Walden Pkwy.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 103rd Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6988889</lat>
+		<lng>-87.67</lng>
+		<stopName>Beverly Hills - 107th Street Station</stopName>
+		<stopAddr>1901 W. 107th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 107th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6988889</lat>
+		<lng>-87.67</lng>
+		<stopName>Beverly Hills - 107th Street Station</stopName>
+		<stopAddr>1901 W. 107th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 107th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7280556</lat>
+		<lng>-87.6672222</lng>
+		<stopName>Beverly Hills - 91st Street Station</stopName>
+		<stopAddr>9105 S. Prospect Sq.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 91st Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7280556</lat>
+		<lng>-87.6672222</lng>
+		<stopName>Beverly Hills - 91st Street Station</stopName>
+		<stopAddr>9105 S. Prospect Sq.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 91st Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7213889</lat>
+		<lng>-87.6672222</lng>
+		<stopName>Beverly Hills - 95th Street Station</stopName>
+		<stopAddr>1766 W. 95th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 95th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7213889</lat>
+		<lng>-87.6672222</lng>
+		<stopName>Beverly Hills - 95th Street Station</stopName>
+		<stopAddr>1766 W. 95th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 95th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7136111</lat>
+		<lng>-87.6675</lng>
+		<stopName>Beverly Hills - 99th Street Station</stopName>
+		<stopAddr>9901 S. Walden Pkwy.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 99th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7136111</lat>
+		<lng>-87.6675</lng>
+		<stopName>Beverly Hills - 99th Street Station</stopName>
+		<stopAddr>9901 S. Walden Pkwy.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Beverly Hills - 99th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0586111</lat>
+		<lng>-88.3277778</lng>
+		<stopName>Big Timber Road Station</stopName>
+		<stopAddr>2025 Big Timber Road</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>Big Timber Road Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0586111</lat>
+		<lng>-88.3277778</lng>
+		<stopName>Big Timber Road Station</stopName>
+		<stopAddr>2025 Big Timber Road</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>Big Timber Road Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6561111</lat>
+		<lng>-87.6758333</lng>
+		<stopName>Blue Island Station</stopName>
+		<stopAddr>Vermont St. near Irving St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Blue Island Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6561111</lat>
+		<lng>-87.6758333</lng>
+		<stopName>Blue Island Station</stopName>
+		<stopAddr>Vermont St. near Irving St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Blue Island Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6547222</lat>
+		<lng>-87.6777778</lng>
+		<stopName>Blue Island - Vermont St. Station</stopName>
+		<stopAddr>2300 W. Grove St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Blue Island - Vermont St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6547222</lat>
+		<lng>-87.6777778</lng>
+		<stopName>Blue Island - Vermont St. Station</stopName>
+		<stopAddr>2300 W. Grove St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Blue Island - Vermont St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1527778</lat>
+		<lng>-87.7725</lng>
+		<stopName>Braeside Station</stopName>
+		<stopAddr>10 N. St. Johns Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Braeside Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1527778</lat>
+		<lng>-87.7725</lng>
+		<stopName>Braeside Station</stopName>
+		<stopAddr>10 N. St. Johns Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Braeside Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7322222</lat>
+		<lng>-87.6588889</lng>
+		<stopName>Brainerd Station</stopName>
+		<stopAddr>8901 S. Loomis Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Brainerd Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7322222</lat>
+		<lng>-87.6588889</lng>
+		<stopName>Brainerd Station</stopName>
+		<stopAddr>8901 S. Loomis Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Brainerd Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8219444</lat>
+		<lng>-87.8430556</lng>
+		<stopName>Brookfield Station</stopName>
+		<stopAddr>8858 Burlington Ave.</stopAddr>
+		<stopCity>Brookfield,IL</stopCity>
+		<stopTitle>Brookfield Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8219444</lat>
+		<lng>-87.8430556</lng>
+		<stopName>Brookfield Station</stopName>
+		<stopAddr>8858 Burlington Ave.</stopAddr>
+		<stopCity>Brookfield,IL</stopCity>
+		<stopTitle>Brookfield Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7661111</lat>
+		<lng>-87.5766667</lng>
+		<stopName>Bryn Mawr Station</stopName>
+		<stopAddr>71st St. at Jeffery Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Bryn Mawr Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7661111</lat>
+		<lng>-87.5766667</lng>
+		<stopName>Bryn Mawr Station</stopName>
+		<stopAddr>71st St. at Jeffery Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Bryn Mawr Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1686111</lat>
+		<lng>-87.9413889</lng>
+		<stopName>Buffalo Grove Station</stopName>
+		<stopAddr>825 Commerce Ct.</stopAddr>
+		<stopCity>Buffalo Grove,IL</stopCity>
+		<stopTitle>Buffalo Grove Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1686111</lat>
+		<lng>-87.9413889</lng>
+		<stopName>Buffalo Grove Station</stopName>
+		<stopAddr>825 Commerce Ct.</stopAddr>
+		<stopCity>Buffalo Grove,IL</stopCity>
+		<stopTitle>Buffalo Grove Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6622222</lat>
+		<lng>-87.6688889</lng>
+		<stopName>Burr Oak Station</stopName>
+		<stopAddr>Burr Oak Ave. near Lincoln St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Burr Oak Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6622222</lat>
+		<lng>-87.6688889</lng>
+		<stopName>Burr Oak Station</stopName>
+		<stopAddr>Burr Oak Ave. near Lincoln St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Burr Oak Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5736111</lat>
+		<lng>-87.6625</lng>
+		<stopName>Calumet Station</stopName>
+		<stopAddr>Wood St., South of 174th St.</stopAddr>
+		<stopCity>East Hazel Crest,IL</stopCity>
+		<stopTitle>Calumet Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5736111</lat>
+		<lng>-87.6625</lng>
+		<stopName>Calumet Station</stopName>
+		<stopAddr>Wood St., South of 174th St.</stopAddr>
+		<stopCity>East Hazel Crest,IL</stopCity>
+		<stopTitle>Calumet Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2088889</lat>
+		<lng>-88.2413889</lng>
+		<stopName>Cary Station</stopName>
+		<stopAddr>100 W. Main St. (at Northwest Hwy.)</stopAddr>
+		<stopCity>Cary,IL</stopCity>
+		<stopTitle>Cary Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2088889</lat>
+		<lng>-88.2413889</lng>
+		<stopName>Cary Station</stopName>
+		<stopAddr>100 W. Main St. (at Northwest Hwy.)</stopAddr>
+		<stopCity>Cary,IL</stopCity>
+		<stopTitle>Cary Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7033333</lat>
+		<lng>-87.7802778</lng>
+		<stopName>Chicago Ridge Station</stopName>
+		<stopAddr>103rd St. &amp; Ridgeland Ave.</stopAddr>
+		<stopCity>Chicago Ridge,Illinois</stopCity>
+		<stopTitle>Chicago Ridge Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7033333</lat>
+		<lng>-87.7802778</lng>
+		<stopName>Chicago Ridge Station</stopName>
+		<stopAddr>103rd St. &amp; Ridgeland Ave.</stopAddr>
+		<stopCity>Chicago Ridge,Illinois</stopCity>
+		<stopTitle>Chicago Ridge Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8441667</lat>
+		<lng>-87.7455556</lng>
+		<stopName>Cicero Station</stopName>
+		<stopAddr>26th and Cicero</stopAddr>
+		<stopCity>Cicero,IL</stopCity>
+		<stopTitle>Cicero Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8441667</lat>
+		<lng>-87.7455556</lng>
+		<stopName>Cicero Station</stopName>
+		<stopAddr>26th and Cicero</stopAddr>
+		<stopCity>Cicero,IL</stopCity>
+		<stopTitle>Cicero Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7969444</lat>
+		<lng>-87.9536111</lng>
+		<stopName>Clarendon Hills Station</stopName>
+		<stopAddr>1 South Prospect Ave</stopAddr>
+		<stopCity>Clarendon Hills,Illinois</stopCity>
+		<stopTitle>Clarendon Hills Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7969444</lat>
+		<lng>-87.9536111</lng>
+		<stopName>Clarendon Hills Station</stopName>
+		<stopAddr>1 South Prospect Ave</stopAddr>
+		<stopCity>Clarendon Hills,Illinois</stopCity>
+		<stopTitle>Clarendon Hills Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9169444</lat>
+		<lng>-87.6680556</lng>
+		<stopName>Clybourn Station</stopName>
+		<stopAddr>2001 N. Ashland Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Clybourn Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+		<stopTitle>Clybourn Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9169444</lat>
+		<lng>-87.6680556</lng>
+		<stopName>Clybourn Station</stopName>
+		<stopAddr>2001 N. Ashland Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Clybourn Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+		<stopTitle>Clybourn Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8683333</lat>
+		<lng>-88.0902778</lng>
+		<stopName>College Avenue Station</stopName>
+		<stopAddr>303 N. President Street</stopAddr>
+		<stopCity>Wheaton,Illinois</stopCity>
+		<stopTitle>College Avenue Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8683333</lat>
+		<lng>-88.0902778</lng>
+		<stopName>College Avenue Station</stopName>
+		<stopAddr>303 N. President Street</stopAddr>
+		<stopCity>Wheaton,Illinois</stopCity>
+		<stopTitle>College Avenue Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8188889</lat>
+		<lng>-87.8575</lng>
+		<stopName>Congress Park Station</stopName>
+		<stopAddr>1/2 mile West of Maple St. on Burlington Ave.</stopAddr>
+		<stopCity>Brookfield,IL</stopCity>
+		<stopTitle>Congress Park Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8188889</lat>
+		<lng>-87.8575</lng>
+		<stopName>Congress Park Station</stopName>
+		<stopAddr>1/2 mile West of Maple St. on Burlington Ave.</stopAddr>
+		<stopCity>Brookfield,IL</stopCity>
+		<stopTitle>Congress Park Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2441667</lat>
+		<lng>-88.3172222</lng>
+		<stopName>Crystal Lake Station</stopName>
+		<stopAddr>70 E. Woodstock Ave. &amp; Grant St.</stopAddr>
+		<stopCity>Crystal Lake,IL</stopCity>
+		<stopTitle>Crystal Lake Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2441667</lat>
+		<lng>-88.3172222</lng>
+		<stopName>Crystal Lake Station</stopName>
+		<stopAddr>70 E. Woodstock Ave. &amp; Grant St.</stopAddr>
+		<stopCity>Crystal Lake,IL</stopCity>
+		<stopTitle>Crystal Lake Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0525</lat>
+		<lng>-87.9122222</lng>
+		<stopName>Cumberland Station</stopName>
+		<stopAddr>475 E. Northwest Highway</stopAddr>
+		<stopCity>Des Plaines,IL</stopCity>
+		<stopTitle>Cumberland Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0525</lat>
+		<lng>-87.9122222</lng>
+		<stopName>Cumberland Station</stopName>
+		<stopAddr>475 E. Northwest Highway</stopAddr>
+		<stopCity>Des Plaines,IL</stopCity>
+		<stopTitle>Cumberland Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0241667</lat>
+		<lng>-87.8561111</lng>
+		<stopName>Dee Road Station</stopName>
+		<stopAddr>950 Busse Highway</stopAddr>
+		<stopCity>Park Ridge,IL</stopCity>
+		<stopTitle>Dee Road Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0241667</lat>
+		<lng>-87.8561111</lng>
+		<stopName>Dee Road Station</stopName>
+		<stopAddr>950 Busse Highway</stopAddr>
+		<stopCity>Park Ridge,IL</stopCity>
+		<stopTitle>Dee Road Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1680556</lat>
+		<lng>-87.85</lng>
+		<stopName>Deerfield Station</stopName>
+		<stopAddr>860 Deerfield Rd., 2 blocks west of Route 43</stopAddr>
+		<stopCity>Deerfield,IL</stopCity>
+		<stopTitle>Deerfield Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1680556</lat>
+		<lng>-87.85</lng>
+		<stopName>Deerfield Station</stopName>
+		<stopAddr>860 Deerfield Rd., 2 blocks west of Route 43</stopAddr>
+		<stopCity>Deerfield,IL</stopCity>
+		<stopTitle>Deerfield Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0408333</lat>
+		<lng>-87.8866667</lng>
+		<stopName>Des Plaines Station</stopName>
+		<stopAddr>1501 Miner St.</stopAddr>
+		<stopCity>Des Plaines,IL</stopCity>
+		<stopTitle>Des Plaines Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0408333</lat>
+		<lng>-87.8866667</lng>
+		<stopName>Des Plaines Station</stopName>
+		<stopAddr>1501 Miner St.</stopAddr>
+		<stopCity>Des Plaines,IL</stopCity>
+		<stopTitle>Des Plaines Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-88.0097222</lng>
+		<stopName>Downers Grove Main Street Station</stopName>
+		<stopAddr>5001 Main Street</stopAddr>
+		<stopCity>Downers Grove,Illinois</stopCity>
+		<stopTitle>Downers Grove Main Street Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-88.0097222</lng>
+		<stopName>Downers Grove Main Street Station</stopName>
+		<stopAddr>5001 Main Street</stopAddr>
+		<stopCity>Downers Grove,Illinois</stopCity>
+		<stopTitle>Downers Grove Main Street Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9977778</lat>
+		<lng>-87.7655556</lng>
+		<stopName>Edgebrook Station</stopName>
+		<stopAddr>5438 W. Devon</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Edgebrook Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9977778</lat>
+		<lng>-87.7655556</lng>
+		<stopName>Edgebrook Station</stopName>
+		<stopAddr>5438 W. Devon</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Edgebrook Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0022222</lat>
+		<lng>-87.8175</lng>
+		<stopName>Edison Park Station</stopName>
+		<stopAddr>6730 North Olmstead Avenue</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Edison Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0022222</lat>
+		<lng>-87.8175</lng>
+		<stopName>Edison Park Station</stopName>
+		<stopAddr>6730 North Olmstead Avenue</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Edison Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8905556</lat>
+		<lng>-88.4638889</lng>
+		<stopName>Elburn Station</stopName>
+		<stopAddr>43 W. 166 Keslinger Rd.</stopAddr>
+		<stopCity>Elburn,IL</stopCity>
+		<stopTitle>Elburn Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8905556</lat>
+		<lng>-88.4638889</lng>
+		<stopName>Elburn Station</stopName>
+		<stopAddr>43 W. 166 Keslinger Rd.</stopAddr>
+		<stopCity>Elburn,IL</stopCity>
+		<stopTitle>Elburn Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0361111</lat>
+		<lng>-88.2861111</lng>
+		<stopName>Elgin Station</stopName>
+		<stopAddr>109 W. Chicago St.</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>Elgin Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0361111</lat>
+		<lng>-88.2861111</lng>
+		<stopName>Elgin Station</stopName>
+		<stopAddr>109 W. Chicago St.</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>Elgin Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8997222</lat>
+		<lng>-87.9408333</lng>
+		<stopName>Elmhurst Station</stopName>
+		<stopAddr>128 W. 1st St. (at York Rd.)</stopAddr>
+		<stopCity>Elmhurst,Illinois</stopCity>
+		<stopTitle>Elmhurst Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8997222</lat>
+		<lng>-87.9408333</lng>
+		<stopName>Elmhurst Station</stopName>
+		<stopAddr>128 W. 1st St. (at York Rd.)</stopAddr>
+		<stopCity>Elmhurst,Illinois</stopCity>
+		<stopTitle>Elmhurst Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9247222</lat>
+		<lng>-87.8147222</lng>
+		<stopName>Elmwood Park Station</stopName>
+		<stopAddr>7600 W. Grand Ave.</stopAddr>
+		<stopCity>Elmwood Park,IL</stopCity>
+		<stopTitle>Elmwood Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9247222</lat>
+		<lng>-87.8147222</lng>
+		<stopName>Elmwood Park Station</stopName>
+		<stopAddr>7600 W. Grand Ave.</stopAddr>
+		<stopCity>Elmwood Park,IL</stopCity>
+		<stopTitle>Elmwood Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0641667</lat>
+		<lng>-87.6980556</lng>
+		<stopName>Evanston Central Street Station</stopName>
+		<stopAddr>1826 Central St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Central Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0641667</lat>
+		<lng>-87.6980556</lng>
+		<stopName>Evanston Central Street Station</stopName>
+		<stopAddr>1826 Central St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Central Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0480556</lat>
+		<lng>-87.6847222</lng>
+		<stopName>Evanston Davis Street Station</stopName>
+		<stopAddr>901 Davis St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Davis Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0480556</lat>
+		<lng>-87.6847222</lng>
+		<stopName>Evanston Davis Street Station</stopName>
+		<stopAddr>901 Davis St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Davis Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0333333</lat>
+		<lng>-87.68</lng>
+		<stopName>Evanston Main Street Station</stopName>
+		<stopAddr>600 Main St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Main Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0333333</lat>
+		<lng>-87.68</lng>
+		<stopName>Evanston Main Street Station</stopName>
+		<stopAddr>600 Main St.</stopAddr>
+		<stopCity>Evanston,IL</stopCity>
+		<stopTitle>Evanston Main Street Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-87.9936111</lng>
+		<stopName>Fairview Avenue Station</stopName>
+		<stopAddr>Fairview Ave. &amp; Burlington Ave.</stopAddr>
+		<stopCity>Downers Groove,Illinois</stopCity>
+		<stopTitle>Fairview Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7952778</lat>
+		<lng>-87.9936111</lng>
+		<stopName>Fairview Avenue Station</stopName>
+		<stopAddr>Fairview Ave. &amp; Burlington Ave.</stopAddr>
+		<stopCity>Downers Groove,Illinois</stopCity>
+		<stopTitle>Fairview Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5430556</lat>
+		<lng>-87.6786111</lng>
+		<stopName>Flossmoor Station</stopName>
+		<stopAddr>Flossmoor Rd. &amp; Sterling Ave.</stopAddr>
+		<stopCity>Flossmoor,IL</stopCity>
+		<stopTitle>Flossmoor Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5430556</lat>
+		<lng>-87.6786111</lng>
+		<stopName>Flossmoor Station</stopName>
+		<stopAddr>Flossmoor Rd. &amp; Sterling Ave.</stopAddr>
+		<stopCity>Flossmoor,IL</stopCity>
+		<stopTitle>Flossmoor Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9780556</lat>
+		<lng>-87.7555556</lng>
+		<stopName>Forest Glen Station</stopName>
+		<stopAddr>5310 Forest Glen</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Forest Glen Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9780556</lat>
+		<lng>-87.7555556</lng>
+		<stopName>Forest Glen Station</stopName>
+		<stopAddr>5310 Forest Glen</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Forest Glen Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2175</lat>
+		<lng>-87.8208333</lng>
+		<stopName>Fort Sheridan Station</stopName>
+		<stopAddr>461 W. Old Elm Road</stopAddr>
+		<stopCity>Highwood,IL</stopCity>
+		<stopTitle>Fort Sheridan Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2175</lat>
+		<lng>-87.8208333</lng>
+		<stopName>Fort Sheridan Station</stopName>
+		<stopAddr>461 W. Old Elm Road</stopAddr>
+		<stopCity>Highwood,IL</stopCity>
+		<stopTitle>Fort Sheridan Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3983333</lat>
+		<lng>-88.1822222</lng>
+		<stopName>Fox Lake Station</stopName>
+		<stopAddr>Nippersink Blvd. At Grand Ave.</stopAddr>
+		<stopCity>Fox Lake,IL</stopCity>
+		<stopTitle>Fox Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3983333</lat>
+		<lng>-88.1822222</lng>
+		<stopName>Fox Lake Station</stopName>
+		<stopAddr>Nippersink Blvd. At Grand Ave.</stopAddr>
+		<stopCity>Fox Lake,IL</stopCity>
+		<stopTitle>Fox Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1977778</lat>
+		<lng>-88.2194444</lng>
+		<stopName>Fox River Grove Station</stopName>
+		<stopAddr>4015 N. Northwest Highway</stopAddr>
+		<stopCity>Fox River Grove,IL</stopCity>
+		<stopTitle>Fox River Grove Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1977778</lat>
+		<lng>-88.2194444</lng>
+		<stopName>Fox River Grove Station</stopName>
+		<stopAddr>4015 N. Northwest Highway</stopAddr>
+		<stopCity>Fox River Grove,IL</stopCity>
+		<stopTitle>Fox River Grove Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9366667</lat>
+		<lng>-87.8663889</lng>
+		<stopName>Franklin Park Station</stopName>
+		<stopAddr>3148 Rose Street</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Franklin Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9366667</lat>
+		<lng>-87.8663889</lng>
+		<stopName>Franklin Park Station</stopName>
+		<stopAddr>3148 Rose Street</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Franklin Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9163889</lat>
+		<lng>-87.7858333</lng>
+		<stopName>Galewood Station</stopName>
+		<stopAddr>2031 N. Narragansett Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Galewood Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9163889</lat>
+		<lng>-87.7858333</lng>
+		<stopName>Galewood Station</stopName>
+		<stopAddr>2031 N. Narragansett Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Galewood Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8816667</lat>
+		<lng>-88.31</lng>
+		<stopName>Geneva Station</stopName>
+		<stopAddr>328 Crescent Place</stopAddr>
+		<stopCity>Geneva,Illinois</stopCity>
+		<stopTitle>Geneva Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8816667</lat>
+		<lng>-88.31</lng>
+		<stopName>Geneva Station</stopName>
+		<stopAddr>328 Crescent Place</stopAddr>
+		<stopCity>Geneva,Illinois</stopCity>
+		<stopTitle>Geneva Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9797222</lat>
+		<lng>-87.7780556</lng>
+		<stopName>Gladstone Park Station</stopName>
+		<stopAddr>5500 N. Austin Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Gladstone Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9797222</lat>
+		<lng>-87.7780556</lng>
+		<stopName>Gladstone Park Station</stopName>
+		<stopAddr>5500 N. Austin Blvd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Gladstone Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8766667</lat>
+		<lng>-88.0647222</lng>
+		<stopName>Glen Ellyn Station</stopName>
+		<stopAddr>551 Crescent Blvd. (at Main St.)</stopAddr>
+		<stopCity>Glen Ellyn,Illinois</stopCity>
+		<stopTitle>Glen Ellyn Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8766667</lat>
+		<lng>-88.0647222</lng>
+		<stopName>Glen Ellyn Station</stopName>
+		<stopAddr>551 Crescent Blvd. (at Main St.)</stopAddr>
+		<stopCity>Glen Ellyn,Illinois</stopCity>
+		<stopTitle>Glen Ellyn Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0975</lat>
+		<lng>-87.8158333</lng>
+		<stopName>Glen of North Glenview Station</stopName>
+		<stopAddr>3000 Old Willow Rd.</stopAddr>
+		<stopCity>Glenview,IL</stopCity>
+		<stopTitle>Glen of North Glenview Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0975</lat>
+		<lng>-87.8158333</lng>
+		<stopName>Glen of North Glenview Station</stopName>
+		<stopAddr>3000 Old Willow Rd.</stopAddr>
+		<stopCity>Glenview,IL</stopCity>
+		<stopTitle>Glen of North Glenview Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1355556</lat>
+		<lng>-87.7580556</lng>
+		<stopName>Glencoe Station</stopName>
+		<stopAddr>724 Green Bay Rd.</stopAddr>
+		<stopCity>Glencoe,IL</stopCity>
+		<stopTitle>Glencoe Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1355556</lat>
+		<lng>-87.7580556</lng>
+		<stopName>Glencoe Station</stopName>
+		<stopAddr>724 Green Bay Rd.</stopAddr>
+		<stopCity>Glencoe,IL</stopCity>
+		<stopTitle>Glencoe Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.075</lat>
+		<lng>-87.8055556</lng>
+		<stopName>Glenview Station</stopName>
+		<stopAddr>1116 Depot Street</stopAddr>
+		<stopCity>Glenview,IL</stopCity>
+		<stopTitle>Glenview Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.075</lat>
+		<lng>-87.8055556</lng>
+		<stopName>Glenview Station</stopName>
+		<stopAddr>1116 Depot Street</stopAddr>
+		<stopCity>Glenview,IL</stopCity>
+		<stopTitle>Glenview Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0583333</lat>
+		<lng>-87.7969444</lng>
+		<stopName>Golf Station</stopName>
+		<stopAddr>1 Overlook Drive</stopAddr>
+		<stopCity>Golf ,Illinois</stopCity>
+		<stopTitle>Golf Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0583333</lat>
+		<lng>-87.7969444</lng>
+		<stopName>Golf Station</stopName>
+		<stopAddr>1 Overlook Drive</stopAddr>
+		<stopCity>Golf ,Illinois</stopCity>
+		<stopTitle>Golf Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9144444</lat>
+		<lng>-87.7461111</lng>
+		<stopName>Grand / Cicero Station</stopName>
+		<stopAddr>1833 N. Cicero Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Grand / Cicero Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9144444</lat>
+		<lng>-87.7461111</lng>
+		<stopName>Grand / Cicero Station</stopName>
+		<stopAddr>1833 N. Cicero Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Grand / Cicero Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9488889</lat>
+		<lng>-87.7402778</lng>
+		<stopName>Grayland Station</stopName>
+		<stopAddr>3805 N. Kilbourn St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Grayland Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9488889</lat>
+		<lng>-87.7402778</lng>
+		<stopName>Grayland Station</stopName>
+		<stopAddr>3805 N. Kilbourn St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Grayland Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3336111</lat>
+		<lng>-88.0433333</lng>
+		<stopName>Grayslake Station</stopName>
+		<stopAddr>Lake St. and St. Paul St.</stopAddr>
+		<stopCity>Grayslake ,IL</stopCity>
+		<stopTitle>Grayslake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3336111</lat>
+		<lng>-88.0433333</lng>
+		<stopName>Grayslake Station</stopName>
+		<stopAddr>Lake St. and St. Paul St.</stopAddr>
+		<stopCity>Grayslake ,IL</stopCity>
+		<stopTitle>Grayslake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3069444</lat>
+		<lng>-87.8463889</lng>
+		<stopName>Great Lakes Station</stopName>
+		<stopAddr>3000 S Sheridan Road</stopAddr>
+		<stopCity>North Chicago,IL</stopCity>
+		<stopTitle>Great Lakes Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3069444</lat>
+		<lng>-87.8463889</lng>
+		<stopName>Great Lakes Station</stopName>
+		<stopAddr>3000 S Sheridan Road</stopAddr>
+		<stopCity>North Chicago,IL</stopCity>
+		<stopTitle>Great Lakes Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7363889</lat>
+		<lng>-87.6447222</lng>
+		<stopName>Gresham Station</stopName>
+		<stopAddr>820 W. 87th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Gresham Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7363889</lat>
+		<lng>-87.6447222</lng>
+		<stopName>Gresham Station</stopName>
+		<stopAddr>820 W. 87th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Gresham Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8602778</lat>
+		<lng>-87.6472222</lng>
+		<stopName>Halsted Station</stopName>
+		<stopAddr>16th &amp; Halsted St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Halsted Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8602778</lat>
+		<lng>-87.6472222</lng>
+		<stopName>Halsted Station</stopName>
+		<stopAddr>16th &amp; Halsted St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Halsted Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9880556</lat>
+		<lng>-88.1491667</lng>
+		<stopName>Hanover Park Station</stopName>
+		<stopAddr>1975 W Lake St.</stopAddr>
+		<stopCity>Hanover Park,IL</stopCity>
+		<stopTitle>Hanover Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9880556</lat>
+		<lng>-88.1491667</lng>
+		<stopName>Hanover Park Station</stopName>
+		<stopAddr>1975 W Lake St.</stopAddr>
+		<stopCity>Hanover Park,IL</stopCity>
+		<stopTitle>Hanover Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9166667</lat>
+		<lng>-87.7669444</lng>
+		<stopName>Hanson Park Station</stopName>
+		<stopAddr>5621 W. Armitage Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Hanson Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9166667</lat>
+		<lng>-87.7669444</lng>
+		<stopName>Hanson Park Station</stopName>
+		<stopAddr>5621 W. Armitage Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Hanson Park Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8313889</lat>
+		<lng>-87.8019444</lng>
+		<stopName>Harlem Ave. Station</stopName>
+		<stopAddr>7135 Windsor Ave.</stopAddr>
+		<stopCity>Berwyn,IL</stopCity>
+		<stopTitle>Harlem Ave. Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8313889</lat>
+		<lng>-87.8019444</lng>
+		<stopName>Harlem Ave. Station</stopName>
+		<stopAddr>7135 Windsor Ave.</stopAddr>
+		<stopCity>Berwyn,IL</stopCity>
+		<stopTitle>Harlem Ave. Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4197222</lat>
+		<lng>-88.6175</lng>
+		<stopName>Harvard Station</stopName>
+		<stopAddr>1 N. Ayer Street</stopAddr>
+		<stopCity>Harvard,IL</stopCity>
+		<stopTitle>Harvard Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4197222</lat>
+		<lng>-88.6175</lng>
+		<stopName>Harvard Station</stopName>
+		<stopAddr>1 N. Ayer Street</stopAddr>
+		<stopCity>Harvard,IL</stopCity>
+		<stopTitle>Harvard Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6083333</lat>
+		<lng>-87.6438889</lng>
+		<stopName>Harvey Station</stopName>
+		<stopAddr>Park Ave. &amp; 154th St.</stopAddr>
+		<stopCity>Harvey,IL</stopCity>
+		<stopTitle>Harvey Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6083333</lat>
+		<lng>-87.6438889</lng>
+		<stopName>Harvey Station</stopName>
+		<stopAddr>Park Ave. &amp; 154th St.</stopAddr>
+		<stopCity>Harvey,IL</stopCity>
+		<stopTitle>Harvey Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5808333</lat>
+		<lng>-87.6586111</lng>
+		<stopName>Hazel Crest Station</stopName>
+		<stopAddr>Park Ave. &amp; 170th St.</stopAddr>
+		<stopCity>Hazel Crest ,IL</stopCity>
+		<stopTitle>Hazel Crest Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5808333</lat>
+		<lng>-87.6586111</lng>
+		<stopName>Hazel Crest Station</stopName>
+		<stopAddr>Park Ave. &amp; 170th St.</stopAddr>
+		<stopCity>Hazel Crest ,IL</stopCity>
+		<stopTitle>Hazel Crest Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9247222</lat>
+		<lng>-87.7277778</lng>
+		<stopName>Healy Station</stopName>
+		<stopAddr>4014 W. Fullerton Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Healy Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9247222</lat>
+		<lng>-87.7277778</lng>
+		<stopName>Healy Station</stopName>
+		<stopAddr>4014 W. Fullerton Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Healy Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5486111</lat>
+		<lng>-87.8455556</lng>
+		<stopName>Hickory Creek Station</stopName>
+		<stopAddr>9430 Hickory Creek Dr.</stopAddr>
+		<stopCity>Mokena,IL</stopCity>
+		<stopTitle>Hickory Creek Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5486111</lat>
+		<lng>-87.8455556</lng>
+		<stopName>Hickory Creek Station</stopName>
+		<stopAddr>9430 Hickory Creek Dr.</stopAddr>
+		<stopCity>Mokena,IL</stopCity>
+		<stopTitle>Hickory Creek Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1833333</lat>
+		<lng>-87.7975</lng>
+		<stopName>Highland Park Station</stopName>
+		<stopAddr>1700 St. Johns Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Highland Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1833333</lat>
+		<lng>-87.7975</lng>
+		<stopName>Highland Park Station</stopName>
+		<stopAddr>1700 St. Johns Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Highland Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.805</lat>
+		<lng>-87.9183333</lng>
+		<stopName>Highlands Station</stopName>
+		<stopAddr>1/4 mile North of the Intersection of County Line Rd. &amp; 47th St.</stopAddr>
+		<stopCity>Hinsdale,Illinois</stopCity>
+		<stopTitle>Highlands Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.805</lat>
+		<lng>-87.9183333</lng>
+		<stopName>Highlands Station</stopName>
+		<stopAddr>1/4 mile North of the Intersection of County Line Rd. &amp; 47th St.</stopAddr>
+		<stopCity>Hinsdale,Illinois</stopCity>
+		<stopTitle>Highlands Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2033333</lat>
+		<lng>-87.8105556</lng>
+		<stopName>Highwood Station</stopName>
+		<stopAddr>317 Green Bay Rd.</stopAddr>
+		<stopCity>Highwood,IL</stopCity>
+		<stopTitle>Highwood Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2033333</lat>
+		<lng>-87.8105556</lng>
+		<stopName>Highwood Station</stopName>
+		<stopAddr>317 Green Bay Rd.</stopAddr>
+		<stopCity>Highwood,IL</stopCity>
+		<stopTitle>Highwood Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8027778</lat>
+		<lng>-87.9283333</lng>
+		<stopName>Hinsdale Station</stopName>
+		<stopAddr>21 E Hinsdale Ave.</stopAddr>
+		<stopCity>Hinsdale,Illinois</stopCity>
+		<stopTitle>Hinsdale Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8027778</lat>
+		<lng>-87.9283333</lng>
+		<stopName>Hinsdale Station</stopName>
+		<stopAddr>21 E Hinsdale Ave.</stopAddr>
+		<stopCity>Hinsdale,Illinois</stopCity>
+		<stopTitle>Hinsdale Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8244444</lat>
+		<lng>-87.8338889</lng>
+		<stopName>Hollywood Station</stopName>
+		<stopAddr>Golf Road &amp; Hollywood Ave.</stopAddr>
+		<stopCity>Brookfield,Illinois</stopCity>
+		<stopTitle>Hollywood Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8244444</lat>
+		<lng>-87.8338889</lng>
+		<stopName>Hollywood Station</stopName>
+		<stopAddr>Golf Road &amp; Hollywood Ave.</stopAddr>
+		<stopCity>Brookfield,Illinois</stopCity>
+		<stopTitle>Hollywood Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5622222</lat>
+		<lng>-87.6686111</lng>
+		<stopName>Homewood Station</stopName>
+		<stopAddr>Ridge Rd. at Harwood Ave.</stopAddr>
+		<stopCity>Homewood,IL</stopCity>
+		<stopTitle>Homewood Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5622222</lat>
+		<lng>-87.6686111</lng>
+		<stopName>Homewood Station</stopName>
+		<stopAddr>Ridge Rd. at Harwood Ave.</stopAddr>
+		<stopCity>Homewood,IL</stopCity>
+		<stopTitle>Homewood Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1180556</lat>
+		<lng>-87.7436111</lng>
+		<stopName>Hubbard Woods Station</stopName>
+		<stopAddr>1065 Gage St.</stopAddr>
+		<stopCity>Winnetka,IL</stopCity>
+		<stopTitle>Hubbard Woods Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1180556</lat>
+		<lng>-87.7436111</lng>
+		<stopName>Hubbard Woods Station</stopName>
+		<stopAddr>1065 Gage St.</stopAddr>
+		<stopCity>Winnetka,IL</stopCity>
+		<stopTitle>Hubbard Woods Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0944444</lat>
+		<lng>-87.7238889</lng>
+		<stopName>Indian Hill Station</stopName>
+		<stopAddr>111 N. Green Bay Rd.</stopAddr>
+		<stopCity>Winnetka ,IL</stopCity>
+		<stopTitle>Indian Hill Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0944444</lat>
+		<lng>-87.7238889</lng>
+		<stopName>Indian Hill Station</stopName>
+		<stopAddr>111 N. Green Bay Rd.</stopAddr>
+		<stopCity>Winnetka ,IL</stopCity>
+		<stopTitle>Indian Hill Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3838889</lat>
+		<lng>-88.1536111</lng>
+		<stopName>Ingleside Station</stopName>
+		<stopAddr>Washington St. and Rollins Rd.</stopAddr>
+		<stopCity>Fox Lake,IL</stopCity>
+		<stopTitle>Ingleside Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3838889</lat>
+		<lng>-88.1536111</lng>
+		<stopName>Ingleside Station</stopName>
+		<stopAddr>Washington St. and Rollins Rd.</stopAddr>
+		<stopCity>Fox Lake,IL</stopCity>
+		<stopTitle>Ingleside Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9525</lat>
+		<lng>-87.7297222</lng>
+		<stopName>Irving Park Station</stopName>
+		<stopAddr>3931 N. Avondale</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Irving Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9525</lat>
+		<lng>-87.7297222</lng>
+		<stopName>Irving Park Station</stopName>
+		<stopAddr>3931 N. Avondale</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Irving Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9713889</lat>
+		<lng>-88.0141667</lng>
+		<stopName>Itasca Station</stopName>
+		<stopAddr>Irving Park Rd. (Rt.19) and Maple St.</stopAddr>
+		<stopCity>Itasca,IL</stopCity>
+		<stopTitle>Itasca Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9713889</lat>
+		<lng>-88.0141667</lng>
+		<stopName>Itasca Station</stopName>
+		<stopAddr>Irving Park Rd. (Rt.19) and Maple St.</stopAddr>
+		<stopCity>Itasca,IL</stopCity>
+		<stopTitle>Itasca Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6333333</lat>
+		<lng>-87.6302778</lng>
+		<stopName>Ivanhoe Station</stopName>
+		<stopAddr>144th St. &amp; Tracy St.</stopAddr>
+		<stopCity>Riverdale,IL</stopCity>
+		<stopTitle>Ivanhoe Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6333333</lat>
+		<lng>-87.6302778</lng>
+		<stopName>Ivanhoe Station</stopName>
+		<stopAddr>144th St. &amp; Tracy St.</stopAddr>
+		<stopCity>Riverdale,IL</stopCity>
+		<stopTitle>Ivanhoe Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9713889</lat>
+		<lng>-87.7633333</lng>
+		<stopName>Jefferson Park Station</stopName>
+		<stopAddr>4963 N. Milwaukee Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Jefferson Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9713889</lat>
+		<lng>-87.7633333</lng>
+		<stopName>Jefferson Park Station</stopName>
+		<stopAddr>4963 N. Milwaukee Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Jefferson Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5244444</lat>
+		<lng>-88.0797222</lng>
+		<stopName>Joliet Station</stopName>
+		<stopAddr>50 East Jefferson St.</stopAddr>
+		<stopCity>Joliet,Illinois</stopCity>
+		<stopTitle>Joliet Station</stopTitle>
+		<stopLine>HC</stopLine>
+		<stopTitle>Joliet Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5244444</lat>
+		<lng>-88.0797222</lng>
+		<stopName>Joliet Station</stopName>
+		<stopAddr>50 East Jefferson St.</stopAddr>
+		<stopCity>Joliet,Illinois</stopCity>
+		<stopTitle>Joliet Station</stopTitle>
+		<stopLine>HC</stopLine>
+		<stopTitle>Joliet Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8883333</lat>
+		<lng>-87.7069444</lng>
+		<stopName>Kedzie Station</stopName>
+		<stopAddr>Kedzie Ave. and Carroll Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Kedzie Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8883333</lat>
+		<lng>-87.7069444</lng>
+		<stopName>Kedzie Station</stopName>
+		<stopAddr>Kedzie Ave. and Carroll Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Kedzie Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0863889</lat>
+		<lng>-87.7166667</lng>
+		<stopName>Kenilworth Station</stopName>
+		<stopAddr>400 Richmond Rd.</stopAddr>
+		<stopCity>Kenilworth,IL</stopCity>
+		<stopTitle>Kenilworth Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0863889</lat>
+		<lng>-87.7166667</lng>
+		<stopName>Kenilworth Station</stopName>
+		<stopAddr>400 Richmond Rd.</stopAddr>
+		<stopCity>Kenilworth,IL</stopCity>
+		<stopTitle>Kenilworth Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.5858333</lat>
+		<lng>-87.8258333</lng>
+		<stopName>Kenosha Station</stopName>
+		<stopAddr>5414 13th Avenue</stopAddr>
+		<stopCity>Kenosha,WI</stopCity>
+		<stopTitle>Kenosha Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.5858333</lat>
+		<lng>-87.8258333</lng>
+		<stopName>Kenosha Station</stopName>
+		<stopAddr>5414 13th Avenue</stopAddr>
+		<stopCity>Kenosha,WI</stopCity>
+		<stopTitle>Kenosha Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6858333</lat>
+		<lng>-87.6122222</lng>
+		<stopName>Kensington / 115th Street Station</stopName>
+		<stopAddr>115th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Kensington / 115th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6858333</lat>
+		<lng>-87.6122222</lng>
+		<stopName>Kensington / 115th Street Station</stopName>
+		<stopAddr>115th St. &amp; Cottage Grove Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Kensington / 115th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8866667</lat>
+		<lng>-88.4122222</lng>
+		<stopName>La Fox Station</stopName>
+		<stopAddr>40 W. 999 Keslinger Rd.</stopAddr>
+		<stopCity>Kane County,IL</stopCity>
+		<stopTitle>La Fox Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8866667</lat>
+		<lng>-88.4122222</lng>
+		<stopName>La Fox Station</stopName>
+		<stopAddr>40 W. 999 Keslinger Rd.</stopAddr>
+		<stopCity>Kane County,IL</stopCity>
+		<stopTitle>La Fox Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8158333</lat>
+		<lng>-87.8711111</lng>
+		<stopName>LaGrange Road Station</stopName>
+		<stopAddr>25 W. Burlington Rd.</stopAddr>
+		<stopCity>LaGrange,Illinois</stopCity>
+		<stopTitle>LaGrange Road Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8158333</lat>
+		<lng>-87.8711111</lng>
+		<stopName>LaGrange Road Station</stopName>
+		<stopAddr>25 W. Burlington Rd.</stopAddr>
+		<stopCity>LaGrange,Illinois</stopCity>
+		<stopTitle>LaGrange Road Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8141667</lat>
+		<lng>-87.8783333</lng>
+		<stopName>LaGrange Stone Avenue Station</stopName>
+		<stopAddr>701 W. Burlington Ave</stopAddr>
+		<stopCity>LaGrange,IL</stopCity>
+		<stopTitle>LaGrange Stone Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8141667</lat>
+		<lng>-87.8783333</lng>
+		<stopName>LaGrange Stone Avenue Station</stopName>
+		<stopAddr>701 W. Burlington Ave</stopAddr>
+		<stopCity>LaGrange,IL</stopCity>
+		<stopTitle>LaGrange Stone Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8763889</lat>
+		<lng>-87.6322222</lng>
+		<stopName>LaSalle Street Station Station</stopName>
+		<stopAddr>414 S. LaSalle Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>LaSalle Street Station Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8763889</lat>
+		<lng>-87.6322222</lng>
+		<stopName>LaSalle Street Station Station</stopName>
+		<stopAddr>414 S. LaSalle Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>LaSalle Street Station Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8355556</lat>
+		<lng>-87.7833333</lng>
+		<stopName>LaVergne Station</stopName>
+		<stopAddr>Windsor &amp; Ridgeland Ave.</stopAddr>
+		<stopCity>Berwyn,Illinois</stopCity>
+		<stopTitle>LaVergne Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8355556</lat>
+		<lng>-87.7833333</lng>
+		<stopName>LaVergne Station</stopName>
+		<stopAddr>Windsor &amp; Ridgeland Ave.</stopAddr>
+		<stopCity>Berwyn,Illinois</stopCity>
+		<stopTitle>LaVergne Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2797222</lat>
+		<lng>-87.8466667</lng>
+		<stopName>Lake Bluff Station</stopName>
+		<stopAddr>600 N. Sheridan Rd.</stopAddr>
+		<stopCity>Lake Bluff,IL</stopCity>
+		<stopTitle>Lake Bluff Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2797222</lat>
+		<lng>-87.8466667</lng>
+		<stopName>Lake Bluff Station</stopName>
+		<stopAddr>600 N. Sheridan Rd.</stopAddr>
+		<stopCity>Lake Bluff,IL</stopCity>
+		<stopTitle>Lake Bluff Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1516667</lat>
+		<lng>-87.8413889</lng>
+		<stopName>Lake Cook Road Station</stopName>
+		<stopAddr>601 Lake Cook Road</stopAddr>
+		<stopCity>Deerfield,IL</stopCity>
+		<stopTitle>Lake Cook Road Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1516667</lat>
+		<lng>-87.8413889</lng>
+		<stopName>Lake Cook Road Station</stopName>
+		<stopAddr>601 Lake Cook Road</stopAddr>
+		<stopCity>Deerfield,IL</stopCity>
+		<stopTitle>Lake Cook Road Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2236111</lat>
+		<lng>-87.8747222</lng>
+		<stopName>Lake Forest Station</stopName>
+		<stopAddr>10205 N. Waukegan</stopAddr>
+		<stopCity>Lake Forest ,IL</stopCity>
+		<stopTitle>Lake Forest Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2236111</lat>
+		<lng>-87.8747222</lng>
+		<stopName>Lake Forest Station</stopName>
+		<stopAddr>10205 N. Waukegan</stopAddr>
+		<stopCity>Lake Forest ,IL</stopCity>
+		<stopTitle>Lake Forest Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2525</lat>
+		<lng>-87.8397222</lng>
+		<stopName>Lake Forest Station</stopName>
+		<stopAddr>691 N. Western Ave.</stopAddr>
+		<stopCity>Lake Forest,IL</stopCity>
+		<stopTitle>Lake Forest Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2525</lat>
+		<lng>-87.8397222</lng>
+		<stopName>Lake Forest Station</stopName>
+		<stopAddr>691 N. Western Ave.</stopAddr>
+		<stopCity>Lake Forest,IL</stopCity>
+		<stopTitle>Lake Forest Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4175</lat>
+		<lng>-88.0794444</lng>
+		<stopName>Lake Villa Station</stopName>
+		<stopAddr>129 Railroad Ave.</stopAddr>
+		<stopCity>Lake Villa,IL</stopCity>
+		<stopTitle>Lake Villa Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4175</lat>
+		<lng>-88.0794444</lng>
+		<stopName>Lake Villa Station</stopName>
+		<stopAddr>129 Railroad Ave.</stopAddr>
+		<stopCity>Lake Villa,IL</stopCity>
+		<stopTitle>Lake Villa Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6736111</lat>
+		<lng>-88.0025</lng>
+		<stopName>Lemont Station</stopName>
+		<stopAddr>101 Main St.</stopAddr>
+		<stopCity>Lemont,Illinois</stopCity>
+		<stopTitle>Lemont Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6736111</lat>
+		<lng>-88.0025</lng>
+		<stopName>Lemont Station</stopName>
+		<stopAddr>101 Main St.</stopAddr>
+		<stopCity>Lemont,Illinois</stopCity>
+		<stopTitle>Lemont Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2911111</lat>
+		<lng>-87.9563889</lng>
+		<stopName>Libertyville Station</stopName>
+		<stopAddr>200 W. Lake St. at Milwaukee Ave.</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Libertyville Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2911111</lat>
+		<lng>-87.9563889</lng>
+		<stopName>Libertyville Station</stopName>
+		<stopAddr>200 W. Lake St. at Milwaukee Ave.</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Libertyville Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7977778</lat>
+		<lng>-88.0719444</lng>
+		<stopName>Lisle Station</stopName>
+		<stopAddr>1000 Front Street</stopAddr>
+		<stopCity>Lisle,Illinois</stopCity>
+		<stopTitle>Lisle Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7977778</lat>
+		<lng>-88.0719444</lng>
+		<stopName>Lisle Station</stopName>
+		<stopAddr>1000 Front Street</stopAddr>
+		<stopCity>Lisle,Illinois</stopCity>
+		<stopTitle>Lisle Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.585</lat>
+		<lng>-88.0602778</lng>
+		<stopName>Lockport Station</stopName>
+		<stopAddr>13th St. &amp; State St.</stopAddr>
+		<stopCity>Lockport,IL</stopCity>
+		<stopTitle>Lockport Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.585</lat>
+		<lng>-88.0602778</lng>
+		<stopName>Lockport Station</stopName>
+		<stopAddr>13th St. &amp; State St.</stopAddr>
+		<stopCity>Lockport,IL</stopCity>
+		<stopTitle>Lockport Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8866667</lat>
+		<lng>-88.0186111</lng>
+		<stopName>Lombard Station</stopName>
+		<stopAddr>20 S Main St.</stopAddr>
+		<stopCity>Lombard,lllinois</stopCity>
+		<stopTitle>Lombard Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8866667</lat>
+		<lng>-88.0186111</lng>
+		<stopName>Lombard Station</stopName>
+		<stopAddr>20 S Main St.</stopAddr>
+		<stopCity>Lombard,lllinois</stopCity>
+		<stopTitle>Lombard Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3680556</lat>
+		<lng>-88.1280556</lng>
+		<stopName>Long Lake Station</stopName>
+		<stopAddr>Decorah Ave. and Route 134</stopAddr>
+		<stopCity>Lake County,IL</stopCity>
+		<stopTitle>Long Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3680556</lat>
+		<lng>-88.1280556</lng>
+		<stopName>Long Lake Station</stopName>
+		<stopAddr>Decorah Ave. and Route 134</stopAddr>
+		<stopCity>Lake County,IL</stopCity>
+		<stopTitle>Long Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4183333</lat>
+		<lng>-87.9891667</lng>
+		<stopName>Manhattan Station</stopName>
+		<stopAddr>15601 W. Sweedler Rd.</stopAddr>
+		<stopCity>Manhattan ,Illinois</stopCity>
+		<stopTitle>Manhattan Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4183333</lat>
+		<lng>-87.9891667</lng>
+		<stopName>Manhattan Station</stopName>
+		<stopAddr>15601 W. Sweedler Rd.</stopAddr>
+		<stopCity>Manhattan ,Illinois</stopCity>
+		<stopTitle>Manhattan Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9416667</lat>
+		<lng>-87.8833333</lng>
+		<stopName>Mannheim Station</stopName>
+		<stopAddr>Front St. and Lincoln St.</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Mannheim Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9416667</lat>
+		<lng>-87.8833333</lng>
+		<stopName>Mannheim Station</stopName>
+		<stopAddr>Front St. and Lincoln St.</stopAddr>
+		<stopCity>Franklin Park,IL</stopCity>
+		<stopTitle>Mannheim Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9191667</lat>
+		<lng>-87.7944444</lng>
+		<stopName>Mars Station</stopName>
+		<stopAddr>6801 W. Shakespeare Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mars Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9191667</lat>
+		<lng>-87.7944444</lng>
+		<stopName>Mars Station</stopName>
+		<stopAddr>6801 W. Shakespeare Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mars Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4986111</lat>
+		<lng>-87.7022222</lng>
+		<stopName>Matteson Station</stopName>
+		<stopAddr>215th St. &amp; Main St.</stopAddr>
+		<stopCity>Matteson,IL</stopCity>
+		<stopTitle>Matteson Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4986111</lat>
+		<lng>-87.7022222</lng>
+		<stopName>Matteson Station</stopName>
+		<stopAddr>215th St. &amp; Main St.</stopAddr>
+		<stopCity>Matteson,IL</stopCity>
+		<stopTitle>Matteson Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9597222</lat>
+		<lng>-87.7458333</lng>
+		<stopName>Mayfair Station</stopName>
+		<stopAddr>4357 N. Cicero Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mayfair Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9597222</lat>
+		<lng>-87.7458333</lng>
+		<stopName>Mayfair Station</stopName>
+		<stopAddr>4357 N. Cicero Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mayfair Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8883333</lat>
+		<lng>-87.8386111</lng>
+		<stopName>Maywood Station</stopName>
+		<stopAddr>450 W. St. Charles</stopAddr>
+		<stopCity>Maywood,IL</stopCity>
+		<stopTitle>Maywood Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8883333</lat>
+		<lng>-87.8386111</lng>
+		<stopName>Maywood Station</stopName>
+		<stopAddr>450 W. St. Charles</stopAddr>
+		<stopCity>Maywood,IL</stopCity>
+		<stopTitle>Maywood Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8513889</lat>
+		<lng>-87.6163889</lng>
+		<stopName>McCormick Place Station</stopName>
+		<stopAddr>23rd St. between King Dr. &amp; Lake Shore Dr.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>McCormick Place Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8513889</lat>
+		<lng>-87.6163889</lng>
+		<stopName>McCormick Place Station</stopName>
+		<stopAddr>23rd St. between King Dr. &amp; Lake Shore Dr.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>McCormick Place Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3433333</lat>
+		<lng>-88.2761111</lng>
+		<stopName>McHenry Station</stopName>
+		<stopAddr>4005 Main Street</stopAddr>
+		<stopCity>McHenry,IL</stopCity>
+		<stopTitle>McHenry Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3433333</lat>
+		<lng>-88.2761111</lng>
+		<stopName>McHenry Station</stopName>
+		<stopAddr>4005 Main Street</stopAddr>
+		<stopCity>McHenry,IL</stopCity>
+		<stopTitle>McHenry Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9780556</lat>
+		<lng>-88.0508333</lng>
+		<stopName>Medinah Station</stopName>
+		<stopAddr>Medinah Rd., 1block North of Irving Park Rd.</stopAddr>
+		<stopCity>DuPage County,IL</stopCity>
+		<stopTitle>Medinah Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9780556</lat>
+		<lng>-88.0508333</lng>
+		<stopName>Medinah Station</stopName>
+		<stopAddr>Medinah Rd., 1block North of Irving Park Rd.</stopAddr>
+		<stopCity>DuPage County,IL</stopCity>
+		<stopTitle>Medinah Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8902778</lat>
+		<lng>-87.8555556</lng>
+		<stopName>Melrose Park Station</stopName>
+		<stopAddr>1801 W. Main St.</stopAddr>
+		<stopCity>Melrose Park,IL</stopCity>
+		<stopTitle>Melrose Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8902778</lat>
+		<lng>-87.8555556</lng>
+		<stopName>Melrose Park Station</stopName>
+		<stopAddr>1801 W. Main St.</stopAddr>
+		<stopCity>Melrose Park,IL</stopCity>
+		<stopTitle>Melrose Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6263889</lat>
+		<lng>-87.7116667</lng>
+		<stopName>Midlothian Station</stopName>
+		<stopAddr>3750 W. 147th St.</stopAddr>
+		<stopCity>Midlothian,IL</stopCity>
+		<stopTitle>Midlothian Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6263889</lat>
+		<lng>-87.7116667</lng>
+		<stopName>Midlothian Station</stopName>
+		<stopAddr>3750 W. 147th St.</stopAddr>
+		<stopCity>Midlothian,IL</stopCity>
+		<stopTitle>Midlothian Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.884159</lat>
+		<lng>-87.623149</lng>
+		<stopName>Millennium Station Station</stopName>
+		<stopAddr>151 N. Michigan Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Millennium Station Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.884159</lat>
+		<lng>-87.623149</lng>
+		<stopName>Millennium Station Station</stopName>
+		<stopAddr>151 N. Michigan Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Millennium Station Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5308333</lat>
+		<lng>-87.8866667</lng>
+		<stopName>Mokena Station</stopName>
+		<stopAddr>Mokena St. &amp; Front St.</stopAddr>
+		<stopCity>Mokena,IL</stopCity>
+		<stopTitle>Mokena Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5308333</lat>
+		<lng>-87.8866667</lng>
+		<stopName>Mokena Station</stopName>
+		<stopAddr>Mokena St. &amp; Front St.</stopAddr>
+		<stopCity>Mokena,IL</stopCity>
+		<stopTitle>Mokena Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9216667</lat>
+		<lng>-87.8016667</lng>
+		<stopName>Mont Clare Station</stopName>
+		<stopAddr>7007 W. Medill Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mont Clare Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9216667</lat>
+		<lng>-87.8016667</lng>
+		<stopName>Mont Clare Station</stopName>
+		<stopAddr>7007 W. Medill Street</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Mont Clare Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6927778</lat>
+		<lng>-87.6705556</lng>
+		<stopName>Morgan Park - 111th Street Station</stopName>
+		<stopAddr>11046 S. Hale Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Morgan Park - 111th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6927778</lat>
+		<lng>-87.6705556</lng>
+		<stopName>Morgan Park - 111th Street Station</stopName>
+		<stopAddr>11046 S. Hale Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Morgan Park - 111th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.685</lat>
+		<lng>-87.6716667</lng>
+		<stopName>Morgan Park - 115th Street Station</stopName>
+		<stopAddr>1982 W 115th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Morgan Park - 115th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.685</lat>
+		<lng>-87.6716667</lng>
+		<stopName>Morgan Park - 115th Street Station</stopName>
+		<stopAddr>1982 W 115th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Morgan Park - 115th Street Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.035</lat>
+		<lng>-87.7852778</lng>
+		<stopName>Morton Grove Station</stopName>
+		<stopAddr>8501 Lehigh Ave</stopAddr>
+		<stopCity>Morton Grove,IL</stopCity>
+		<stopTitle>Morton Grove Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.035</lat>
+		<lng>-87.7852778</lng>
+		<stopName>Morton Grove Station</stopName>
+		<stopAddr>8501 Lehigh Ave</stopAddr>
+		<stopCity>Morton Grove,IL</stopCity>
+		<stopTitle>Morton Grove Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0630556</lat>
+		<lng>-87.9361111</lng>
+		<stopName>Mount Prospect Station</stopName>
+		<stopAddr>13 E. Northwest Hwy. (at Main St.)</stopAddr>
+		<stopCity>Mount Prospect,IL</stopCity>
+		<stopTitle>Mount Prospect Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0630556</lat>
+		<lng>-87.9361111</lng>
+		<stopName>Mount Prospect Station</stopName>
+		<stopAddr>13 E. Northwest Hwy. (at Main St.)</stopAddr>
+		<stopCity>Mount Prospect,IL</stopCity>
+		<stopTitle>Mount Prospect Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2669444</lat>
+		<lng>-87.9980556</lng>
+		<stopName>Mundelein Station</stopName>
+		<stopAddr>205 N. Archer Ave.</stopAddr>
+		<stopCity>Mundelein,IL</stopCity>
+		<stopTitle>Mundelein Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2669444</lat>
+		<lng>-87.9980556</lng>
+		<stopName>Mundelein Station</stopName>
+		<stopAddr>205 N. Archer Ave.</stopAddr>
+		<stopCity>Mundelein,IL</stopCity>
+		<stopTitle>Mundelein Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8686111</lat>
+		<lng>-87.6213889</lng>
+		<stopName>Museum Campus / 11th Street Station</stopName>
+		<stopAddr>Michigan Ave. at 11th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Museum Campus / 11th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8686111</lat>
+		<lng>-87.6213889</lng>
+		<stopName>Museum Campus / 11th Street Station</stopName>
+		<stopAddr>Michigan Ave. at 11th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Museum Campus / 11th Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7797222</lat>
+		<lng>-88.1455556</lng>
+		<stopName>Naperville Station</stopName>
+		<stopAddr>105 E. 4th Ave.</stopAddr>
+		<stopCity>Naperville,IL</stopCity>
+		<stopTitle>Naperville Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7797222</lat>
+		<lng>-88.1455556</lng>
+		<stopName>Naperville Station</stopName>
+		<stopAddr>105 E. 4th Ave.</stopAddr>
+		<stopCity>Naperville,IL</stopCity>
+		<stopTitle>Naperville Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0263889</lat>
+		<lng>-88.2788889</lng>
+		<stopName>National Street Station</stopName>
+		<stopAddr>85 National Street</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>National Street Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0263889</lat>
+		<lng>-88.2788889</lng>
+		<stopName>National Street Station</stopName>
+		<stopAddr>85 National Street</stopAddr>
+		<stopCity>Elgin,IL</stopCity>
+		<stopTitle>National Street Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5144444</lat>
+		<lng>-87.9652778</lng>
+		<stopName>New Lenox Station</stopName>
+		<stopAddr>300 N. Church St.</stopAddr>
+		<stopCity>New Lenox,IL</stopCity>
+		<stopTitle>New Lenox Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5144444</lat>
+		<lng>-87.9652778</lng>
+		<stopName>New Lenox Station</stopName>
+		<stopAddr>300 N. Church St.</stopAddr>
+		<stopCity>New Lenox,IL</stopCity>
+		<stopTitle>New Lenox Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4847222</lat>
+		<lng>-87.9597222</lng>
+		<stopName>New Lenox Laraway Road Station</stopName>
+		<stopAddr>1861 Village Station Blvd.</stopAddr>
+		<stopCity>New Lenox,Illinois</stopCity>
+		<stopTitle>New Lenox Laraway Road Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4847222</lat>
+		<lng>-87.9597222</lng>
+		<stopName>New Lenox Laraway Road Station</stopName>
+		<stopAddr>1861 Village Station Blvd.</stopAddr>
+		<stopCity>New Lenox,Illinois</stopCity>
+		<stopTitle>New Lenox Laraway Road Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3286111</lat>
+		<lng>-87.8369444</lng>
+		<stopName>North Chicago Station</stopName>
+		<stopAddr>1633 Lakeside Ave.</stopAddr>
+		<stopCity>North Chicago,IL</stopCity>
+		<stopTitle>North Chicago Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3286111</lat>
+		<lng>-87.8369444</lng>
+		<stopName>North Chicago Station</stopName>
+		<stopAddr>1633 Lakeside Ave.</stopAddr>
+		<stopCity>North Chicago,IL</stopCity>
+		<stopTitle>North Chicago Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1269444</lat>
+		<lng>-87.8277778</lng>
+		<stopName>Northbrook Station</stopName>
+		<stopAddr>1340 Shermer Rd.</stopAddr>
+		<stopCity>Northbrook,IL</stopCity>
+		<stopTitle>Northbrook Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1269444</lat>
+		<lng>-87.8277778</lng>
+		<stopName>Northbrook Station</stopName>
+		<stopAddr>1340 Shermer Rd.</stopAddr>
+		<stopCity>Northbrook,IL</stopCity>
+		<stopTitle>Northbrook Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9916667</lat>
+		<lng>-87.7988889</lng>
+		<stopName>Norwood Park Station</stopName>
+		<stopAddr>6088 N. Northwest Highway</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Norwood Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9916667</lat>
+		<lng>-87.7988889</lng>
+		<stopName>Norwood Park Station</stopName>
+		<stopAddr>6088 N. Northwest Highway</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Norwood Park Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.995</lat>
+		<lng>-87.8805556</lng>
+		<stopName>O'Hare Transfer Station</stopName>
+		<stopAddr>10300 Zemke Rd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>O'Hare Transfer Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.995</lat>
+		<lng>-87.8805556</lng>
+		<stopName>O'Hare Transfer Station</stopName>
+		<stopAddr>10300 Zemke Rd.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>O'Hare Transfer Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6044444</lat>
+		<lng>-87.7383333</lng>
+		<stopName>Oak Forest Station</stopName>
+		<stopAddr>4850 W.159th St.</stopAddr>
+		<stopCity>Oak Forest,IL</stopCity>
+		<stopTitle>Oak Forest Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6044444</lat>
+		<lng>-87.7383333</lng>
+		<stopName>Oak Forest Station</stopName>
+		<stopAddr>4850 W.159th St.</stopAddr>
+		<stopCity>Oak Forest,IL</stopCity>
+		<stopTitle>Oak Forest Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7194444</lat>
+		<lng>-87.7486111</lng>
+		<stopName>Oak Lawn Station</stopName>
+		<stopAddr>9525 S. Tulley Ave.</stopAddr>
+		<stopCity>Oak Lawn,IL</stopCity>
+		<stopTitle>Oak Lawn Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7194444</lat>
+		<lng>-87.7486111</lng>
+		<stopName>Oak Lawn Station</stopName>
+		<stopAddr>9525 S. Tulley Ave.</stopAddr>
+		<stopCity>Oak Lawn,IL</stopCity>
+		<stopTitle>Oak Lawn Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8869444</lat>
+		<lng>-87.8011111</lng>
+		<stopName>Oak Park Station</stopName>
+		<stopAddr>1115 W. North Blvd.</stopAddr>
+		<stopCity>Oak Park,Illinois</stopCity>
+		<stopTitle>Oak Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8869444</lat>
+		<lng>-87.8011111</lng>
+		<stopName>Oak Park Station</stopName>
+		<stopAddr>1115 W. North Blvd.</stopAddr>
+		<stopCity>Oak Park,Illinois</stopCity>
+		<stopTitle>Oak Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8822222</lat>
+		<lng>-87.6405556</lng>
+		<stopName>Ogilvie Transportation Center Station</stopName>
+		<stopAddr>500 W. Madison St.</stopAddr>
+		<stopCity>Chicago,Illinois</stopCity>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8822222</lat>
+		<lng>-87.6405556</lng>
+		<stopName>Ogilvie Transportation Center Station</stopName>
+		<stopAddr>500 W. Madison St.</stopAddr>
+		<stopCity>Chicago,Illinois</stopCity>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+		<stopTitle>Ogilvie Transportation Center Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5213889</lat>
+		<lng>-87.69</lng>
+		<stopName>Olympia Fields Station</stopName>
+		<stopAddr>203rd St., 2 blocks East of Kedzie Ave.</stopAddr>
+		<stopCity>Olympia Fields,IL</stopCity>
+		<stopTitle>Olympia Fields Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5213889</lat>
+		<lng>-87.69</lng>
+		<stopName>Olympia Fields Station</stopName>
+		<stopAddr>203rd St., 2 blocks East of Kedzie Ave.</stopAddr>
+		<stopCity>Olympia Fields,IL</stopCity>
+		<stopTitle>Olympia Fields Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6305556</lat>
+		<lng>-87.8591667</lng>
+		<stopName>Orland Park 143rd Street Station</stopName>
+		<stopAddr>143rd St. &amp; Southwest Hwy.</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 143rd Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6305556</lat>
+		<lng>-87.8591667</lng>
+		<stopName>Orland Park 143rd Street Station</stopName>
+		<stopAddr>143rd St. &amp; Southwest Hwy.</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 143rd Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6094444</lat>
+		<lng>-87.8733333</lng>
+		<stopName>Orland Park 153rd Street Station</stopName>
+		<stopAddr>10401 W. 153rd Street</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 153rd Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6094444</lat>
+		<lng>-87.8733333</lng>
+		<stopName>Orland Park 153rd Street Station</stopName>
+		<stopAddr>10401 W. 153rd Street</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 153rd Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5638889</lat>
+		<lng>-87.9025</lng>
+		<stopName>Orland Park 179th Street Station</stopName>
+		<stopAddr>179th St. &amp; Southwest Hwy.</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 179th Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5638889</lat>
+		<lng>-87.9025</lng>
+		<stopName>Orland Park 179th Street Station</stopName>
+		<stopAddr>179th St. &amp; Southwest Hwy.</stopAddr>
+		<stopCity>Orland Park,IL</stopCity>
+		<stopTitle>Orland Park 179th Street Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1130556</lat>
+		<lng>-88.0483333</lng>
+		<stopName>Palatine Station</stopName>
+		<stopAddr>137 W. Wood</stopAddr>
+		<stopCity>Palatine,IL</stopCity>
+		<stopTitle>Palatine Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1130556</lat>
+		<lng>-88.0483333</lng>
+		<stopName>Palatine Station</stopName>
+		<stopAddr>137 W. Wood</stopAddr>
+		<stopCity>Palatine,IL</stopCity>
+		<stopTitle>Palatine Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6819444</lat>
+		<lng>-87.8069444</lng>
+		<stopName>Palos Heights Station</stopName>
+		<stopAddr>11451 Southwest Highway</stopAddr>
+		<stopCity>Palos Heights,Illinois</stopCity>
+		<stopTitle>Palos Heights Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6819444</lat>
+		<lng>-87.8069444</lng>
+		<stopName>Palos Heights Station</stopName>
+		<stopAddr>11451 Southwest Highway</stopAddr>
+		<stopCity>Palos Heights,Illinois</stopCity>
+		<stopTitle>Palos Heights Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6688889</lat>
+		<lng>-87.8202778</lng>
+		<stopName>Palos Park Station</stopName>
+		<stopAddr>123rd St. &amp; 82nd Ave.</stopAddr>
+		<stopCity>Palos Park,IL</stopCity>
+		<stopTitle>Palos Park Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6688889</lat>
+		<lng>-87.8202778</lng>
+		<stopName>Palos Park Station</stopName>
+		<stopAddr>123rd St. &amp; 82nd Ave.</stopAddr>
+		<stopCity>Palos Park,IL</stopCity>
+		<stopTitle>Palos Park Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0102778</lat>
+		<lng>-87.8316667</lng>
+		<stopName>Park Ridge Station</stopName>
+		<stopAddr>100 S. Summit Ave.</stopAddr>
+		<stopCity>Park Ridge,IL</stopCity>
+		<stopTitle>Park Ridge Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0102778</lat>
+		<lng>-87.8316667</lng>
+		<stopName>Park Ridge Station</stopName>
+		<stopAddr>100 S. Summit Ave.</stopAddr>
+		<stopCity>Park Ridge,IL</stopCity>
+		<stopTitle>Park Ridge Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2341667</lat>
+		<lng>-88.2980556</lng>
+		<stopName>Pingree Road Station</stopName>
+		<stopAddr>570 Congress Pkwy. (at Pingree Rd.)</stopAddr>
+		<stopCity>Crystal Lake,IL</stopCity>
+		<stopTitle>Pingree Road Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2341667</lat>
+		<lng>-88.2980556</lng>
+		<stopName>Pingree Road Station</stopName>
+		<stopAddr>570 Congress Pkwy. (at Pingree Rd.)</stopAddr>
+		<stopCity>Crystal Lake,IL</stopCity>
+		<stopTitle>Pingree Road Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3180556</lat>
+		<lng>-88.0172222</lng>
+		<stopName>Prairie Crossing / Libertyville Station</stopName>
+		<stopAddr>3001 W. Midlothian Road</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Prairie Crossing / Libertyville Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3180556</lat>
+		<lng>-88.0172222</lng>
+		<stopName>Prairie Crossing / Libertyville Station</stopName>
+		<stopAddr>3001 W. Midlothian Road</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Prairie Crossing / Libertyville Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3208333</lat>
+		<lng>-88.0152778</lng>
+		<stopName>Prairie Crossing/Libertyville Station</stopName>
+		<stopAddr>3001 Midlothian Rd.</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Prairie Crossing/Libertyville Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3208333</lat>
+		<lng>-88.0152778</lng>
+		<stopName>Prairie Crossing/Libertyville Station</stopName>
+		<stopAddr>3001 Midlothian Rd.</stopAddr>
+		<stopCity>Libertyville,IL</stopCity>
+		<stopTitle>Prairie Crossing/Libertyville Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6625</lat>
+		<lng>-87.675</lng>
+		<stopName>Prairie St. Station</stopName>
+		<stopAddr>2100 W. Prairie St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Prairie St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6625</lat>
+		<lng>-87.675</lng>
+		<stopName>Prairie St. Station</stopName>
+		<stopAddr>2100 W. Prairie St.</stopAddr>
+		<stopCity>Blue Island,IL</stopCity>
+		<stopTitle>Prairie St. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1980556</lat>
+		<lng>-87.9558333</lng>
+		<stopName>Prairie View Station</stopName>
+		<stopAddr>2701 Main Street</stopAddr>
+		<stopCity>Vernon Township,IL</stopCity>
+		<stopTitle>Prairie View Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1980556</lat>
+		<lng>-87.9558333</lng>
+		<stopName>Prairie View Station</stopName>
+		<stopAddr>2701 Main Street</stopAddr>
+		<stopCity>Vernon Township,IL</stopCity>
+		<stopTitle>Prairie View Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0922222</lat>
+		<lng>-87.9080556</lng>
+		<stopName>Prospect Heights Station</stopName>
+		<stopAddr>55 South Wolf Road</stopAddr>
+		<stopCity>Prospect Heights,IL</stopCity>
+		<stopTitle>Prospect Heights Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0922222</lat>
+		<lng>-87.9080556</lng>
+		<stopName>Prospect Heights Station</stopName>
+		<stopAddr>55 South Wolf Road</stopAddr>
+		<stopCity>Prospect Heights,IL</stopCity>
+		<stopTitle>Prospect Heights Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6741667</lat>
+		<lng>-87.6519444</lng>
+		<stopName>Racine Station</stopName>
+		<stopAddr>Racine Ave., South of 120th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Racine Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6741667</lat>
+		<lng>-87.6519444</lng>
+		<stopName>Racine Station</stopName>
+		<stopAddr>Racine Ave., South of 120th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Racine Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9683333</lat>
+		<lng>-87.6744444</lng>
+		<stopName>Ravenswood Station</stopName>
+		<stopAddr>4800 N. Ravenswood Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Ravenswood Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9683333</lat>
+		<lng>-87.6744444</lng>
+		<stopName>Ravenswood Station</stopName>
+		<stopAddr>4800 N. Ravenswood Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Ravenswood Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.165</lat>
+		<lng>-87.7827778</lng>
+		<stopName>Ravinia Station</stopName>
+		<stopAddr>510 Roger Williams Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Ravinia Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.165</lat>
+		<lng>-87.7827778</lng>
+		<stopName>Ravinia Station</stopName>
+		<stopAddr>510 Roger Williams Ave.</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Ravinia Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1580556</lat>
+		<lng>-87.7769444</lng>
+		<stopName>Ravinia Park Station</stopName>
+		<stopAddr>418 Sheridan Road</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Ravinia Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1580556</lat>
+		<lng>-87.7769444</lng>
+		<stopName>Ravinia Park Station</stopName>
+		<stopAddr>418 Sheridan Road</stopAddr>
+		<stopCity>Highland Park,IL</stopCity>
+		<stopTitle>Ravinia Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4855556</lat>
+		<lng>-87.7094444</lng>
+		<stopName>Richton Park Station</stopName>
+		<stopAddr>Sauk Trail, East of Governors Hwy.</stopAddr>
+		<stopCity>Richton Park,IL</stopCity>
+		<stopTitle>Richton Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4855556</lat>
+		<lng>-87.7094444</lng>
+		<stopName>Richton Park Station</stopName>
+		<stopAddr>Sauk Trail, East of Governors Hwy.</stopAddr>
+		<stopCity>Richton Park,IL</stopCity>
+		<stopTitle>Richton Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8869444</lat>
+		<lng>-87.825</lng>
+		<stopName>River Forest Station</stopName>
+		<stopAddr>8001 W. Central St.</stopAddr>
+		<stopCity>River Forest,IL</stopCity>
+		<stopTitle>River Forest Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8869444</lat>
+		<lng>-87.825</lng>
+		<stopName>River Forest Station</stopName>
+		<stopAddr>8001 W. Central St.</stopAddr>
+		<stopCity>River Forest,IL</stopCity>
+		<stopTitle>River Forest Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9311111</lat>
+		<lng>-87.8361111</lng>
+		<stopName>River Grove Station</stopName>
+		<stopAddr>8421 Arnold Ave.</stopAddr>
+		<stopCity>River Grove,IL</stopCity>
+		<stopTitle>River Grove Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>River Grove Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9311111</lat>
+		<lng>-87.8361111</lng>
+		<stopName>River Grove Station</stopName>
+		<stopAddr>8421 Arnold Ave.</stopAddr>
+		<stopCity>River Grove,IL</stopCity>
+		<stopTitle>River Grove Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>River Grove Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6466667</lat>
+		<lng>-87.6233333</lng>
+		<stopName>Riverdale Station</stopName>
+		<stopAddr>137th St. &amp; Illinois St.</stopAddr>
+		<stopCity>Riverdale,IL</stopCity>
+		<stopTitle>Riverdale Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6466667</lat>
+		<lng>-87.6233333</lng>
+		<stopName>Riverdale Station</stopName>
+		<stopAddr>137th St. &amp; Illinois St.</stopAddr>
+		<stopCity>Riverdale,IL</stopCity>
+		<stopTitle>Riverdale Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8272222</lat>
+		<lng>-87.82</lng>
+		<stopName>Riverside Station</stopName>
+		<stopAddr>90 Bloomingbank Road</stopAddr>
+		<stopCity>Riverside,IL</stopCity>
+		<stopTitle>Riverside Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8272222</lat>
+		<lng>-87.82</lng>
+		<stopName>Riverside Station</stopName>
+		<stopAddr>90 Bloomingbank Road</stopAddr>
+		<stopCity>Riverside,IL</stopCity>
+		<stopTitle>Riverside Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6408333</lat>
+		<lng>-87.6944444</lng>
+		<stopName>Robbins Station</stopName>
+		<stopAddr>139th St. &amp; Utica Ave.</stopAddr>
+		<stopCity>Robbins,IL</stopCity>
+		<stopTitle>Robbins Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6408333</lat>
+		<lng>-87.6944444</lng>
+		<stopName>Robbins Station</stopName>
+		<stopAddr>139th St. &amp; Utica Ave.</stopAddr>
+		<stopCity>Robbins,IL</stopCity>
+		<stopTitle>Robbins Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0094444</lat>
+		<lng>-87.6755556</lng>
+		<stopName>Rogers Park Station</stopName>
+		<stopAddr>7000 N. Ravenswood Ave</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Rogers Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0094444</lat>
+		<lng>-87.6755556</lng>
+		<stopName>Rogers Park Station</stopName>
+		<stopAddr>7000 N. Ravenswood Ave</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Rogers Park Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9813889</lat>
+		<lng>-88.0672222</lng>
+		<stopName>Roselle Station</stopName>
+		<stopAddr>540 Irving Park Rd.</stopAddr>
+		<stopCity>Roselle,IL</stopCity>
+		<stopTitle>Roselle Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9813889</lat>
+		<lng>-88.0672222</lng>
+		<stopName>Roselle Station</stopName>
+		<stopAddr>540 Irving Park Rd.</stopAddr>
+		<stopCity>Roselle,IL</stopCity>
+		<stopTitle>Roselle Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9761111</lat>
+		<lng>-87.8738889</lng>
+		<stopName>Rosemont Station</stopName>
+		<stopAddr>10005 Balmoral Avenue</stopAddr>
+		<stopCity>Rosemont,IL</stopCity>
+		<stopTitle>Rosemont Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9761111</lat>
+		<lng>-87.8738889</lng>
+		<stopName>Rosemont Station</stopName>
+		<stopAddr>10005 Balmoral Avenue</stopAddr>
+		<stopCity>Rosemont,IL</stopCity>
+		<stopTitle>Rosemont Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3544444</lat>
+		<lng>-88.0941667</lng>
+		<stopName>Round Lake Station</stopName>
+		<stopAddr>Route 134 and Cedar Lake Rd.</stopAddr>
+		<stopCity>Round Lake ,IL</stopCity>
+		<stopTitle>Round Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3544444</lat>
+		<lng>-88.0941667</lng>
+		<stopName>Round Lake Station</stopName>
+		<stopAddr>Route 134 and Cedar Lake Rd.</stopAddr>
+		<stopCity>Round Lake ,IL</stopCity>
+		<stopTitle>Round Lake Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.385</lat>
+		<lng>-88.0655556</lng>
+		<stopName>Round Lake Beach Station</stopName>
+		<stopAddr>680 East Mallard Creek Dr.</stopAddr>
+		<stopCity>Round Lake Beach,IL</stopCity>
+		<stopTitle>Round Lake Beach Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.385</lat>
+		<lng>-88.0655556</lng>
+		<stopName>Round Lake Beach Station</stopName>
+		<stopAddr>680 East Mallard Creek Dr.</stopAddr>
+		<stopCity>Round Lake Beach,IL</stopCity>
+		<stopTitle>Round Lake Beach Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7777778</lat>
+		<lng>-88.2086111</lng>
+		<stopName>Route 59 Station</stopName>
+		<stopAddr>1090 N. Route 59</stopAddr>
+		<stopCity>Aurora,IL</stopCity>
+		<stopTitle>Route 59 Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7777778</lat>
+		<lng>-88.2086111</lng>
+		<stopName>Route 59 Station</stopName>
+		<stopAddr>1090 N. Route 59</stopAddr>
+		<stopCity>Aurora,IL</stopCity>
+		<stopTitle>Route 59 Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9891667</lat>
+		<lng>-88.1180556</lng>
+		<stopName>Schaumburg Station</stopName>
+		<stopAddr>2000 S. Springinsguth Rd.</stopAddr>
+		<stopCity>Schaumburg,IL</stopCity>
+		<stopTitle>Schaumburg Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9891667</lat>
+		<lng>-88.1180556</lng>
+		<stopName>Schaumburg Station</stopName>
+		<stopAddr>2000 S. Springinsguth Rd.</stopAddr>
+		<stopCity>Schaumburg,IL</stopCity>
+		<stopTitle>Schaumburg Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9627778</lat>
+		<lng>-87.8705556</lng>
+		<stopName>Schiller Park Station</stopName>
+		<stopAddr>4555 Ruby Street</stopAddr>
+		<stopCity>Schiller Park,IL</stopCity>
+		<stopTitle>Schiller Park Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9627778</lat>
+		<lng>-87.8705556</lng>
+		<stopName>Schiller Park Station</stopName>
+		<stopAddr>4555 Ruby Street</stopAddr>
+		<stopCity>Schiller Park,IL</stopCity>
+		<stopTitle>Schiller Park Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7652778</lat>
+		<lng>-87.5658333</lng>
+		<stopName>South Shore Station</stopName>
+		<stopAddr>71st St. near Yates Blvd. &amp; South Shore Dr.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>South Shore Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7652778</lat>
+		<lng>-87.5658333</lng>
+		<stopName>South Shore Station</stopName>
+		<stopAddr>71st St. near Yates Blvd. &amp; South Shore Dr.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>South Shore Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6744444</lat>
+		<lng>-87.6219444</lng>
+		<stopName>State Street Station</stopName>
+		<stopAddr>State St., South of 120th Place</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>State Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6744444</lat>
+		<lng>-87.6219444</lng>
+		<stopName>State Street Station</stopName>
+		<stopAddr>State St., South of 120th Place</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>State Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6744444</lat>
+		<lng>-87.6316667</lng>
+		<stopName>Stewart Ridge Station</stopName>
+		<stopAddr>Stewart Ave., South of 120th Place</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Stewart Ridge Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6744444</lat>
+		<lng>-87.6316667</lng>
+		<stopName>Stewart Ridge Station</stopName>
+		<stopAddr>Stewart Ave., South of 120th Place</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Stewart Ridge Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7661111</lat>
+		<lng>-87.5869444</lng>
+		<stopName>Stony Island Station</stopName>
+		<stopAddr>71st St. at Stony Island Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Stony Island Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7661111</lat>
+		<lng>-87.5869444</lng>
+		<stopName>Stony Island Station</stopName>
+		<stopAddr>71st St. at Stony Island Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Stony Island Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.795</lat>
+		<lng>-87.8097222</lng>
+		<stopName>Summit Station</stopName>
+		<stopAddr>Center St. &amp; Hanover Ave.</stopAddr>
+		<stopCity>Summit,IL</stopCity>
+		<stopTitle>Summit Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.795</lat>
+		<lng>-87.8097222</lng>
+		<stopName>Summit Station</stopName>
+		<stopAddr>Center St. &amp; Hanover Ave.</stopAddr>
+		<stopCity>Summit,IL</stopCity>
+		<stopTitle>Summit Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5758333</lat>
+		<lng>-87.7827778</lng>
+		<stopName>Tinley Park Station</stopName>
+		<stopAddr>6700 South St.</stopAddr>
+		<stopCity>Tinley Park,IL</stopCity>
+		<stopTitle>Tinley Park Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5758333</lat>
+		<lng>-87.7827778</lng>
+		<stopName>Tinley Park Station</stopName>
+		<stopAddr>6700 South St.</stopAddr>
+		<stopCity>Tinley Park,IL</stopCity>
+		<stopTitle>Tinley Park Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5644444</lat>
+		<lng>-87.8094444</lng>
+		<stopName>Tinley Park - 80th Ave. Station</stopName>
+		<stopAddr>18001 S. 80th Ave.</stopAddr>
+		<stopCity>Tinley Park,IL</stopCity>
+		<stopTitle>Tinley Park - 80th Ave. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.5644444</lat>
+		<lng>-87.8094444</lng>
+		<stopName>Tinley Park - 80th Ave. Station</stopName>
+		<stopAddr>18001 S. 80th Ave.</stopAddr>
+		<stopCity>Tinley Park,IL</stopCity>
+		<stopTitle>Tinley Park - 80th Ave. Station</stopTitle>
+		<stopLine>RI</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8788889</lat>
+		<lng>-87.6388889</lng>
+		<stopName>Union Station Station</stopName>
+		<stopAddr>210 South Canal St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>HC</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8788889</lat>
+		<lng>-87.6388889</lng>
+		<stopName>Union Station Station</stopName>
+		<stopAddr>210 South Canal St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>HC</stopLine>
+		<stopTitle>Union Station Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4594444</lat>
+		<lng>-87.7233333</lng>
+		<stopName>University Park Station</stopName>
+		<stopAddr>1900 University Parkway</stopAddr>
+		<stopCity>University Park,IL</stopCity>
+		<stopTitle>University Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.4594444</lat>
+		<lng>-87.7233333</lng>
+		<stopName>University Park Station</stopName>
+		<stopAddr>1900 University Parkway</stopAddr>
+		<stopCity>University Park,IL</stopCity>
+		<stopTitle>University Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8769444</lat>
+		<lng>-87.6230556</lng>
+		<stopName>Van Buren Street Station</stopName>
+		<stopAddr>132 E. Van Buren</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Van Buren Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8769444</lat>
+		<lng>-87.6230556</lng>
+		<stopName>Van Buren Street Station</stopName>
+		<stopAddr>132 E. Van Buren</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Van Buren Street Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2155556</lat>
+		<lng>-87.9644444</lng>
+		<stopName>Vernon Hills Station</stopName>
+		<stopAddr>75 East Rt 45</stopAddr>
+		<stopCity>Vernon Hills,IL</stopCity>
+		<stopTitle>Vernon Hills Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.2155556</lat>
+		<lng>-87.9644444</lng>
+		<stopName>Vernon Hills Station</stopName>
+		<stopAddr>75 East Rt 45</stopAddr>
+		<stopCity>Vernon Hills,IL</stopCity>
+		<stopTitle>Vernon Hills Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8963889</lat>
+		<lng>-87.9775</lng>
+		<stopName>Villa Park Station</stopName>
+		<stopAddr>349 N Ardmore Ave.</stopAddr>
+		<stopCity>Villa Park,IL</stopCity>
+		<stopTitle>Villa Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8963889</lat>
+		<lng>-87.9775</lng>
+		<stopName>Villa Park Station</stopName>
+		<stopAddr>349 N Ardmore Ave.</stopAddr>
+		<stopCity>Villa Park,IL</stopCity>
+		<stopTitle>Villa Park Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3591667</lat>
+		<lng>-88.0505556</lng>
+		<stopName>Washington St. / Grayslake Station</stopName>
+		<stopAddr>330 W. Washington St.</stopAddr>
+		<stopCity>Grayslake ,IL</stopCity>
+		<stopTitle>Washington St. / Grayslake Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3591667</lat>
+		<lng>-88.0505556</lng>
+		<stopName>Washington St. / Grayslake Station</stopName>
+		<stopAddr>330 W. Washington St.</stopAddr>
+		<stopCity>Grayslake ,IL</stopCity>
+		<stopTitle>Washington St. / Grayslake Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3605556</lat>
+		<lng>-87.8283333</lng>
+		<stopName>Waukegan Station</stopName>
+		<stopAddr>95 N. Spring St.</stopAddr>
+		<stopCity>Waukegan,IL</stopCity>
+		<stopTitle>Waukegan Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3605556</lat>
+		<lng>-87.8283333</lng>
+		<stopName>Waukegan Station</stopName>
+		<stopAddr>95 N. Spring St.</stopAddr>
+		<stopCity>Waukegan,IL</stopCity>
+		<stopTitle>Waukegan Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8811111</lat>
+		<lng>-88.1988889</lng>
+		<stopName>West Chicago Station</stopName>
+		<stopAddr>508 W. Main St.</stopAddr>
+		<stopCity>West Chicago,IL</stopCity>
+		<stopTitle>West Chicago Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8811111</lat>
+		<lng>-88.1988889</lng>
+		<stopName>West Chicago Station</stopName>
+		<stopAddr>508 W. Main St.</stopAddr>
+		<stopCity>West Chicago,IL</stopCity>
+		<stopTitle>West Chicago Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7988889</lat>
+		<lng>-87.9452778</lng>
+		<stopName>West Hinsdale Station</stopName>
+		<stopAddr>Hinsdale Ave. &amp; Stough St.</stopAddr>
+		<stopCity>Hinsdale,IL</stopCity>
+		<stopTitle>West Hinsdale Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7988889</lat>
+		<lng>-87.9452778</lng>
+		<stopName>West Hinsdale Station</stopName>
+		<stopAddr>Hinsdale Ave. &amp; Stough St.</stopAddr>
+		<stopCity>Hinsdale,IL</stopCity>
+		<stopTitle>West Hinsdale Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6741667</lat>
+		<lng>-87.6422222</lng>
+		<stopName>West Pullman Station</stopName>
+		<stopAddr>Halsted St., South of 120th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>West Pullman Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6741667</lat>
+		<lng>-87.6422222</lng>
+		<stopName>West Pullman Station</stopName>
+		<stopAddr>Halsted St., South of 120th St.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>West Pullman Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8577778</lat>
+		<lng>-87.6852778</lng>
+		<stopName>Western Avenue Station</stopName>
+		<stopAddr>18th &amp; Western Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8577778</lat>
+		<lng>-87.6852778</lng>
+		<stopName>Western Avenue Station</stopName>
+		<stopAddr>18th &amp; Western Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8891667</lat>
+		<lng>-87.6880556</lng>
+		<stopName>Western Avenue Station</stopName>
+		<stopAddr>420 N. Artesian</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8891667</lat>
+		<lng>-87.6880556</lng>
+		<stopName>Western Avenue Station</stopName>
+		<stopAddr>420 N. Artesian</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>MD-N</stopLine>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>NCS</stopLine>
+		<stopTitle>Western Avenue Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8088889</lat>
+		<lng>-87.9011111</lng>
+		<stopName>Western Springs Station</stopName>
+		<stopAddr>914 Burlington Ave.</stopAddr>
+		<stopCity>Western Springs,IL</stopCity>
+		<stopTitle>Western Springs Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8088889</lat>
+		<lng>-87.9011111</lng>
+		<stopName>Western Springs Station</stopName>
+		<stopAddr>914 Burlington Ave.</stopAddr>
+		<stopCity>Western Springs,IL</stopCity>
+		<stopTitle>Western Springs Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7955556</lat>
+		<lng>-87.9763889</lng>
+		<stopName>Westmont Station</stopName>
+		<stopAddr>1 West Quincy</stopAddr>
+		<stopCity>Westmont,IL</stopCity>
+		<stopTitle>Westmont Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7955556</lat>
+		<lng>-87.9763889</lng>
+		<stopName>Westmont Station</stopName>
+		<stopAddr>1 West Quincy</stopAddr>
+		<stopCity>Westmont,IL</stopCity>
+		<stopTitle>Westmont Station</stopTitle>
+		<stopLine>BNSF</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8644444</lat>
+		<lng>-88.1119444</lng>
+		<stopName>Wheaton Station</stopName>
+		<stopAddr>402 W. Front St.</stopAddr>
+		<stopCity>Wheaton,IL</stopCity>
+		<stopTitle>Wheaton Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.8644444</lat>
+		<lng>-88.1119444</lng>
+		<stopName>Wheaton Station</stopName>
+		<stopAddr>402 W. Front St.</stopAddr>
+		<stopCity>Wheaton,IL</stopCity>
+		<stopTitle>Wheaton Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1363889</lat>
+		<lng>-87.9272222</lng>
+		<stopName>Wheeling Station</stopName>
+		<stopAddr>400 Town Street</stopAddr>
+		<stopCity>Wheeling,IL</stopCity>
+		<stopTitle>Wheeling Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1363889</lat>
+		<lng>-87.9272222</lng>
+		<stopName>Wheeling Station</stopName>
+		<stopAddr>400 Town Street</stopAddr>
+		<stopCity>Wheeling,IL</stopCity>
+		<stopTitle>Wheeling Station</stopTitle>
+		<stopLine>NCS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7333333</lat>
+		<lng>-87.8783333</lng>
+		<stopName>Willow Springs Station</stopName>
+		<stopAddr>87th St. &amp; Archer Ave.</stopAddr>
+		<stopCity>Willow Springs,IL</stopCity>
+		<stopTitle>Willow Springs Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7333333</lat>
+		<lng>-87.8783333</lng>
+		<stopName>Willow Springs Station</stopName>
+		<stopAddr>87th St. &amp; Archer Ave.</stopAddr>
+		<stopCity>Willow Springs,IL</stopCity>
+		<stopTitle>Willow Springs Station</stopTitle>
+		<stopLine>HC</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0772222</lat>
+		<lng>-87.7091667</lng>
+		<stopName>Wilmette Station</stopName>
+		<stopAddr>722 Green Bay Rd.</stopAddr>
+		<stopCity>Wilmette,IL</stopCity>
+		<stopTitle>Wilmette Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.0772222</lat>
+		<lng>-87.7091667</lng>
+		<stopName>Wilmette Station</stopName>
+		<stopAddr>722 Green Bay Rd.</stopAddr>
+		<stopCity>Wilmette,IL</stopCity>
+		<stopTitle>Wilmette Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7586111</lat>
+		<lng>-87.5594444</lng>
+		<stopName>Windsor Park Station</stopName>
+		<stopAddr>75th St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Windsor Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7586111</lat>
+		<lng>-87.5594444</lng>
+		<stopName>Windsor Park Station</stopName>
+		<stopAddr>75th St. at Exchange Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Windsor Park Station</stopTitle>
+		<stopLine>ME</stopLine>
+	</stop>
+	<stop>
+		<lat>41.87</lat>
+		<lng>-88.1569444</lng>
+		<stopName>Winfield Station</stopName>
+		<stopAddr>Jewell Rd. and Winfield Rd.</stopAddr>
+		<stopCity>Winfield,IL</stopCity>
+		<stopTitle>Winfield Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.87</lat>
+		<lng>-88.1569444</lng>
+		<stopName>Winfield Station</stopName>
+		<stopAddr>Jewell Rd. and Winfield Rd.</stopAddr>
+		<stopCity>Winfield,IL</stopCity>
+		<stopTitle>Winfield Station</stopTitle>
+		<stopLine>UP-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1052778</lat>
+		<lng>-87.7327778</lng>
+		<stopName>Winnetka Station</stopName>
+		<stopAddr>754 Elm St.</stopAddr>
+		<stopCity>Winnetka,IL</stopCity>
+		<stopTitle>Winnetka Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.1052778</lat>
+		<lng>-87.7327778</lng>
+		<stopName>Winnetka Station</stopName>
+		<stopAddr>754 Elm St.</stopAddr>
+		<stopCity>Winnetka,IL</stopCity>
+		<stopTitle>Winnetka Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4827778</lat>
+		<lng>-87.8161111</lng>
+		<stopName>Winthrop Harbor Station</stopName>
+		<stopAddr>7th St., 1 block East of Ravine</stopAddr>
+		<stopCity>Winthrop Harbor,IL</stopCity>
+		<stopTitle>Winthrop Harbor Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4827778</lat>
+		<lng>-87.8161111</lng>
+		<stopName>Winthrop Harbor Station</stopName>
+		<stopAddr>7th St., 1 block East of Ravine</stopAddr>
+		<stopCity>Winthrop Harbor,IL</stopCity>
+		<stopTitle>Winthrop Harbor Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9625</lat>
+		<lng>-87.9752778</lng>
+		<stopName>Wood Dale Station</stopName>
+		<stopAddr>301 W. Wood Dale Ave.</stopAddr>
+		<stopCity>Wood Dale,IL</stopCity>
+		<stopTitle>Wood Dale Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>41.9625</lat>
+		<lng>-87.9752778</lng>
+		<stopName>Wood Dale Station</stopName>
+		<stopAddr>301 W. Wood Dale Ave.</stopAddr>
+		<stopCity>Wood Dale,IL</stopCity>
+		<stopTitle>Wood Dale Station</stopTitle>
+		<stopLine>MD-W</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3169444</lat>
+		<lng>-88.4475</lng>
+		<stopName>Woodstock Station</stopName>
+		<stopAddr>90 Church Street</stopAddr>
+		<stopCity>Woodstock,IL</stopCity>
+		<stopTitle>Woodstock Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>42.3169444</lat>
+		<lng>-88.4475</lng>
+		<stopName>Woodstock Station</stopName>
+		<stopAddr>90 Church Street</stopAddr>
+		<stopCity>Woodstock,IL</stopCity>
+		<stopTitle>Woodstock Station</stopTitle>
+		<stopLine>UP-NW</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6913889</lat>
+		<lng>-87.7958333</lng>
+		<stopName>Worth Station</stopName>
+		<stopAddr>110th St. &amp; Depot Rd.</stopAddr>
+		<stopCity>Worth,IL</stopCity>
+		<stopTitle>Worth Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.6913889</lat>
+		<lng>-87.7958333</lng>
+		<stopName>Worth Station</stopName>
+		<stopAddr>110th St. &amp; Depot Rd.</stopAddr>
+		<stopCity>Worth,IL</stopCity>
+		<stopTitle>Worth Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7488889</lat>
+		<lng>-87.7036111</lng>
+		<stopName>Wrightwood Station</stopName>
+		<stopAddr>79th St. &amp; West Columbus Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Wrightwood Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>41.7488889</lat>
+		<lng>-87.7036111</lng>
+		<stopName>Wrightwood Station</stopName>
+		<stopAddr>79th St. &amp; West Columbus Ave.</stopAddr>
+		<stopCity>Chicago,IL</stopCity>
+		<stopTitle>Wrightwood Station</stopTitle>
+		<stopLine>SWS</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4491667</lat>
+		<lng>-87.8180556</lng>
+		<stopName>Zion Station</stopName>
+		<stopAddr>2501 S. Eden Rd.</stopAddr>
+		<stopCity>Zion,IL</stopCity>
+		<stopTitle>Zion Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+	<stop>
+		<lat>42.4491667</lat>
+		<lng>-87.8180556</lng>
+		<stopName>Zion Station</stopName>
+		<stopAddr>2501 S. Eden Rd.</stopAddr>
+		<stopCity>Zion,IL</stopCity>
+		<stopTitle>Zion Station</stopTitle>
+		<stopLine>UP-N</stopLine>
+	</stop>
+</stops>

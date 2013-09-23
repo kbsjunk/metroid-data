@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+  <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+  <meta osm_base="2013-07-28T05:27:02Z"/>
+
+  <node id="27607031" lat="41.8674039" lon="-87.6265840">
+    <tag k="name" v="Roosevelt"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="27607230" lat="41.8042948" lon="-87.7043619">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="27607237" lat="41.7998339" lon="-87.7244782">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="27607246" lat="41.7867097" lon="-87.7379093">
+    <tag k="name" v="Midway"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="27607248" lat="41.8046228" lon="-87.6843783">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="34877681" lat="41.9613943" lon="-87.7435801">
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="34877711" lat="41.9159812" lon="-87.6870645">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="111045292" lat="41.9835097" lon="-87.8594025">
+    <tag k="name" v="Rosemont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249656713" lat="42.0642009" lon="-87.6858278">
+    <tag k="name" v="Central"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="249656719" lat="42.0583133" lon="-87.6834228">
+    <tag k="name" v="Noyes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249656722" lat="42.0540702" lon="-87.6836259">
+    <tag k="name" v="Foster"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249656728" lat="42.0478722" lon="-87.6836732">
+    <tag k="name" v="Davis"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249656734" lat="42.0416441" lon="-87.6817101">
+    <tag k="name" v="Dempster"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249656743" lat="42.0275315" lon="-87.6784058">
+    <tag k="name" v="South Boulevard"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="252163044" lat="42.0332833" lon="-87.6796413">
+    <tag k="name" v="Main"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="252643581" lat="42.0080864" lon="-87.6659686">
+    <tag k="addr:housenumber" v="1358"/>
+    <tag k="addr:street" v="West Morse Avenue"/>
+    <tag k="addr:street:name" v="Morse"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="name" v="Morse"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="252643632" lat="41.9538873" lon="-87.6549280">
+    <tag k="addr:housenumber" v="3940"/>
+    <tag k="addr:street" v="North Sheridan Road"/>
+    <tag k="addr:street:name" v="Sheridan"/>
+    <tag k="addr:street:prefix" v="North"/>
+    <tag k="addr:street:type" v="Road"/>
+    <tag k="chicago:building_id" v="843356"/>
+    <tag k="name" v="Sheridan"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="252683058" lat="41.9475198" lon="-87.6536271">
+    <tag k="addr:housenumber" v="940"/>
+    <tag k="addr:street" v="West Addison Street"/>
+    <tag k="chicago:building_id" v="174133"/>
+    <tag k="name" v="Addison"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="252683107" lat="41.9438051" lon="-87.6635877">
+    <tag k="name" v="Southport"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="252683109" lat="41.9436888" lon="-87.6708187">
+    <tag k="name" v="Paulina"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="252683118" lat="41.9470516" lon="-87.6747689">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="252683125" lat="41.9543527" lon="-87.6749697">
+    <tag k="name" v="Irving Park"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="252683129" lat="41.9616741" lon="-87.6751532">
+    <tag k="name" v="Montrose"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="252683138" lat="41.9663859" lon="-87.6788409">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="252683142" lat="41.9662349" lon="-87.6884482">
+    <tag k="name" v="Western"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="252683157" lat="41.9681050" lon="-87.7131917">
+    <tag k="name" v="Kimball"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="256475054" lat="41.7807828" lon="-87.6309446">
+    <tag k="name" v="63rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="256475078" lat="41.7683513" lon="-87.6257568">
+    <tag k="name" v="69th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="256475095" lat="41.7223792" lon="-87.6243302">
+    <tag k="name" v="95th/Dan Ryan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258026018" lat="41.8708556" lon="-87.7767972">
+    <tag k="name" v="Austin"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258026027" lat="41.8735067" lon="-87.8068733">
+    <tag k="name" v="Harlem"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258026049" lat="41.8754740" lon="-87.6496755">
+    <tag k="name" v="UIC-Halsted"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258026055" lat="41.8758843" lon="-87.6593253">
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="South Racine Avenue"/>
+    <tag k="addr:street:name" v="Racine"/>
+    <tag k="addr:street:prefix" v="South"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="363198"/>
+    <tag k="name" v="Racine"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="258026066" lat="41.8755572" lon="-87.6882477">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258026083" lat="41.8739055" lon="-87.7277464">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258278032" lat="41.8756545" lon="-87.6731273">
+    <tag k="name" v="Illinois Medical District"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258281897" lat="41.8755403" lon="-87.6410331">
+    <tag k="name" v="Clinton"/>
+    <tag k="note" v="location is a guess"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="1"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="258281908" lat="41.8911909" lon="-87.6476212">
+    <tag k="name" v="Grand"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="258284110" lat="41.9392784" lon="-87.7124921">
+    <tag k="name" v="Belmont"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="258284111" lat="41.9294116" lon="-87.7079610">
+    <tag k="name" v="Logan Square"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258294724" lat="41.8745392" lon="-87.6275988">
+    <tag k="name" v="Harrison"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="258296349" lat="41.8857506" lon="-87.6278662">
+    <tag k="name" v="State/Lake"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="258296350" lat="41.8916848" lon="-87.6280655">
+    <tag k="alt_name" v="Grand/State"/>
+    <tag k="name" v="Grand"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="258296742" lat="41.8782140" lon="-87.6276900">
+    <tag k="name" v="Jackson"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258296743" lat="41.8807490" lon="-87.6277467">
+    <tag k="name" v="Monroe"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="258940066" lat="41.8857413" lon="-87.6310331">
+    <tag k="name" v="Clark/Lake"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="258942193" lat="41.8857166" lon="-87.6419195">
+    <tag k="name" v="Clinton"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258942196" lat="41.8853293" lon="-87.6669895">
+    <tag k="name" v="Ashland"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258944238" lat="41.8519551" lon="-87.7456115">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944287" lat="41.8713894" lon="-87.6696006">
+    <tag k="name" v="Polk"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="no"/>
+  </node>
+  <node id="258944288" lat="41.8579583" lon="-87.6692149">
+    <tag k="name" v="18th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944298" lat="41.8545357" lon="-87.6768018">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944299" lat="41.8544243" lon="-87.6849056">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944300" lat="41.8543425" lon="-87.6947311">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944303" lat="41.8541965" lon="-87.7057414">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944305" lat="41.8540500" lon="-87.7151395">
+    <tag k="name" v="Central Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258944306" lat="41.8539231" lon="-87.7241161">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945067" lat="41.8873895" lon="-87.7655366">
+    <tag k="name" v="Central"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945068" lat="41.8872742" lon="-87.7743361">
+    <tag k="name" v="Austin"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945069" lat="41.8871561" lon="-87.7837052">
+    <tag k="name" v="Ridgeland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945070" lat="41.8869987" lon="-87.7937877">
+    <tag k="name" v="Oak Park"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945073" lat="41.8868333" lon="-87.8040141">
+    <tag k="name" v="Harlem/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945081" lat="41.8842160" lon="-87.6966769">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945084" lat="41.8843305" lon="-87.7062417">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945087" lat="41.8854662" lon="-87.7264647">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258945097" lat="41.8871327" lon="-87.7548856">
+    <tag k="name" v="Laramie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258963130" lat="41.8091361" lon="-87.6188816">
+    <tag k="name" v="47th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="258963136" lat="41.8024076" lon="-87.6185614">
+    <tag k="name" v="51st"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="259749423" lat="41.8312899" lon="-87.6258603">
+    <tag k="name" v="35th-Bronzeville-IIT"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="263826095" lat="41.9842655" lon="-87.8378568">
+    <tag k="name" v="Cumberland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="266656859" lat="41.9706132" lon="-87.7609173">
+    <tag k="name" v="Jefferson Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="266803588" lat="41.9822924" lon="-87.8088690">
+    <tag k="name" v="Harlem"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="289820702" lat="41.8832106" lon="-87.6294066">
+    <tag k="name" v="Washington"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="289821002" lat="41.8807263" lon="-87.6293798">
+    <tag k="name" v="Monroe"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="289821023" lat="41.8781741" lon="-87.6292886">
+    <tag k="name" v="Jackson"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="306084356" lat="41.9533183" lon="-87.7299141">
+    <tag k="name" v="Irving Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="386342904" lat="41.9836120" lon="-87.8594040">
+    <tag k="name" v="Rosemont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="387573439" lat="41.7501051" lon="-87.6251232">
+    <tag k="name" v="79th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="389153234" lat="41.9733904" lon="-87.6586083">
+    <tag k="name" v="Argyle"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="389153439" lat="41.9780136" lon="-87.6587355">
+    <tag k="name" v="Berwyn"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="389154822" lat="42.0190790" lon="-87.6729453">
+    <tag k="addr:housenumber" v="1649"/>
+    <tag k="addr:street" v="West Howard Street"/>
+    <tag k="addr:street:name" v="Howard"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="chicago:building_id" v="843365"/>
+    <tag k="name" v="Howard"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="4"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="446246054" lat="41.9253176" lon="-87.6528133">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fullerton CTA Station"/>
+  </node>
+  <node id="497436468" lat="41.8865118" lon="-87.7445596">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="497437065" lat="41.8849249" lon="-87.7165844">
+    <tag k="name" v="Conservatory-Central Park Drive"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="short_name" v="Conservatory"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="705736885" lat="41.8293770" lon="-87.6807161">
+    <tag k="name" v="35th/Archer"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="706929554" lat="41.7790375" lon="-87.6445259">
+    <tag k="addr:city" v="Chicago"/>
+    <tag k="addr:housenumber" v="6321"/>
+    <tag k="addr:postcode" v="60621"/>
+    <tag k="addr:street" v="South Halsted Street"/>
+    <tag k="name" v="Halsted"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="website" v="http://www.transitchicago.com/travel_information/station.aspx?StopId=65"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="en:Halsted %28CTA Green Line station%29"/>
+  </node>
+  <node id="706931172" lat="41.7802301" lon="-87.6155718">
+    <tag k="addr:city" v="Chicago"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="60621"/>
+    <tag k="addr:street" v="East 63rd Street"/>
+    <tag k="name" v="King Drive"/>
+    <tag k="old_name" v="South Park Avenue"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706931173" lat="41.7804181" lon="-87.6059212">
+    <tag k="addr:city" v="Chicago"/>
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="60637"/>
+    <tag k="addr:street" v="East 63rd Street"/>
+    <tag k="addr:street:name" v="63rd"/>
+    <tag k="addr:street:prefix" v="East"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="528529"/>
+    <tag k="name" v="Cottage Grove"/>
+    <tag k="old_name" v="Cottage Grove-East 63rd"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706934716" lat="41.8019477" lon="-87.6185270">
+    <tag k="name" v="51st"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706934717" lat="41.8094711" lon="-87.6188637">
+    <tag k="name" v="47th"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706934718" lat="41.8167170" lon="-87.6190647">
+    <tag k="name" v="43rd"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706934719" lat="41.8217995" lon="-87.6215478">
+    <tag k="name" v="Indiana"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="706934720" lat="41.7949200" lon="-87.6183394">
+    <tag k="name" v="Garfield"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="734512775" lat="41.9689268" lon="-87.6584393">
+    <tag k="addr:housenumber" v="1117"/>
+    <tag k="addr:street" v="West Lawrence Avenue"/>
+    <tag k="name" v="Lawrence"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="734513338" lat="41.9654449" lon="-87.6580352">
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="734563511" lat="41.9475141" lon="-87.6535768">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="734565285" lat="41.9475096" lon="-87.6536759">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="734816046" lat="42.0269955" lon="-87.7476043">
+    <tag k="name" v="Oakton-Skokie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="734816084" lat="42.0270193" lon="-87.7474692">
+    <tag k="name" v="Oakton-Skokie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="734816101" lat="42.0390612" lon="-87.7520319">
+    <tag k="name" v="Dempster-Skokie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736014788" lat="41.8759187" lon="-87.6593980">
+    <tag k="name" v="Racine"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736014811" lat="41.8756161" lon="-87.6731030">
+    <tag k="name" v="Illinois Medical District"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736017165" lat="41.8755027" lon="-87.6496406">
+    <tag k="name" v="UIC-Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736035818" lat="41.8962088" lon="-87.6553089">
+    <tag k="name" v="Chicago"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="736035820" lat="41.9035623" lon="-87.6671796">
+    <tag k="name" v="Division"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736035840" lat="41.9098778" lon="-87.6776609">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736638456" lat="41.8855781" lon="-87.6516968">
+    <tag k="name" v="Morgan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736638542" lat="41.8856995" lon="-87.6418207">
+    <tag k="name" v="Clinton"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736639177" lat="41.8856156" lon="-87.6516963">
+    <tag k="name" v="Morgan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736639292" lat="41.8853559" lon="-87.6664823">
+    <tag k="name" v="Ashland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736686420" lat="41.8768434" lon="-87.6313616">
+    <tag k="name" v="La Salle/Van Buren"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736686433" lat="41.8768738" lon="-87.6288643">
+    <tag k="name" v="Harold Washington Library-State/Van Buren"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736686706" lat="41.8769082" lon="-87.6288739">
+    <tag k="name" v="Harold Washington Library-State/Van Buren"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="736686728" lat="41.8768793" lon="-87.6313624">
+    <tag k="name" v="La Salle/Van Buren"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="737746092" lat="41.8715950" lon="-87.7471626">
+    <tag k="name" v="Cicero"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="737746111" lat="41.8720933" lon="-87.7915719">
+    <tag k="name" v="Oak Park"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="737746125" lat="41.8735373" lon="-87.8068739">
+    <tag k="name" v="Harlem"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="737746140" lat="41.8742578" lon="-87.8165656">
+    <tag k="name" v="Forest Park"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="737746214" lat="41.8708860" lon="-87.7767916">
+    <tag k="name" v="Austin"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="738165289" lat="41.8469432" lon="-87.6481637">
+    <tag k="name" v="Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="738165401" lat="41.8394284" lon="-87.6652673">
+    <tag k="name" v="Ashland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="738195900" lat="42.0729272" lon="-87.6905471">
+    <tag k="name" v="Linden"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="738195922" lat="42.0640851" lon="-87.6857199">
+    <tag k="name" v="Central"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="739322024" lat="41.9179663" lon="-87.6525612">
+    <tag k="name" v="Armitage"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="739322025" lat="41.9179625" lon="-87.6526772">
+    <tag k="name" v="Armitage"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="739322281" lat="41.9364047" lon="-87.6533176">
+    <tag k="name" v="Wellington"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="739322583" lat="41.9364079" lon="-87.6532011">
+    <tag k="name" v="Wellington"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="822488827" lat="42.0013525" lon="-87.6613062">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="West Loyola Avenue"/>
+    <tag k="addr:street:name" v="Loyola"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="19044"/>
+    <tag k="name" v="Loyola"/>
+    <tag k="old_name" v="Hayes Avenue"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="853530314" lat="41.8756111" lon="-87.6316462">
+    <tag k="name" v="LaSalle"/>
+    <tag k="note" v="location is a guess"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="924678447" lat="41.8959778" lon="-87.6356699">
+    <tag k="name" v="Chicago"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1130096180" lat="41.9221873" lon="-87.6971950">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1210043924" lat="41.7867084" lon="-87.7380395">
+    <tag k="name" v="Midway"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280853416" lat="41.8754899" lon="-87.6882465">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280853459" lat="41.8741208" lon="-87.7083099">
+    <tag k="name" v="Kedzie-Homan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280923905" lat="41.8540914" lon="-87.7057384">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280939559" lat="41.8044027" lon="-87.7043672">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280939573" lat="41.7999163" lon="-87.7245602">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1280962822" lat="41.9681057" lon="-87.7131269">
+    <tag k="name" v="Kimball"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1282296206" lat="41.9533578" lon="-87.7298271">
+    <tag k="name" v="Irving Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1282296292" lat="41.9221445" lon="-87.6970834">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1282296301" lat="41.9614388" lon="-87.7435194">
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1282296369" lat="41.9220155" lon="-87.6969301">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1283483516" lat="41.8091370" lon="-87.6188377">
+    <tag k="name" v="47th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1283483584" lat="41.8024089" lon="-87.6185167">
+    <tag k="name" v="51st"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1283483703" lat="41.8324973" lon="-87.6258428">
+    <tag k="name" v="35th-Bronzeville-IIT"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1291113573" lat="41.9616755" lon="-87.6751167">
+    <tag k="name" v="Montrose"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1291113642" lat="41.9543516" lon="-87.6749332">
+    <tag k="name" v="Irving Park"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1291113644" lat="41.9438338" lon="-87.6635890">
+    <tag k="name" v="Southport"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1291153198" lat="41.7803778" lon="-87.6059718">
+    <tag k="name" v="Cottage Grove"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1291153392" lat="41.7790576" lon="-87.6437762">
+    <tag k="name" v="Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1387760742" lat="41.9662982" lon="-87.6885178">
+    <tag k="name" v="Western"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1407580199" lat="41.8786831" lon="-87.6294377">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1407580202" lat="41.8786877" lon="-87.6291797">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1432726747" lat="41.9661285" lon="-87.7095589">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1432726753" lat="41.9660603" lon="-87.7095588">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1432732157" lat="41.9661187" lon="-87.7022132">
+    <tag k="name" v="Francisco"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1432732160" lat="41.9661881" lon="-87.7022105">
+    <tag k="name" v="Francisco"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1432737872" lat="41.9661798" lon="-87.6948948">
+    <tag k="name" v="Rockwell"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1432737882" lat="41.9662459" lon="-87.6948948">
+    <tag k="name" v="Rockwell"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1434382175" lat="41.8965914" lon="-87.6278197">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="1434382176" lat="41.8967669" lon="-87.6278894">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="1435427479" lat="41.9470501" lon="-87.6747262">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1435427483" lat="41.9664153" lon="-87.6788433">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1435427486" lat="41.9437163" lon="-87.6708193">
+    <tag k="name" v="Paulina"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1699464673" lat="41.9035649" lon="-87.6672973">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="1711801524" lat="41.9652351" lon="-87.6790753">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1711801525" lat="41.9613081" lon="-87.6788392">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1711801527" lat="41.9615913" lon="-87.6789475">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1711801528" lat="41.9615804" lon="-87.6790941">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1711801529" lat="41.9652340" lon="-87.6791839">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1711801531" lat="41.9613061" lon="-87.6789397">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1711801532" lat="41.9649409" lon="-87.6789412">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1711801533" lat="41.9649379" lon="-87.6790655">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1719756450" lat="41.9613780" lon="-87.6791461">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1719756454" lat="41.9615495" lon="-87.6787652">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1722519075" lat="41.8673677" lon="-87.6274024">
+    <tag k="name" v="Roosevelt"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1756701028" lat="41.9614589" lon="-87.6791536">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1756701031" lat="41.9614631" lon="-87.6787525">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1762400891" lat="41.8855919" lon="-87.6519276">
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:postcode" v="60612"/>
+    <tag k="addr:state" v="IL"/>
+    <tag k="addr:street" v="West Lake Street"/>
+    <tag k="description" v="Morgan green line L Stop"/>
+    <tag k="name" v="Morgan"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1894018275" lat="41.8853759" lon="-87.6278244">
+    <tag k="alt_name" v="Lake/Randolph"/>
+    <tag k="name" v="Lake"/>
+    <tag k="old_name" v="Lake/Washington"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="Chicago Transit Authority"/>
+  </node>
+  <node id="1894033187" lat="41.8966529" lon="-87.6281533">
+    <tag k="alt_name" v="Chicago/State"/>
+    <tag k="name" v="Chicago"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="1894033196" lat="41.9039183" lon="-87.6314538">
+    <tag k="name" v="Clark/Division"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="1925444958" lat="41.8873412" lon="-87.7743418">
+    <tag k="name" v="Austin"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1925444961" lat="41.8842746" lon="-87.6966847">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1925444985" lat="41.8849809" lon="-87.7165786">
+    <tag k="name" v="Conservatory-Central Park Drive"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="short_name" v="Conservatory"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1925445017" lat="41.8855228" lon="-87.7264585">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1925445038" lat="41.8872150" lon="-87.7837120">
+    <tag k="name" v="Ridgeland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1925445043" lat="41.8870795" lon="-87.7938062">
+    <tag k="name" v="Oak Park"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2004713101" lat="41.9325654" lon="-87.6530619">
+    <tag k="name" v="Diversey"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2004713106" lat="41.9325653" lon="-87.6531787">
+    <tag k="name" v="Diversey"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2012549082" lat="41.9251544" lon="-87.6529499">
+    <tag k="name" v="Fullerton"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2012549083" lat="41.9251623" lon="-87.6526770">
+    <tag k="name" v="Fullerton"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2012780408" lat="41.9104137" lon="-87.6388572">
+    <tag k="name" v="Sedgwick"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2012780433" lat="41.9103861" lon="-87.6388509">
+    <tag k="name" v="Sedgwick"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2012967763" lat="41.8959762" lon="-87.6357061">
+    <tag k="name" v="Chicago"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2012979483" lat="41.8888791" lon="-87.6340254">
+    <tag k="name" v="Merchandise Mart"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2012979495" lat="41.8888778" lon="-87.6339720">
+    <tag k="name" v="Merchandise Mart"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2013902273" lat="41.8826041" lon="-87.6338197">
+    <tag k="name" v="Washington/Wells"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2013902280" lat="41.8826041" lon="-87.6338675">
+    <tag k="name" v="Washington/Wells"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014092150" lat="41.8787679" lon="-87.6337641">
+    <tag k="name" v="Quincy"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014092173" lat="41.8787698" lon="-87.6337233">
+    <tag k="name" v="Quincy"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014100269" lat="41.9398463" lon="-87.6534720">
+    <tag k="name" v="Belmont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014100270" lat="41.9398482" lon="-87.6531811">
+    <tag k="name" v="Belmont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014360932" lat="41.8796810" lon="-87.6260932">
+    <tag k="name" v="Adams/Wabash"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2014360953" lat="41.8795483" lon="-87.6261373">
+    <tag k="name" v="Adams/Wabash"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015319455" lat="41.8821547" lon="-87.6261580">
+    <tag k="name" v="Madison/Wabash"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015319463" lat="41.8821547" lon="-87.6262064">
+    <tag k="name" v="Madison/Wabash"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015331915" lat="41.8845200" lon="-87.6262224">
+    <tag k="name" v="Randolph/Wabash"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015331925" lat="41.8845181" lon="-87.6262686">
+    <tag k="name" v="Randolph/Wabash"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015341021" lat="41.8857699" lon="-87.6279578">
+    <tag k="name" v="State/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015341023" lat="41.8857386" lon="-87.6279607">
+    <tag k="name" v="State/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015352819" lat="41.8857225" lon="-87.6313602">
+    <tag k="name" v="Clark/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2015352823" lat="41.8857555" lon="-87.6313575">
+    <tag k="name" v="Clark/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2016950589" lat="41.8047247" lon="-87.6843671">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2016969839" lat="41.8294464" lon="-87.6807841">
+    <tag k="name" v="35th/Archer"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2016975924" lat="41.8393416" lon="-87.6651967">
+    <tag k="name" v="Ashland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2016981818" lat="41.8468682" lon="-87.6480889">
+    <tag k="name" v="Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2017008343" lat="41.8674004" lon="-87.6267070">
+    <tag k="name" v="Roosevelt"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2017008349" lat="41.8674066" lon="-87.6266435">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="East Roosevelt Road"/>
+    <tag k="addr:street:name" v="Roosevelt"/>
+    <tag k="addr:street:prefix" v="East"/>
+    <tag k="addr:street:type" v="Road"/>
+    <tag k="chicago:building_id" v="843349"/>
+    <tag k="name" v="Roosevelt"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2022110661" lat="41.9538759" lon="-87.6552415">
+    <tag k="name" v="Sheridan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022110663" lat="41.9539066" lon="-87.6552428">
+    <tag k="name" v="Sheridan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022128333" lat="41.9654616" lon="-87.6579274">
+    <tag k="name" v="Wilson"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022136110" lat="41.9691162" lon="-87.6584883">
+    <tag k="name" v="Lawrence"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022136112" lat="41.9691172" lon="-87.6584115">
+    <tag k="name" v="Lawrence"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022160071" lat="41.9902270" lon="-87.6590938">
+    <tag k="name" v="Thorndale"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022160077" lat="42.0016185" lon="-87.6617860">
+    <tag k="name" v="Loyola"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022160093" lat="41.9937492" lon="-87.6592053">
+    <tag k="name" v="Granville"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022160099" lat="41.9780154" lon="-87.6586384">
+    <tag k="name" v="Berwyn"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2022160105" lat="41.9836945" lon="-87.6588010">
+    <tag k="name" v="Bryn Mawr"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023151049" lat="42.0191030" lon="-87.6729990">
+    <tag k="name" v="Howard"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023151055" lat="42.0190549" lon="-87.6730718">
+    <tag k="name" v="Howard"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023151056" lat="42.0191608" lon="-87.6728925">
+    <tag k="name" v="Howard"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023151067" lat="42.0191204" lon="-87.6729677">
+    <tag k="name" v="Howard"/>
+    <tag k="network" v="CTA"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023164151" lat="42.0158617" lon="-87.6691625">
+    <tag k="name" v="Jarvis"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023164153" lat="42.0159029" lon="-87.6690991">
+    <tag k="name" v="Jarvis"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023169768" lat="42.0082471" lon="-87.6660151">
+    <tag k="name" v="Morse"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023169775" lat="42.0082491" lon="-87.6659210">
+    <tag k="name" v="Morse"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023183660" lat="42.0006623" lon="-87.6604882">
+    <tag k="name" v="Loyola"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023183680" lat="41.9943851" lon="-87.6591827">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:street" v="West Granville Avenue"/>
+    <tag k="addr:street:name" v="Granville"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="32237"/>
+    <tag k="name" v="Granville"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2023183682" lat="41.9937522" lon="-87.6591173">
+    <tag k="name" v="Granville"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023196493" lat="41.9902277" lon="-87.6590107">
+    <tag k="name" v="Thorndale"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023196501" lat="41.9901837" lon="-87.6590539">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:street" v="West Thorndale Avenue"/>
+    <tag k="addr:street:name" v="Thorndale"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="41755"/>
+    <tag k="name" v="Thorndale"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023202874" lat="41.9836947" lon="-87.6588934">
+    <tag k="name" v="Bryn Mawr"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023202877" lat="41.9835208" lon="-87.6588407">
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:street" v="West Bryn Mawr Avenue"/>
+    <tag k="addr:street:name" v="Bryn Mawr"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="56313"/>
+    <tag k="name" v="Bryn Mawr"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023206637" lat="41.9780446" lon="-87.6586918">
+    <tag k="addr:housenumber" v="1121"/>
+    <tag k="addr:street" v="West Berwyn Avenue"/>
+    <tag k="addr:street:name" v="Berwyn"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="chicago:building_id" v="69439"/>
+    <tag k="name" v="Berwyn"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023209946" lat="41.9733939" lon="-87.6585129">
+    <tag k="name" v="Argyle"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023209951" lat="41.9734115" lon="-87.6585658">
+    <tag k="addr:housenumber" v="1118"/>
+    <tag k="addr:street" v="West Argyle Street"/>
+    <tag k="addr:street:name" v="Argyle"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="83315"/>
+    <tag k="name" v="Argyle"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023849144" lat="41.7506879" lon="-87.6251831">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="West 79th Street"/>
+    <tag k="addr:street:name" v="79th"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="614674"/>
+    <tag k="name" v="79th"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2023849151" lat="41.7354903" lon="-87.6248050">
+    <tag k="name" v="87th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023849157" lat="41.7501060" lon="-87.6252092">
+    <tag k="name" v="79th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023849163" lat="41.7354882" lon="-87.6247100">
+    <tag k="name" v="87th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023849165" lat="41.7223720" lon="-87.6244513">
+    <tag k="name" v="95th/Dan Ryan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023849177" lat="41.7360865" lon="-87.6247727">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="West 87th Street"/>
+    <tag k="addr:street:name" v="87th"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="667893"/>
+    <tag k="name" v="87th"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023880687" lat="41.7801129" lon="-87.6310004">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="West 63rd Street"/>
+    <tag k="addr:street:name" v="63rd"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="chicago:building_id" v="525764"/>
+    <tag k="name" v="63rd"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2023880724" lat="41.7807811" lon="-87.6310824">
+    <tag k="name" v="63rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023880729" lat="41.7683531" lon="-87.6258464">
+    <tag k="name" v="69th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023880736" lat="41.7689390" lon="-87.6258240">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="West 69th Street"/>
+    <tag k="addr:street:name" v="69th"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="566923"/>
+    <tag k="name" v="69th"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2023901720" lat="41.7954942" lon="-87.6311455">
+    <tag k="name" v="Garfield"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023901722" lat="41.7954895" lon="-87.6312583">
+    <tag k="name" v="Garfield"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023910816" lat="41.9398550" lon="-87.6533523">
+    <tag k="name" v="Belmont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023910817" lat="41.9398531" lon="-87.6533076">
+    <tag k="name" v="Belmont"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2023910818" lat="41.9251630" lon="-87.6528297">
+    <tag k="name" v="Fullerton"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2023910819" lat="41.9251629" lon="-87.6527880">
+    <tag k="name" v="Fullerton"/>
+    <tag k="network" v="CTA"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2025031200" lat="41.8102763" lon="-87.6311447">
+    <tag k="name" v="47th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025031213" lat="41.8102513" lon="-87.6310367">
+    <tag k="name" v="47th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025042652" lat="41.8321174" lon="-87.6306242">
+    <tag k="name" v="Sox-35th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025042654" lat="41.8321155" lon="-87.6307375">
+    <tag k="name" v="Sox-35th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025084473" lat="41.8530966" lon="-87.6309684">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="West Cermak Road"/>
+    <tag k="addr:street:name" v="Cermak"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Road"/>
+    <tag k="chicago:building_id" v="382797"/>
+    <tag k="name" v="Cermak-Chinatown"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2025084475" lat="41.8536047" lon="-87.6311665">
+    <tag k="name" v="Cermak-Chinatown"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025084479" lat="41.8536255" lon="-87.6310540">
+    <tag k="name" v="Cermak-Chinatown"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2025105432" lat="41.8677831" lon="-87.6275569">
+    <tag k="name" v="Roosevelt"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025105434" lat="41.8679831" lon="-87.6272590">
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Roosevelt"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2025289437" lat="41.8799503" lon="-87.6292439">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289438" lat="41.8799532" lon="-87.6294218">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289439" lat="41.8826642" lon="-87.6293003">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289440" lat="41.8812144" lon="-87.6295149">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289441" lat="41.8801939" lon="-87.6294532">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289443" lat="41.8824567" lon="-87.6292982">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289444" lat="41.8812174" lon="-87.6292816">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289446" lat="41.8814541" lon="-87.6292869">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289448" lat="41.8824566" lon="-87.6295202">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289452" lat="41.8826622" lon="-87.6295202">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2025289453" lat="41.8801939" lon="-87.6292493">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2039052243" lat="41.9037463" lon="-87.6315529">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2039052248" lat="41.9037562" lon="-87.6313571">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2039052252" lat="41.9040737" lon="-87.6313571">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2039052256" lat="41.9040556" lon="-87.6315609">
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2039094535" lat="41.9108055" lon="-87.6493876">
+    <tag k="name" v="North/Clybourn"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2039152472" lat="41.7804357" lon="-87.6059729">
+    <tag k="name" v="Cottage Grove"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040075040" lat="41.7802058" lon="-87.6156434">
+    <tag k="name" v="King Drive"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040075099" lat="41.7802635" lon="-87.6156502">
+    <tag k="name" v="King Drive"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040102793" lat="41.7790258" lon="-87.6437839">
+    <tag k="name" v="Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040146203" lat="41.7789008" lon="-87.6641741">
+    <tag k="name" v="Ashland/63rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040146213" lat="41.7789959" lon="-87.6641820">
+    <tag k="name" v="Ashland/63rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040180352" lat="41.7953240" lon="-87.6183761">
+    <tag k="name" v="Garfield"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040180359" lat="41.7953240" lon="-87.6183326">
+    <tag k="name" v="Garfield"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040259424" lat="41.8163931" lon="-87.6190724">
+    <tag k="name" v="43rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040259452" lat="41.8163951" lon="-87.6190409">
+    <tag k="name" v="43rd"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040290139" lat="41.8218126" lon="-87.6218182">
+    <tag k="name" v="Indiana"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040290163" lat="41.8217811" lon="-87.6218155">
+    <tag k="name" v="Indiana"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2040304136" lat="41.8324931" lon="-87.6259365">
+    <tag k="name" v="35th-Bronzeville-IIT"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2042025605" lat="41.8857335" lon="-87.6418236">
+    <tag k="name" v="Clinton"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2042074138" lat="41.8853204" lon="-87.6664905">
+    <tag k="name" v="Ashland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2042183467" lat="41.8841659" lon="-87.6963553">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2042812605" lat="41.8842876" lon="-87.7062325">
+    <tag k="addr:housenumber" v="3200"/>
+    <tag k="addr:street" v="West Lake Street"/>
+    <tag k="addr:street:name" v="Lake"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="name" v="Kedzie"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2042812612" lat="41.8843780" lon="-87.7062342">
+    <tag k="name" v="Kedzie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2042959694" lat="41.8849718" lon="-87.7168289">
+    <tag k="name" v="Conservatory-Central Park Drive"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="short_name" v="Conservatory"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2042977745" lat="41.8854867" lon="-87.7260970">
+    <tag k="chicago:building_id" v="353810"/>
+    <tag k="name" v="Pulaski"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+  <node id="2043012974" lat="41.8865739" lon="-87.7445565">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2043012982" lat="41.8865719" lon="-87.7451325">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2043044673" lat="41.8871989" lon="-87.7548860">
+    <tag k="name" v="Laramie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2043044695" lat="41.8871960" lon="-87.7553223">
+    <tag k="addr:housenumber" v="5148"/>
+    <tag k="addr:street" v="West Lake Street"/>
+    <tag k="addr:street:name" v="Lake"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Street"/>
+    <tag k="chicago:building_id" v="352564"/>
+    <tag k="name" v="Laramie"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2043060916" lat="41.8874606" lon="-87.7655372">
+    <tag k="name" v="Central"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2044344262" lat="41.8869003" lon="-87.8040136">
+    <tag k="name" v="Harlem/Lake"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2051982638" lat="41.8756913" lon="-87.6731032">
+    <tag k="name" v="Illinois Medical District"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2052014671" lat="41.8720573" lon="-87.7915796">
+    <tag k="name" v="Oak Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2052014698" lat="41.8721184" lon="-87.7915710">
+    <tag k="name" v="Oak Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2052014720" lat="41.8735644" lon="-87.8068676">
+    <tag k="name" v="Harlem"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2052014846" lat="41.8709210" lon="-87.7767920">
+    <tag k="name" v="Austin"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2052893600" lat="42.0390506" lon="-87.7520818">
+    <tag k="name" v="Dempster-Skokie"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074783182" lat="41.8743159" lon="-87.8167424">
+    <tag k="name" v="Forest Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074783191" lat="41.8742227" lon="-87.8167546">
+    <tag k="name" v="Forest Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074824268" lat="41.8715606" lon="-87.7471622">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074824281" lat="41.8716215" lon="-87.7471674">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074842572" lat="41.8738548" lon="-87.7277387">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2074858671" lat="41.8741899" lon="-87.7082799">
+    <tag k="name" v="Kedzie-Homan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123157" lat="41.8542461" lon="-87.6947251">
+    <tag k="name" v="California"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123162" lat="41.8539567" lon="-87.7151348">
+    <tag k="name" v="Central Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123166" lat="41.8518659" lon="-87.7456185">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123172" lat="41.8519087" lon="-87.7455976">
+    <tag k="name" v="Cicero"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2080123175" lat="41.8544556" lon="-87.6767973">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123179" lat="41.8537101" lon="-87.7332011">
+    <tag k="name" v="Kostner"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123183" lat="41.8537861" lon="-87.7332035">
+    <tag k="name" v="Kostner"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123186" lat="41.8538164" lon="-87.7241117">
+    <tag k="name" v="Pulaski"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123190" lat="41.8543275" lon="-87.6848997">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123194" lat="41.8517700" lon="-87.7565827">
+    <tag k="name" v="54th/Cermak"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2080123199" lat="41.8518064" lon="-87.7578206">
+    <tag k="name" v="54th/Cermak"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080123201" lat="41.8518362" lon="-87.7553235">
+    <tag k="name" v="54th/Cermak"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080150458" lat="41.8713880" lon="-87.6695524">
+    <tag k="name" v="Polk"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="no"/>
+  </node>
+  <node id="2080150468" lat="41.8758553" lon="-87.6593974">
+    <tag k="name" v="Racine"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080150478" lat="41.8754375" lon="-87.6496389">
+    <tag k="name" v="UIC-Halsted"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2080150506" lat="41.8578877" lon="-87.6691951">
+    <tag k="name" v="18th"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2080150517" lat="41.8579569" lon="-87.6691763">
+    <tag k="name" v="18th"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088568846" lat="41.9781576" lon="-87.9026878">
+    <tag k="name" v="O'Hare"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088568848" lat="41.9782578" lon="-87.9025453">
+    <tag k="name" v="O'Hare"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088568850" lat="41.9782867" lon="-87.9025919">
+    <tag k="name" v="O'Hare"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088605514" lat="41.9835628" lon="-87.8594097">
+    <tag k="name" v="Rosemont"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088620947" lat="41.9842402" lon="-87.8390529">
+    <tag k="name" v="Cumberland"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088620951" lat="41.9843437" lon="-87.8378638">
+    <tag k="name" v="Cumberland"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088630556" lat="41.9823272" lon="-87.8075041">
+    <tag k="name" v="Harlem"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088630564" lat="41.9823731" lon="-87.8088664">
+    <tag k="name" v="Harlem"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088638856" lat="41.9706941" lon="-87.7608584">
+    <tag k="name" v="Jefferson Park"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088638857" lat="41.9707812" lon="-87.7612038">
+    <tag k="name" v="Jefferson Park"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2088645408" lat="41.9609517" lon="-87.7429977">
+    <tag k="name" v="Montrose"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2088653982" lat="41.9533451" lon="-87.7298824">
+    <tag k="name" v="Irving Park"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2088669205" lat="41.9471654" lon="-87.7189477">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2088669209" lat="41.9472035" lon="-87.7188686">
+    <tag k="name" v="Addison"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2090176565" lat="41.9098732" lon="-87.6776202">
+    <tag k="addr:housenumber" v="1588"/>
+    <tag k="addr:street" v="North Damen Avenue"/>
+    <tag k="addr:street:name" v="Damen"/>
+    <tag k="addr:street:prefix" v="North"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="building" v="yes"/>
+    <tag k="chicago:building_id" v="843432"/>
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2090176575" lat="41.9098989" lon="-87.6776338">
+    <tag k="name" v="Damen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2090182927" lat="41.9160063" lon="-87.6870338">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2090182932" lat="41.9160135" lon="-87.6870816">
+    <tag k="name" v="Western"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2090194444" lat="41.8741481" lon="-87.7082811">
+    <tag k="name" v="Kedzie-Homan"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2090194452" lat="41.8738734" lon="-87.7277515">
+    <tag k="name" v="Pulaski"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2091737706" lat="42.0640589" lon="-87.6858136">
+    <tag k="name" v="Central"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2091743473" lat="42.0728968" lon="-87.6906557">
+    <tag k="name" v="Linden"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2091745257" lat="42.0584699" lon="-87.6834646">
+    <tag k="name" v="Noyes"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2091745258" lat="42.0583127" lon="-87.6835159">
+    <tag k="name" v="Noyes"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2091746898" lat="42.0539133" lon="-87.6836764">
+    <tag k="name" v="Foster"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2091746899" lat="42.0540697" lon="-87.6837135">
+    <tag k="name" v="Foster"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2092506200" lat="42.0478577" lon="-87.6835967">
+    <tag k="name" v="Davis"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2092506201" lat="42.0478745" lon="-87.6837289">
+    <tag k="name" v="Davis"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2092510482" lat="42.0416373" lon="-87.6817569">
+    <tag k="name" v="Dempster"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2092514442" lat="42.0332776" lon="-87.6796906">
+    <tag k="name" v="Main"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2092525316" lat="42.0273939" lon="-87.6784193">
+    <tag k="name" v="South Boulevard"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2092525324" lat="42.0275279" lon="-87.6784836">
+    <tag k="name" v="South Boulevard"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2166578061" lat="42.0416559" lon="-87.6815713">
+    <tag k="name" v="Dempster"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2166678698" lat="42.0160012" lon="-87.6692680">
+    <tag k="addr:housenumber" v="1523"/>
+    <tag k="addr:street" v="West Jarvis Avenue"/>
+    <tag k="addr:street:name" v="Jarvis"/>
+    <tag k="addr:street:prefix" v="West"/>
+    <tag k="addr:street:type" v="Avenue"/>
+    <tag k="name" v="Jarvis"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2355593970" lat="41.8676054" lon="-87.6265307">
+    <tag k="entrance" v="main"/>
+    <tag k="name" v="Roosevelt"/>
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2368680623" lat="41.8673670" lon="-87.6274492">
+    <tag k="name" v="Roosevelt"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2370205786" lat="41.8672579" lon="-87.6266461">
+    <tag k="entrance" v="main"/>
+    <tag k="name" v="Roosevelt"/>
+    <tag k="railway" v="subway_entrance"/>
+  </node>
+  <node id="2389087653" lat="41.9035190" lon="-87.6672111">
+    <tag k="name" v="Division"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2389096816" lat="41.9035505" lon="-87.6672159">
+    <tag k="name" v="Division"/>
+    <tag k="operator" v="Chicago Transit Authority"/>
+    <tag k="railway" v="station"/>
+  </node>
+
+</osm>

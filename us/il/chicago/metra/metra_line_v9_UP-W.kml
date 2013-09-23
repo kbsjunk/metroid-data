@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<Document>
+		<name>Chicago Metra Lines</name>
+		<description>Chicago Metra Lines</description>
+	<Style id="cc236214">
+		<LineStyle>
+			<color>cc146223</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFF8828">
+		<LineStyle>
+			<color>cc2888FF</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc835BB3">
+		<LineStyle>
+			<color>ccB35B83</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFAE322">
+		<LineStyle>
+			<color>cc22E3FA</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFFA628">
+		<LineStyle>
+			<color>cc28A6FF</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccFEB8FA">
+		<LineStyle>
+			<color>ccFAB8FE</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc77B337">
+		<LineStyle>
+			<color>cc37B377</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccEE4848">
+		<LineStyle>
+			<color>cc4848EE</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="cc117BAC">
+		<LineStyle>
+			<color>ccAC7B11</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccA81818">
+		<LineStyle>
+			<color>cc1818A8</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="ccF67B7B">
+		<LineStyle>
+			<color>cc7B7BF6</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<description><![CDATA[<dl><dt><img src="/apps/metra/docroot/images/content/lines/up-w_standalone.png" /> <span><a target='_self' href='/content/metra/en/home/maps_schedules/metra_system_map/up-w/map.html'>Union Pacific / West Line</a></span></dt></dl>]]></description>
+		<styleUrl>#ccFEB8FA</styleUrl>
+		<LineString>
+			<altitudeMode>absolute</altitudeMode>
+			<coordinates>
+				-88.46395877,41.89065454
+				-88.41235279,41.88682644
+				-88.33672231,41.88094814
+				-88.3088582,41.88157374
+				-88.2962743,41.8820041
+				-88.27915867,41.88241981
+				-88.25669434,41.88271869
+				-88.24185889,41.8829536
+				-88.21026986,41.88341511
+				-88.20855873,41.88336607
+				-88.20587408,41.88310451
+				-88.20375495,41.88261343
+				-88.18893704,41.87773678
+				-88.18656325,41.8772465
+				-88.1742606,41.87524926
+				-88.16805964,41.87323716
+				-88.15991505,41.87061325
+				-88.15428459,41.86955844
+				-88.14944384,41.869476
+				-88.14404949,41.86983704
+				-88.13694305,41.87036997
+				-88.1324447,41.87063114
+				-88.12955355,41.87035325
+				-88.12678784,41.86969997
+				-88.12357499,41.8684273
+				-88.11796735,41.86586506
+				-88.11531325,41.86493659
+				-88.11146457,41.86431931
+				-88.09691869,41.86650565
+				-88.09012509,41.86840949
+				-88.08254551,41.87395887
+				-88.08058826,41.87518917
+				-88.07701545,41.8763366
+				-88.0716865,41.87623059
+				-88.06574059,41.8761432
+				-88.03866337,41.88336304
+				-88.0233033,41.88518192
+				-88.00585524,41.89036208
+				-87.9924181,41.89442283
+				-87.98479708,41.8955457
+				-87.96330875,41.89792329
+				-87.94911718,41.89955176
+				-87.94214246,41.8997945
+				-87.92826651,41.89831858
+				-87.91883862,41.89705721
+				-87.90969296,41.89450364
+				-87.89942664,41.89298991
+				-87.88458764,41.89148995
+				-87.87179503,41.8912868
+				-87.8690391,41.89148735
+				-87.86707618,41.89147253
+				-87.86412477,41.89118745
+				-87.85770494,41.89042698
+				-87.84778228,41.88933517
+				-87.82816698,41.8872011
+				-87.82056666,41.88673585
+				-87.79445661,41.88712743
+				-87.74983864,41.88769215
+				-87.73209788,41.88789651
+				-87.70629293,41.88830627
+				-87.68830826,41.88848542
+				-87.68398704,41.88851228
+				-87.66832869,41.88872495
+				-87.66203957,41.88894392
+				-87.65899572,41.88969743
+				-87.65135291,41.88980872
+				-87.64329643,41.88989119
+				-87.64111503,41.8888542
+				-87.64080208,41.88780007
+				-87.64059138,41.8822429
+			</coordinates>
+		</LineString>
+	</Placemark>
+	</Document>
+</kml>
