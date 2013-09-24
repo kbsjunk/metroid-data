@@ -619,71 +619,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.3718861166194,
-          -37.72609855668696
-        ]
-      },
-      "properties": {
-        "name": "Coldstream"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.3746555065526,
-          -37.69271929303731
-        ]
-      },
-      "properties": {
-        "name": "Yering"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.3731345891666,
-          -37.66149056099734
-        ]
-      },
-      "properties": {
-        "name": "Yarra Glen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4271468253005,
-          -37.65728753914716
-        ]
-      },
-      "properties": {
-        "name": "Tarrawarra"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.5098173494475,
-          -37.65553832633141
-        ]
-      },
-      "properties": {
-        "name": "Healesville"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           145.2441687790267,
           -37.82804108785177
         ]
@@ -781,97 +716,6 @@
       },
       "properties": {
         "name": "Belgrave"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.3564184385094,
-          -37.90760634395652
-        ]
-      },
-      "properties": {
-        "name": "Belgrave ( \"Puffing Billy\" )"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.3708985703543,
-          -37.91513979940824
-        ]
-      },
-      "properties": {
-        "name": "Selby"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4047680730151,
-          -37.92072583497088
-        ]
-      },
-      "properties": {
-        "name": "Menzies Creek"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4238883455402,
-          -37.92849211339406
-        ]
-      },
-      "properties": {
-        "name": "Clematis"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4395360032974,
-          -37.93380966524801
-        ]
-      },
-      "properties": {
-        "name": "Emerald"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4545310279987,
-          -37.93483390534067
-        ]
-      },
-      "properties": {
-        "name": "Nobelius"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4603387745522,
-          -37.93131956326397
-        ]
-      },
-      "properties": {
-        "name": "Lakeside ( Emerald Lake )"
       }
     },
     {
@@ -1067,19 +911,6 @@
       },
       "properties": {
         "name": "Watergardens"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.7697365622807,
-          -37.69511313288076
-        ]
-      },
-      "properties": {
-        "name": "Sydenham"
       }
     },
     {
@@ -2952,6 +2783,32 @@
       },
       "properties": {
         "name": "Pakenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roxburgh Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93550300598145,
+          -37.63797304611699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craigieburn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94288444519043,
+          -37.6022047550251
+        ]
       }
     }
   ]
