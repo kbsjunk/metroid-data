@@ -1,33 +1,121 @@
-{ "type": "FeatureCollection",
+{
+  "type": "FeatureCollection",
   "features": [
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
-      "properties": {"prop0": "value0"}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9664163346388,
+          -37.8185911123529
+        ]
       },
-    { "type": "Feature",
+      "properties": {
+        "name": "Flinders Street Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9738526442153,
+          -37.81209270963045
+        ]
+      },
+      "properties": {
+        "name": "Parliament Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9636851261178,
+          -37.80996218665096
+        ]
+      },
+      "properties": {
+        "name": "Melbourne Central Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9528920989287,
+          -37.81812361695039
+        ]
+      },
+      "properties": {
+        "name": "Southern Cross Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956351378399,
+          -37.81197910122754
+        ]
+      },
+      "properties": {
+        "name": "Flagstaff Station"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [102.0, 0.0], [103.0, 1.0], [104.0, 0.0], [105.0, 1.0]
+          [
+            144.9664163346388,
+            -37.8185911123529
+          ],
+          [
+            144.9750861,
+            -37.8150833
+          ],
+          [
+            144.9738526442153,
+            -37.81209270963045
+          ],
+          [
+            144.9711222,
+            -37.80788056
+          ],
+          [
+            144.9636851261178,
+            -37.80996218665096
+          ],
+          [
+            144.956351378399,
+            -37.81197910122754
+          ],
+          [
+            144.9513278,
+            -37.81345000000001
+          ],
+          [
+            144.9528920989287,
+            -37.81812361695039
+          ],
+          [
+            144.9549722,
+            -37.82128333
+          ],
+          [
+            144.9664163346388,
+            -37.8185911123529
           ]
-        },
-      "properties": {
-        "prop0": "value0",
-        "prop1": 0.0
-        }
+        ]
       },
-    { "type": "Feature",
-       "geometry": {
-         "type": "Polygon",
-         "coordinates": [
-           [ [100.0, 0.0], [101.0, 0.0], [101.0, 1.0],
-             [100.0, 1.0], [100.0, 0.0] ]
-           ]
-       },
-       "properties": {
-         "prop0": "value0",
-         "prop1": {"this": "that"}
-         }
-       }
-     ]
-   }
+      "properties": {
+        "name": "City Loop"
+      }
+    }
+  ]
+}
